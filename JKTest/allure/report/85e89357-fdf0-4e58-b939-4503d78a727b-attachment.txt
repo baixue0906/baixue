@@ -1,0 +1,2 @@
+<class 'dict'>
+{'code': 0, 'message': '', 'data': {'result': {'resolution': '1920*1080', 'systemVersion': 'Windows 10', 'network': '', 'version': '1.0.1.1', '_id': '5f49e057b8f93450a7a756c3', 'insertTime': '2020-08-29T04:57:59.124Z', '__v': 0}}}

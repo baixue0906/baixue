@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54522133-e8eb-4751-9a3d-0221ef3a9279" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/okapi$mitm.coverage" NAME="mitm Coverage Results" MODIFIED="1574321049281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/okapi$excel.coverage" NAME="excel Coverage Results" MODIFIED="1574322896127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/okapi$report.coverage" NAME="report Coverage Results" MODIFIED="1574311271378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yfi0SmE8OBjCH8z21azJKSWL1s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.7/lib/python3.7/site-packages" />
+      <recent name="$USER_HOME$/Library/Python/3.7/lib/python/site-packages" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.aa">
+    <configuration name="aa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="okapi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="okapi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="okapi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testcasejd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="okapi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcasejd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wayne_okapi" type="PythonConfigurationType" factoryName="Python">
+      <module name="okapi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Advanced\wayne\wayne\PT\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="okapi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for demo.run.test_run" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="okapi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;demo.run.test_run&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.wayne_okapi" />
+      <item itemvalue="Python.test4" />
+      <item itemvalue="Python.test5" />
+      <item itemvalue="Python.testcasejd" />
+      <item itemvalue="Python tests.pytest for demo.run.test_run" />
+      <item itemvalue="Python.aa" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.aa" />
+        <item itemvalue="Python.testcasejd" />
+        <item itemvalue="Python tests.pytest for demo.run.test_run" />
+        <item itemvalue="Python.test5" />
+        <item itemvalue="Python.test4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54522133-e8eb-4751-9a3d-0221ef3a9279" name="Default" comment="" />
+      <created>1574221399418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574221399418</updated>
+      <workItem from="1583339826697" duration="3604000" />
+      <workItem from="1583422110253" duration="782000" />
+      <workItem from="1583425428258" duration="2100000" />
+      <workItem from="1583459277641" duration="16924000" />
+      <workItem from="1583487683183" duration="299000" />
+      <workItem from="1583488019600" duration="29048000" />
+      <workItem from="1583890885738" duration="4990000" />
+      <workItem from="1584011249346" duration="10964000" />
+      <workItem from="1584166676794" duration="17393000" />
+      <workItem from="1584347412088" duration="3277000" />
+      <workItem from="1584667857988" duration="553000" />
+      <workItem from="1585012637475" duration="213000" />
+      <workItem from="1585101998829" duration="580000" />
+      <workItem from="1585202098697" duration="2354000" />
+      <workItem from="1585321755396" duration="69000" />
+      <workItem from="1587608540624" duration="1453000" />
+      <workItem from="1587640669452" duration="4474000" />
+      <workItem from="1589332253071" duration="771000" />
+      <workItem from="1589333143447" duration="1415000" />
+      <workItem from="1589420426574" duration="7537000" />
+      <workItem from="1589764543608" duration="27000" />
+      <workItem from="1589904276325" duration="5679000" />
+      <workItem from="1590467410514" duration="594000" />
+      <workItem from="1590543710542" duration="2366000" />
+      <workItem from="1591144636076" duration="599000" />
+      <workItem from="1592219928202" duration="6082000" />
+      <workItem from="1592635521586" duration="14000" />
+      <workItem from="1592959115499" duration="4477000" />
+      <workItem from="1593313153010" duration="4635000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589504975985">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589504975985" />
+    <state x="728" y="277" key="FileChooserDialogImpl" timestamp="1592564874238">
+      <screen x="0" y="0" width="1920" height="1016" />
+    </state>
+    <state x="728" y="283" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589504970248" />
+    <state x="728" y="277" key="FileChooserDialogImpl/1920.75.1920.1016/0.0.1920.1016@0.0.1920.1016" timestamp="1592564874238" />
+    <state x="2706" y="847" key="FileChooserDialogImpl/2013.553.1827.1080/93.0.1827.1080@2013.553.1827.1080" timestamp="1587952765534" />
+    <state x="786" y="294" key="FileChooserDialogImpl/2013.75.1827.1080/93.0.1827.1080@93.0.1827.1080" timestamp="1592221401155" />
+    <state x="786" y="294" key="FileChooserDialogImpl/93.0.1827.1080/-1858.-553.1858.1080@93.0.1827.1080" timestamp="1587717450336" />
+    <state width="1877" height="173" key="GridCell.Tab.0.bottom" timestamp="1593344812539">
+      <screen x="1920" y="75" width="1920" height="1016" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589505089141" />
+    <state width="1877" height="287" key="GridCell.Tab.0.bottom/1920.553.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587609250156" />
+    <state width="1877" height="173" key="GridCell.Tab.0.bottom/1920.75.1920.1016/0.0.1920.1016@1920.75.1920.1016" timestamp="1593344812539" />
+    <state width="1784" height="295" key="GridCell.Tab.0.bottom/2013.75.1827.1080/93.0.1827.1080@93.0.1827.1080" timestamp="1592221330314" />
+    <state width="1877" height="173" key="GridCell.Tab.0.center" timestamp="1593344812538">
+      <screen x="1920" y="75" width="1920" height="1016" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589505089141" />
+    <state width="1877" height="287" key="GridCell.Tab.0.center/1920.553.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587609250155" />
+    <state width="1877" height="173" key="GridCell.Tab.0.center/1920.75.1920.1016/0.0.1920.1016@1920.75.1920.1016" timestamp="1593344812538" />
+    <state width="1784" height="295" key="GridCell.Tab.0.center/2013.75.1827.1080/93.0.1827.1080@93.0.1827.1080" timestamp="1592221330314" />
+    <state width="1877" height="173" key="GridCell.Tab.0.left" timestamp="1593344812537">
+      <screen x="1920" y="75" width="1920" height="1016" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589505089141" />
+    <state width="1877" height="287" key="GridCell.Tab.0.left/1920.553.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587609250155" />
+    <state width="1877" height="173" key="GridCell.Tab.0.left/1920.75.1920.1016/0.0.1920.1016@1920.75.1920.1016" timestamp="1593344812537" />
+    <state width="1784" height="295" key="GridCell.Tab.0.left/2013.75.1827.1080/93.0.1827.1080@93.0.1827.1080" timestamp="1592221330314" />
+    <state width="1877" height="173" key="GridCell.Tab.0.right" timestamp="1593344812538">
+      <screen x="1920" y="75" width="1920" height="1016" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589505089141" />
+    <state width="1877" height="287" key="GridCell.Tab.0.right/1920.553.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587609250155" />
+    <state width="1877" height="173" key="GridCell.Tab.0.right/1920.75.1920.1016/0.0.1920.1016@1920.75.1920.1016" timestamp="1593344812538" />
+    <state width="1784" height="295" key="GridCell.Tab.0.right/2013.75.1827.1080/93.0.1827.1080@93.0.1827.1080" timestamp="1592221330314" />
+    <state x="525" y="324" key="SettingsEditor" timestamp="1589505087374">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="525" y="324" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589505087374" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1587609159558">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/1920.553.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587609159558" />
+    <state x="633" y="228" width="786" height="624" key="find.popup" timestamp="1592220789508">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state x="567" y="220" width="786" height="600" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589332823672" />
+    <state x="567" y="220" width="786" height="600" key="find.popup/1920.553.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587609248241" />
+    <state x="633" y="228" width="786" height="624" key="find.popup/2013.75.1827.1080/93.0.1827.1080@93.0.1827.1080" timestamp="1592220789508" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/okapi_test$pytest_for_demo1_run_test_run.coverage" NAME="pytest for demo1.run.test_run Coverage Results" MODIFIED="1584195622301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/wayne_okapi$pytest_in_demo_run_py.coverage" NAME="pytest in demo_run.py Coverage Results" MODIFIED="1585202281043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/okapi_test$Http.coverage" NAME="Http Coverage Results" MODIFIED="1583477830361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/okapi_test$demo.coverage" NAME="demo Coverage Results" MODIFIED="1584196618781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/okapi_test$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1584177774620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/okapi_test$pytest_for_demo5_run_test_run.coverage" NAME="pytest for demo5.run.test_run Coverage Results" MODIFIED="1584181066951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/wayne_okapi$demo.coverage" NAME="demo Coverage Results" MODIFIED="1584350345042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/okapi$report.coverage" NAME="report Coverage Results" MODIFIED="1583422233465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/okapi_test$pytest_for_demo_test_run_test_run.coverage" NAME="pytest for demo_test.run.test_run Coverage Results" MODIFIED="1584195198411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/okapi_test$pytest_for_demodemo_run_test_run.coverage" NAME="pytest for demodemo.run.test_run Coverage Results" MODIFIED="1584181512952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/okapi_test$pytest_for_demo4_run_test_run.coverage" NAME="pytest for demo4.run.test_run Coverage Results" MODIFIED="1584181268994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/wayne_okapi$demo_run.coverage" NAME="demo_run Coverage Results" MODIFIED="1585202341705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/okapi_test$pytest_in_demo33_py.coverage" NAME="pytest in demo33.py Coverage Results" MODIFIED="1584181094866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/okapi$okapi.coverage" NAME="okapi Coverage Results" MODIFIED="1583373339903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/okapi$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1583422602692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/okapi_test$pytest_in_demo5_py.coverage" NAME="pytest in demo5.py Coverage Results" MODIFIED="1584180995483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/okapi$demo.coverage" NAME="demo Coverage Results" MODIFIED="1583426580099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/okapi_test$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1583739363736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/okapi_test$pytest_in_demo4_py.coverage" NAME="pytest in demo4.py Coverage Results" MODIFIED="1584180981113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/wayne_okapi$pytest_for_demo_run_run_test_run.coverage" NAME="pytest for demo_run.run.test_run Coverage Results" MODIFIED="1585202196738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/wayne_okapi$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1587609250140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/okapi_test$pytest_for_demo3_run_test_run.coverage" NAME="pytest for demo3.run.test_run Coverage Results" MODIFIED="1584181135222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/wayne_okapi$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1592220983536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/okapi_test$pytest_in_demo3_py.coverage" NAME="pytest in demo3.py Coverage Results" MODIFIED="1584181174571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/okapi_test$operation_excel.coverage" NAME="operation_excel Coverage Results" MODIFIED="1583487137055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/wayne_okapi$report.coverage" NAME="report Coverage Results" MODIFIED="1585202253001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/okapi_test$demo3.coverage" NAME="demo3 Coverage Results" MODIFIED="1583472911924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/okapi_test$report.coverage" NAME="report Coverage Results" MODIFIED="1583490008414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/wayne_okapi$testcasejd.coverage" NAME="testcasejd Coverage Results" MODIFIED="1592961906116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/okapi_test$pytest_in_demodemo_py.coverage" NAME="pytest in demodemo.py Coverage Results" MODIFIED="1584181415257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/wayne_okapi$aa.coverage" NAME="aa Coverage Results" MODIFIED="1593344812523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/okapi_test$demo_history.coverage" NAME="demo-history Coverage Results" MODIFIED="1583807206885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/wayne_okapi$pytest_for_demo_run_test_run.coverage" NAME="pytest for demo.run.test_run Coverage Results" MODIFIED="1592221330212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

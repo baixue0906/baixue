@@ -1,0 +1,1 @@
+{'code': 0, 'message': 'Success', 'data': {'tmpToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1OTg1ODY5NTEsImlhdCI6MTU5ODU4Njg5MSwibmJmIjoxNTk4NTg2NzcxLCJzeXN0eXBlIjoid2ViIiwidXNlcl9pZCI6IjMxMjE1NzE2In0.BvOswI1HuEOxh9OE2y_UC840Bb9-4XWGW6qPxVjRW_I'}}

@@ -1,0 +1,11 @@
+3.测试用例共有12行，12列
+{'code': 0, 'message': 'Success', 'data': [{'id': 3142319, 'term': '第二册', 'subject': '数学', 'grades': '高一', 'studyYear': '2019-2020', 'standard': 4, 'version': '人教A版', 'artScience': 0}, {'id': 2817678, 'term': '第一册', 'subject': '数学', 'grades': '高一', 'studyYear': '2019-2020', 'standard': 4, 'version': '人教A版', 'artScience': 0}]}
+{'code': 100002002, 'message': 'Parameter Invalid', 'data': None}
+{'code': 100002002, 'message': 'Parameter Invalid', 'data': None}
+{'code': 100002002, 'message': 'Parameter Invalid', 'data': None}
+{'code': 100002002, 'message': 'Parameter Invalid', 'data': None}
+{'code': 100002002, 'message': 'Parameter Invalid', 'data': None}
+{'code': 100002002, 'message': 'Parameter Invalid', 'data': None}
+{'code': 0, 'message': 'Success', 'data': [{'id': 3142319, 'term': '第二册', 'subject': '数学', 'grades': '高一', 'studyYear': '2019-2020', 'standard': 4, 'version': '人教A版', 'artScience': 0}, {'id': 2817678, 'term': '第一册', 'subject': '数学', 'grades': '高一', 'studyYear': '2019-2020', 'standard': 4, 'version': '人教A版', 'artScience': 0}, {'id': 3639802, 'term': '第一册', 'subject': '数学', 'grades': '高一', 'studyYear': '2020-2021', 'standard': 4, 'version': '人教A版', 'artScience': 0}]}
+{'code': 0, 'message': 'Success', 'data': [{'id': 3639802, 'term': '第一册', 'subject': '数学', 'grades': '高一', 'studyYear': '2020-2021', 'standard': 4, 'version': '人教A版', 'artScience': 0}, {'id': 3966790, 'term': '选择性必修1', 'subject': '数学', 'grades': '高二', 'studyYear': '2020-2021', 'standard': 4, 'version': '人教A版', 'artScience': 0}]}
+{'code': 0, 'message': 'Success', 'data': [{'id': 2817678, 'term': '第一册', 'subject': '数学', 'grades': '高一', 'studyYear': '2019-2020', 'standard': 4, 'version': '人教A版', 'artScience': 0}, {'id': 3142319, 'term': '第二册', 'subject': '数学', 'grades': '高一', 'studyYear': '2019-2020', 'standard': 4, 'version': '人教A版', 'artScience': 0}, {'id': 3639802, 'term': '第一册', 'subject': '数学', 'grades': '高一', 'studyYear': '2020-2021', 'standard': 4, 'version': '人教A版', 'artScience': 0}]}

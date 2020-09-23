@@ -1,0 +1,90 @@
+{
+  "uid" : "c0af2ba539d42c5c",
+  "name" : "赠送用户免费正式课",
+  "fullName" : "cases.test_give_formal_course.Test_get_formal_courses#test_001",
+  "historyId" : "085e281490d8cfbeb8dfb4ce8ceb1082",
+  "time" : {
+    "start" : 1596821887204,
+    "stop" : 1596822007871,
+    "duration" : 120667
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "login_new",
+    "time" : {
+      "start" : 1596821887053,
+      "stop" : 1596821887201,
+      "duration" : 148
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c45a1c590802aec2",
+      "name" : "stdout",
+      "source" : "c45a1c590802aec2.txt",
+      "type" : "text/plain",
+      "size" : 1336
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "赠送用户免费正式课"
+  }, {
+    "name" : "parentSuite",
+    "value" : "cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_give_formal_course"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_get_formal_courses"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-C1ENUNC"
+  }, {
+    "name" : "thread",
+    "value" : "89276-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "cases.test_give_formal_course"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c0af2ba539d42c5c.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,2 @@
+<class 'dict'>
+{'code': 0, 'message': '', 'data': {'result': {'resolution': '1920*1080', 'systemVersion': '', 'network': 'wifi', 'version': '1.0.1.1', '_id': '5f49e057b8f93450a7a756c2', 'insertTime': '2020-08-29T04:57:59.093Z', '__v': 0}}}

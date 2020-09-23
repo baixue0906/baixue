@@ -1,0 +1,241 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "et-201809131052",
+    "children" : [ {
+      "name" : "38584-MainThread",
+      "children" : [ {
+        "name" : "获取学期模块成功",
+        "uid" : "7cea7003f40bc13a",
+        "parentUid" : "ed41d84ac199b51e8638408a701fe8de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1599819063437,
+          "stop" : 1599819063578,
+          "duration" : 141
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "获取销售课成功",
+        "uid" : "11a09b6746876243",
+        "parentUid" : "ed41d84ac199b51e8638408a701fe8de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1599819062946,
+          "stop" : 1599819063432,
+          "duration" : 486
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "获取教师列表缺少必要参数",
+        "uid" : "18ab1665a0dddeb0",
+        "parentUid" : "ed41d84ac199b51e8638408a701fe8de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1599819064311,
+          "stop" : 1599819064397,
+          "duration" : 86
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "获取教师资质列表成功",
+        "uid" : "74bc28ffa3d51009",
+        "parentUid" : "ed41d84ac199b51e8638408a701fe8de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1599819064517,
+          "stop" : 1599819064529,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_01[subject-grade-version-studyYear-expected0]",
+        "uid" : "2921cc61f5e256d",
+        "parentUid" : "ed41d84ac199b51e8638408a701fe8de",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599819062685,
+          "stop" : 1599819062715,
+          "duration" : 30
+        },
+        "flaky" : false,
+        "parameters" : [ "'expected'", "'grade'", "'studyYear'", "'subject'", "'version'" ]
+      }, {
+        "name" : "test_01[subject-grade-version-studyYear-expected2]",
+        "uid" : "eac9a7642071fc68",
+        "parentUid" : "ed41d84ac199b51e8638408a701fe8de",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599819062816,
+          "stop" : 1599819062852,
+          "duration" : 36
+        },
+        "flaky" : false,
+        "parameters" : [ "'expected'", "'grade'", "'studyYear'", "'subject'", "'version'" ]
+      }, {
+        "name" : "添加老师成功",
+        "uid" : "46560255982bea4c",
+        "parentUid" : "ed41d84ac199b51e8638408a701fe8de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1599819062131,
+          "stop" : 1599819062333,
+          "duration" : 202
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_01[subject-grade-version-studyYear-expected1]",
+        "uid" : "c7c848f33db66d1f",
+        "parentUid" : "ed41d84ac199b51e8638408a701fe8de",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599819062772,
+          "stop" : 1599819062802,
+          "duration" : 30
+        },
+        "flaky" : false,
+        "parameters" : [ "'expected'", "'grade'", "'studyYear'", "'subject'", "'version'" ]
+      }, {
+        "name" : "获取教师列表成功",
+        "uid" : "35fd315c322198a",
+        "parentUid" : "ed41d84ac199b51e8638408a701fe8de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1599819064195,
+          "stop" : 1599819064303,
+          "duration" : 108
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_01[-初中-人教版-2019-Parameter Invalid]",
+        "uid" : "10be9c9aa52cffad",
+        "parentUid" : "ed41d84ac199b51e8638408a701fe8de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1599819062624,
+          "stop" : 1599819062675,
+          "duration" : 51
+        },
+        "flaky" : false,
+        "parameters" : [ "'Parameter Invalid'", "'初中'", "'2019'", "''", "'人教版'" ]
+      }, {
+        "name" : "test_01[subject-grade-version-studyYear-expected3]",
+        "uid" : "25b41f9d59d5867d",
+        "parentUid" : "ed41d84ac199b51e8638408a701fe8de",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599819062866,
+          "stop" : 1599819062894,
+          "duration" : 28
+        },
+        "flaky" : false,
+        "parameters" : [ "'expected'", "'grade'", "'studyYear'", "'subject'", "'version'" ]
+      }, {
+        "name" : "获取版本数据成功",
+        "uid" : "f5a009eddf0e032a",
+        "parentUid" : "ed41d84ac199b51e8638408a701fe8de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1599819063874,
+          "stop" : 1599819064191,
+          "duration" : 317
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "更新老师缺少必要参数",
+        "uid" : "cc20ad909d93dbcc",
+        "parentUid" : "ed41d84ac199b51e8638408a701fe8de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1599819064637,
+          "stop" : 1599819064721,
+          "duration" : 84
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_01[subject-grade-version-studyYear-expected4]",
+        "uid" : "67d3686194831172",
+        "parentUid" : "ed41d84ac199b51e8638408a701fe8de",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599819062906,
+          "stop" : 1599819062934,
+          "duration" : 28
+        },
+        "flaky" : false,
+        "parameters" : [ "'expected'", "'grade'", "'studyYear'", "'subject'", "'version'" ]
+      }, {
+        "name" : "更新老师成功",
+        "uid" : "d8a38cffcf7cd5c6",
+        "parentUid" : "ed41d84ac199b51e8638408a701fe8de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1599819064533,
+          "stop" : 1599819064634,
+          "duration" : 101
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "添加老师缺少必要参数",
+        "uid" : "7117bcef22277ac",
+        "parentUid" : "ed41d84ac199b51e8638408a701fe8de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1599819062342,
+          "stop" : 1599819062566,
+          "duration" : 224
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "获取教师列表token失效",
+        "uid" : "9556812a4c2081e4",
+        "parentUid" : "ed41d84ac199b51e8638408a701fe8de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1599819064401,
+          "stop" : 1599819064509,
+          "duration" : 108
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "获取教材成功",
+        "uid" : "dbb374872322311d",
+        "parentUid" : "ed41d84ac199b51e8638408a701fe8de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1599819063581,
+          "stop" : 1599819063870,
+          "duration" : 289
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_01[数学-初中-人教版-2019-Success]",
+        "uid" : "10af0b06ff2fb397",
+        "parentUid" : "ed41d84ac199b51e8638408a701fe8de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1599819062571,
+          "stop" : 1599819062616,
+          "duration" : 45
+        },
+        "flaky" : false,
+        "parameters" : [ "'Success'", "'初中'", "'2019'", "'数学'", "'人教版'" ]
+      } ],
+      "uid" : "ed41d84ac199b51e8638408a701fe8de"
+    } ],
+    "uid" : "9d45fe80e128e437c8cbdcb6129e4f82"
+  } ]
+}

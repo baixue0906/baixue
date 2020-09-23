@@ -1,0 +1,6 @@
+3.测试用例共有6行，10列
+{'code': 0, 'message': 'Success', 'data': [{'term': '上学期', 'grade': '初二,初三,初一', 'standard': 2}, {'term': '下学期', 'grade': '初二,初三,初一', 'standard': 2}, {'term': '全一册', 'grade': '初三', 'standard': 2}]}
+{'code': 100002002, 'message': 'Parameter Invalid', 'data': None}
+{'code': 100002002, 'message': 'Parameter Invalid', 'data': None}
+{'code': 100002002, 'message': 'Parameter Invalid', 'data': None}
+{'code': 100002002, 'message': 'Parameter Invalid', 'data': None}

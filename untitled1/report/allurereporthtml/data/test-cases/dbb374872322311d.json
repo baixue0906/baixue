@@ -1,0 +1,74 @@
+{
+  "uid" : "dbb374872322311d",
+  "name" : "获取教材成功",
+  "fullName" : "test_case.test_getTextbook.Test_getCourse#test_001",
+  "historyId" : "d06cc5fb181b27f02ca55b73ec700cf9",
+  "time" : {
+    "start" : 1599819063581,
+    "stop" : 1599819063870,
+    "duration" : 289
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "192196ba7fb6a2b4",
+      "name" : "stdout",
+      "source" : "192196ba7fb6a2b4.txt",
+      "type" : "text/plain",
+      "size" : 2233
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "公共获取教材"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_getTextbook"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_getCourse"
+  }, {
+    "name" : "host",
+    "value" : "et-201809131052"
+  }, {
+    "name" : "thread",
+    "value" : "38584-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_getTextbook"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dbb374872322311d.json",
+  "parameterValues" : [ ]
+}

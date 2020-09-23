@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f40488f-8fa3-4fcc-af8b-8145672ae1e7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PP0A8MIPnan7eFpPB8dbrNSr4F" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../requests_pytest_clj" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="untitled" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="untitled" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\baixue\PycharmProjects\untitled\venv" />
+      <recent name="C:\Users\baixue\PycharmProjects\untitled" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\baixue\PycharmProjects\untitled\test_course" />
+      <recent name="$PROJECT_DIR$/Lib" />
+      <recent name="$PROJECT_DIR$/Lib_common" />
+      <recent name="$PROJECT_DIR$/Lib_api" />
+      <recent name="C:\Users\baixue\PycharmProjects\untitled\test_case" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_activeSingle.Test_getSingle.test_activeSingle">
+    <configuration name="addTeacherInfo" type="PythonConfigurationType" factoryName="Python">
+      <module name="Coursemg_Interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\baixue\PycharmProjects\untitled\CoursemgCase\Test_AddTeacherInfo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_activeSingle.Test_getSingle.test_activeSingle" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Coursemg_Interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_course" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_activeSingle.Test_getSingle.test_activeSingle&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_course.test_getSingle.Test_getSingle" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Coursemg_Interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_course.test_getSingle.Test_getSingle&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_course.test_getSingle.Test_getSingle.test_getSingle" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Coursemg_Interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_course.test_getSingle.Test_getSingle.test_getSingle&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_getSingle.Test_getSingle" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Coursemg_Interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_course" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_getSingle.Test_getSingle&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_getSingle.Test_getSingle.test_getSingle" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Coursemg_Interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_course" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_getSingle.Test_getSingle.test_getSingle&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_activeSingle.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Coursemg_Interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_course" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_course/test_activeSingle.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_getSingle.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Coursemg_Interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_course" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_course/test_getSingle.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.addTeacherInfo" />
+      <item itemvalue="Python tests.pytest in test_activeSingle.py" />
+      <item itemvalue="Python tests.pytest for test_getSingle.Test_getSingle.test_getSingle" />
+      <item itemvalue="Python tests.pytest in test_getSingle.py" />
+      <item itemvalue="Python tests.pytest for test_getSingle.Test_getSingle" />
+      <item itemvalue="Python tests.pytest for test_activeSingle.Test_getSingle.test_activeSingle" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_activeSingle.Test_getSingle.test_activeSingle" />
+        <item itemvalue="Python tests.pytest in test_getSingle.py" />
+        <item itemvalue="Python tests.pytest for test_getSingle.Test_getSingle" />
+        <item itemvalue="Python tests.pytest for test_getSingle.Test_getSingle.test_getSingle" />
+        <item itemvalue="Python tests.pytest in test_activeSingle.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f40488f-8fa3-4fcc-af8b-8145672ae1e7" name="Default Changelist" comment="" />
+      <created>1565760277065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565760277065</updated>
+      <workItem from="1565760291811" duration="8273000" />
+      <workItem from="1565771385835" duration="5317000" />
+      <workItem from="1566301696028" duration="1262000" />
+      <workItem from="1567676770967" duration="442000" />
+      <workItem from="1568432123064" duration="75000" />
+      <workItem from="1568432219460" duration="22000" />
+      <workItem from="1568432323161" duration="9000" />
+      <workItem from="1568432344935" duration="623000" />
+      <workItem from="1571626021422" duration="2506000" />
+      <workItem from="1575958573257" duration="2081000" />
+      <workItem from="1588755825728" duration="882000" />
+      <workItem from="1588815125346" duration="55000" />
+      <workItem from="1588817084483" duration="15049000" />
+      <workItem from="1589269546077" duration="10610000" />
+      <workItem from="1593399755656" duration="7125000" />
+      <workItem from="1593582548006" duration="16891000" />
+      <workItem from="1593767763935" duration="4128000" />
+      <workItem from="1594026300474" duration="6782000" />
+      <workItem from="1594185645590" duration="3441000" />
+      <workItem from="1595809232970" duration="2025000" />
+      <workItem from="1595811280189" duration="21366000" />
+      <workItem from="1596424218068" duration="33173000" />
+      <workItem from="1596582559126" duration="3320000" />
+      <workItem from="1596693355128" duration="32319000" />
+      <workItem from="1597049423837" duration="14922000" />
+      <workItem from="1597384726763" duration="5334000" />
+      <workItem from="1597621417192" duration="1067000" />
+      <workItem from="1597627755106" duration="184000" />
+      <workItem from="1597627976039" duration="118000" />
+      <workItem from="1597632990169" duration="2658000" />
+      <workItem from="1597645412918" duration="34000" />
+      <workItem from="1597893373486" duration="5758000" />
+      <workItem from="1598234319211" duration="6983000" />
+      <workItem from="1598241627992" duration="2172000" />
+      <workItem from="1598246715506" duration="1195000" />
+      <workItem from="1598247960840" duration="3385000" />
+      <workItem from="1598251368789" duration="241000" />
+      <workItem from="1598251642245" duration="12753000" />
+      <workItem from="1598321749714" duration="1828000" />
+      <workItem from="1598675870407" duration="3143000" />
+      <workItem from="1598832146530" duration="1026000" />
+      <workItem from="1598833189420" duration="19672000" />
+      <workItem from="1598867982572" duration="11245000" />
+      <workItem from="1598945544277" duration="6558000" />
+      <workItem from="1600040692702" duration="7371000" />
+      <workItem from="1600048151019" duration="1115000" />
+      <workItem from="1600049398537" duration="3579000" />
+      <workItem from="1600055104689" duration="33044000" />
+      <workItem from="1600480598705" duration="24845000" />
+      <workItem from="1600738477050" duration="29891000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1419" height="88" key="GridCell.Tab.0.bottom" timestamp="1599996363733">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1419" height="88" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1599996363733" />
+    <state width="1419" height="174" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1599958809182" />
+    <state width="1419" height="131" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1599924416782" />
+    <state width="1419" height="196" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1599922866728" />
+    <state width="1419" height="88" key="GridCell.Tab.0.center" timestamp="1599996363733">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1419" height="88" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1599996363733" />
+    <state width="1419" height="174" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1599958809182" />
+    <state width="1419" height="131" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1599924416781" />
+    <state width="1419" height="196" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1599922866728" />
+    <state width="1419" height="88" key="GridCell.Tab.0.left" timestamp="1599996363733">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1419" height="88" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1599996363733" />
+    <state width="1419" height="174" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1599958809182" />
+    <state width="1419" height="131" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1599924416781" />
+    <state width="1419" height="196" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1599922866727" />
+    <state width="1419" height="88" key="GridCell.Tab.0.right" timestamp="1599996363733">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1419" height="88" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1599996363733" />
+    <state width="1419" height="174" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1599958809182" />
+    <state width="1419" height="131" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1599924416782" />
+    <state width="1419" height="196" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1599922866728" />
+    <state x="221" y="63" key="SettingsEditor" timestamp="1599974116329">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="221" y="63" key="SettingsEditor/0.23.1440.801@0.23.1440.801" timestamp="1599974116329" />
+    <state x="221" y="63" key="SettingsEditor/0.23.1440.806@0.23.1440.806" timestamp="1599921052820" />
+    <state x="100" y="123" width="1240" height="601" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599978910431">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="100" y="123" width="1240" height="601" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.801@0.23.1440.801" timestamp="1599978910431" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$get_token.coverage" NAME="get_token Coverage Results" MODIFIED="1600041226151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lib/Lib_common" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$get_exceldata.coverage" NAME="get_exceldata Coverage Results" MODIFIED="1600068025173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lib/Lib_common" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_in_test_addTeacher_py.coverage" NAME="pytest in test_addTeacher.py Coverage Results" MODIFIED="1600682313101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_activeSingle_Test_getSingle_test_activeSingle.coverage" NAME="pytest for test_activeSingle.Test_getSingle.test_activeSingle Coverage Results" MODIFIED="1600855666952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_course" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_getteacherlist_Test_getteacherlist_test_003.coverage" NAME="pytest for test_getteacherlist.Test_getteacherlist.test_003 Coverage Results" MODIFIED="1600041207103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$get_excel.coverage" NAME="get_excel Coverage Results" MODIFIED="1600041258432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lib/Lib_common" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_updateTeacher_Test_addTeacher.coverage" NAME="pytest for test_updateTeacher.Test_addTeacher Coverage Results" MODIFIED="1600066301629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_in_test_updateTeacher_py.coverage" NAME="pytest in test_updateTeacher.py Coverage Results" MODIFIED="1600066349174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$run_all_cases.coverage" NAME="run_all_cases Coverage Results" MODIFIED="1600682654682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/run_cases" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$api_getSingle.coverage" NAME="api_getSingle Coverage Results" MODIFIED="1600743876741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lib/Lib_api" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_getSingle_Test_getSingle_test_getSingle.coverage" NAME="pytest for test_getSingle.Test_getSingle.test_getSingle Coverage Results" MODIFIED="1600855207927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_course" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_qualificationinfo_Test_getqualificationinfo_test_001.coverage" NAME="pytest for test_qualificationinfo.Test_getqualificationinfo.test_001 Coverage Results" MODIFIED="1600048553643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$get_loginuserToken.coverage" NAME="get_loginuserToken Coverage Results" MODIFIED="1600847187530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lib/Lib_common" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_teacherList_Test_teacherList_test_teacherList3.coverage" NAME="pytest for test_teacherList.Test_teacherList.test_teacherList3 Coverage Results" MODIFIED="1600681968275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_activeSingle_Test_getSingle.coverage" NAME="pytest for test_activeSingle.Test_getSingle Coverage Results" MODIFIED="1600844584346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_course" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_teacherList_Test_teacherList_test_teacherList1.coverage" NAME="pytest for test_teacherList.Test_teacherList.test_teacherList1 Coverage Results" MODIFIED="1600065473303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$api_commonData.coverage" NAME="api_commonData Coverage Results" MODIFIED="1600068297658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lib/Lib_api" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_addTeacher_test_addTeacher.coverage" NAME="pytest for test_addTeacher.test_addTeacher Coverage Results" MODIFIED="1600045779865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_getSingle_Test_getSingle.coverage" NAME="pytest for test_getSingle.Test_getSingle Coverage Results" MODIFIED="1600855293085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_course" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_qualificationinfo_test_getQualificationInfo2.coverage" NAME="pytest for test_qualificationinfo.test_getQualificationInfo2 Coverage Results" MODIFIED="1600739077154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_in_test_getTerm_py.coverage" NAME="pytest in test_getTerm.py Coverage Results" MODIFIED="1600040870156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_teacherList_Test_teacherList.coverage" NAME="pytest for test_teacherList.Test_teacherList Coverage Results" MODIFIED="1600066051577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_teacherList_test_getTeacherlist.coverage" NAME="pytest for test_teacherList.test_getTeacherlist Coverage Results" MODIFIED="1600042603180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_updateTeacher_Test_updateTeacher.coverage" NAME="pytest for test_updateTeacher.Test_updateTeacher Coverage Results" MODIFIED="1600066439980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_in_test_getSingle_py.coverage" NAME="pytest in test_getSingle.py Coverage Results" MODIFIED="1600855321704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_course" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_in_test_activeSingle_py.coverage" NAME="pytest in test_activeSingle.py Coverage Results" MODIFIED="1600853791832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_course" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$get_db.coverage" NAME="get_db Coverage Results" MODIFIED="1600682560766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lib/Lib_common" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$api_activeCourse.coverage" NAME="api_activeCourse Coverage Results" MODIFIED="1600853497684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lib/Lib_api" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_in_test_qualificationinfo_py.coverage" NAME="pytest in test_qualificationinfo.py Coverage Results" MODIFIED="1600738881981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_activeSingle_Test_getSingle_test_getSingle.coverage" NAME="pytest for test_activeSingle.Test_getSingle.test_getSingle Coverage Results" MODIFIED="1600844562570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_course" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_teacherList_test_getTeacherlist2.coverage" NAME="pytest for test_teacherList.test_getTeacherlist2 Coverage Results" MODIFIED="1600043552164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$api_teacherInfo.coverage" NAME="api_teacherInfo Coverage Results" MODIFIED="1600048424859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lib/Lib_api" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_qualificationinfo_Test_getqualificationinfo.coverage" NAME="pytest for test_qualificationinfo.Test_getqualificationinfo Coverage Results" MODIFIED="1600041424781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_in_test_teacherList_py.coverage" NAME="pytest in test_teacherList.py Coverage Results" MODIFIED="1600682059747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_teacherList_test_getTeacherlist1.coverage" NAME="pytest for test_teacherList.test_getTeacherlist1 Coverage Results" MODIFIED="1600043761405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$get_userToken.coverage" NAME="get_userToken Coverage Results" MODIFIED="1600743865238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lib/Lib_common" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_in_test_addteacher_py.coverage" NAME="pytest in test_addTeacher.py Coverage Results" MODIFIED="1600045819455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$dbutils.coverage" NAME="dbutils Coverage Results" MODIFIED="1600497839738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/database" />
+  </component>
+</project>

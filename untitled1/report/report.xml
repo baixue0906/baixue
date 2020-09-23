@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="5" hostname="et-201809131052" name="pytest" skipped="0" tests="19" time="2.862" timestamp="2020-09-11T18:11:01.862186"><testcase classname="test_case.test_addteacher.Test_addteacher" file="test_case\test_addteacher.py" line="9" name="test_001" time="0.203"></testcase><testcase classname="test_case.test_addteacher.Test_addteacher" file="test_case\test_addteacher.py" line="27" name="test_002" time="0.225"></testcase><testcase classname="test_case.test_copy" file="test_case\test_copy.py" line="16" name="test_01[\u6570\u5b66-\u521d\u4e2d-\u4eba\u6559\u7248-2019-Success]" time="0.050"></testcase><testcase classname="test_case.test_copy" file="test_case\test_copy.py" line="16" name="test_01[-\u521d\u4e2d-\u4eba\u6559\u7248-2019-Parameter Invalid]" time="0.058"></testcase><testcase classname="test_case.test_copy001" file="test_case\test_copy001.py" line="18" name="test_01[subject-grade-version-studyYear-expected0]" time="0.036"><failure message="AssertionError: assert &apos;Success&apos; == &apos;expected&apos;
+  - expected
+  + Success">subject = &apos;subject&apos;, grade = &apos;grade&apos;, version = &apos;version&apos;
+studyYear = &apos;studyYear&apos;, expected = &apos;expected&apos;
+
+    @pytest.mark.parametrize(&quot;subject,grade,version,studyYear,expected&quot;, data)
+    
+    def test_01(subject,grade,version,studyYear,expected):
+&gt;       assert TestgetTerm.getTerm(subject,grade,version,studyYear) == expected
+E       AssertionError: assert &apos;Success&apos; == &apos;expected&apos;
+E         - expected
+E         + Success
+
+..\test_case\test_copy001.py:22: AssertionError</failure></testcase><testcase classname="test_case.test_copy001" file="test_case\test_copy001.py" line="18" name="test_01[subject-grade-version-studyYear-expected1]" time="0.038"><failure message="AssertionError: assert &apos;Success&apos; == &apos;expected&apos;
+  - expected
+  + Success">subject = &apos;subject&apos;, grade = &apos;grade&apos;, version = &apos;version&apos;
+studyYear = &apos;studyYear&apos;, expected = &apos;expected&apos;
+
+    @pytest.mark.parametrize(&quot;subject,grade,version,studyYear,expected&quot;, data)
+    
+    def test_01(subject,grade,version,studyYear,expected):
+&gt;       assert TestgetTerm.getTerm(subject,grade,version,studyYear) == expected
+E       AssertionError: assert &apos;Success&apos; == &apos;expected&apos;
+E         - expected
+E         + Success
+
+..\test_case\test_copy001.py:22: AssertionError</failure></testcase><testcase classname="test_case.test_copy001" file="test_case\test_copy001.py" line="18" name="test_01[subject-grade-version-studyYear-expected2]" time="0.042"><failure message="AssertionError: assert &apos;Success&apos; == &apos;expected&apos;
+  - expected
+  + Success">subject = &apos;subject&apos;, grade = &apos;grade&apos;, version = &apos;version&apos;
+studyYear = &apos;studyYear&apos;, expected = &apos;expected&apos;
+
+    @pytest.mark.parametrize(&quot;subject,grade,version,studyYear,expected&quot;, data)
+    
+    def test_01(subject,grade,version,studyYear,expected):
+&gt;       assert TestgetTerm.getTerm(subject,grade,version,studyYear) == expected
+E       AssertionError: assert &apos;Success&apos; == &apos;expected&apos;
+E         - expected
+E         + Success
+
+..\test_case\test_copy001.py:22: AssertionError</failure></testcase><testcase classname="test_case.test_copy001" file="test_case\test_copy001.py" line="18" name="test_01[subject-grade-version-studyYear-expected3]" time="0.035"><failure message="AssertionError: assert &apos;Success&apos; == &apos;expected&apos;
+  - expected
+  + Success">subject = &apos;subject&apos;, grade = &apos;grade&apos;, version = &apos;version&apos;
+studyYear = &apos;studyYear&apos;, expected = &apos;expected&apos;
+
+    @pytest.mark.parametrize(&quot;subject,grade,version,studyYear,expected&quot;, data)
+    
+    def test_01(subject,grade,version,studyYear,expected):
+&gt;       assert TestgetTerm.getTerm(subject,grade,version,studyYear) == expected
+E       AssertionError: assert &apos;Success&apos; == &apos;expected&apos;
+E         - expected
+E         + Success
+
+..\test_case\test_copy001.py:22: AssertionError</failure></testcase><testcase classname="test_case.test_copy001" file="test_case\test_copy001.py" line="18" name="test_01[subject-grade-version-studyYear-expected4]" time="0.035"><failure message="AssertionError: assert &apos;Success&apos; == &apos;expected&apos;
+  - expected
+  + Success">subject = &apos;subject&apos;, grade = &apos;grade&apos;, version = &apos;version&apos;
+studyYear = &apos;studyYear&apos;, expected = &apos;expected&apos;
+
+    @pytest.mark.parametrize(&quot;subject,grade,version,studyYear,expected&quot;, data)
+    
+    def test_01(subject,grade,version,studyYear,expected):
+&gt;       assert TestgetTerm.getTerm(subject,grade,version,studyYear) == expected
+E       AssertionError: assert &apos;Success&apos; == &apos;expected&apos;
+E         - expected
+E         + Success
+
+..\test_case\test_copy001.py:22: AssertionError</failure></testcase><testcase classname="test_case.test_getCourse.Test_getCourse" file="test_case\test_getCourse.py" line="8" name="test_001" time="0.487"></testcase><testcase classname="test_case.test_getTerm.Test_getCourse" file="test_case\test_getTerm.py" line="8" name="test_001" time="0.141"></testcase><testcase classname="test_case.test_getTextbook.Test_getCourse" file="test_case\test_getTextbook.py" line="8" name="test_001" time="0.290"></testcase><testcase classname="test_case.test_getVersion.Test_getCourse" file="test_case\test_getVersion.py" line="8" name="test_001" time="0.318"></testcase><testcase classname="test_case.test_getteacherlist.Test_getteacherlist" file="test_case\test_getteacherlist.py" line="9" name="test_001" time="0.109"></testcase><testcase classname="test_case.test_getteacherlist.Test_getteacherlist" file="test_case\test_getteacherlist.py" line="21" name="test_002" time="0.087"></testcase><testcase classname="test_case.test_getteacherlist.Test_getteacherlist" file="test_case\test_getteacherlist.py" line="34" name="test_003" time="0.109"></testcase><testcase classname="test_case.test_qualificationinfo.Test_getqualificationinfo" file="test_case\test_qualificationinfo.py" line="8" name="test_001" time="0.012"></testcase><testcase classname="test_case.test_updateteacher.Test_updateteacher" file="test_case\test_updateteacher.py" line="10" name="test_001" time="0.102"></testcase><testcase classname="test_case.test_updateteacher.Test_updateteacher" file="test_case\test_updateteacher.py" line="30" name="test_002" time="0.084"></testcase></testsuite></testsuites>

@@ -1,0 +1,97 @@
+{
+  "uid" : "a2c04e0f29371228",
+  "name" : "test_teacherList2[{\"opterToken\": \"123\"}-token无效]",
+  "fullName" : "test_case.test_teacherList.Test_teacherList#test_teacherList2",
+  "historyId" : "0ef9f997d0c485f05542c1db460e4451",
+  "time" : {
+    "start" : 1600682657676,
+    "stop" : 1600682657703,
+    "duration" : 27
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1600682657533,
+      "stop" : 1600682657584,
+      "duration" : 51
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1600682657779,
+      "stop" : 1600682657779,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "教师列表"
+  }, {
+    "name" : "feature",
+    "value" : "教师信息模块"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_teacherList"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_teacherList"
+  }, {
+    "name" : "host",
+    "value" : "et-201809131052"
+  }, {
+    "name" : "thread",
+    "value" : "22252-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_teacherList"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "inData",
+    "value" : "'{\"opterToken\": \"123\"}'"
+  }, {
+    "name" : "repsData",
+    "value" : "'token无效'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a2c04e0f29371228.json",
+  "parameterValues" : [ "'{\"opterToken\": \"123\"}'", "'token无效'" ]
+}

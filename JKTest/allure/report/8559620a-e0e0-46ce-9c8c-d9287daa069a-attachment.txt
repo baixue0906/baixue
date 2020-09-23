@@ -1,0 +1,2 @@
+<class 'dict'>
+{'message': '"systemVersion" must be a string', 'error': {'isJoi': True, 'name': 'ValidationError', 'details': [{'message': '"systemVersion" must be a string', 'path': ['systemVersion'], 'type': 'string.base', 'context': {'value': 10, 'key': 'systemVersion', 'label': 'systemVersion'}}], '_object': {'resolution': '1920*1080', 'systemVersion': 10, 'network': 'wifi', 'version': '10.1'}}}

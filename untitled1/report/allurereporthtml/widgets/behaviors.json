@@ -1,0 +1,92 @@
+{
+  "total" : 15,
+  "items" : [ {
+    "uid" : "32900bfb60eb4e2f718dfa9da8d24e85",
+    "name" : "获取教师列表",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "213b9e22e1401f54fed41b72f0c84f7c",
+    "name" : "添加老师",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "764975ca2e38ad62c61b981333d9ef8c",
+    "name" : "更新老师",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "6fe7e06ff23b607bd867fe58b54c9f6f",
+    "name" : "公共获取销售课",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "787a479a1cd99cb11e3764152d5f9e32",
+    "name" : "公共获取学期模块",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "e85fb57aac7c6944ecd420350873a144",
+    "name" : "公共获取教材",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "98120789ad7b0f863dca60513baae801",
+    "name" : "获取版本数据",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "5d16466715bc7a3e8fd9b22c2fa78d63",
+    "name" : "获取教师资质列表",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

@@ -1,0 +1,1 @@
+{'code': 0, 'message': '', 'data': {'token': 'k5g_NUenetbly_F2dVp5J-UoW9aHDv5YZMPO0MEm:38NHHijJzD5EOcCaP6dOOELLFR0=:eyJzY29wZSI6ImpkZXhhbSIsImRlYWRsaW5lIjoxNTk4NjgwNjc5fQ==', 'qiniuUrl': 'https://upload-z1.qiniup.com'}}

@@ -1,0 +1,2 @@
+<class 'dict'>
+{'message': '"resolution" is not allowed to be empty', 'error': {'isJoi': True, 'name': 'ValidationError', 'details': [{'message': '"resolution" is not allowed to be empty', 'path': ['resolution'], 'type': 'any.empty', 'context': {'value': '', 'invalids': [''], 'key': 'resolution', 'label': 'resolution'}}], '_object': {'resolution': '', 'systemVersion': 'Windows 10', 'network': 'wifi', 'version': '1.0.1.1'}}}

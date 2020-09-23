@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f40488f-8fa3-4fcc-af8b-8145672ae1e7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PP0A8MIPnan7eFpPB8dbrNSr4F" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="untitled" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="untitled" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\baixue\PycharmProjects\untitled\venv" />
+      <recent name="C:\Users\baixue\PycharmProjects\untitled" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\baixue\PycharmProjects\untitled\test_case" />
+      <recent name="C:\Users\baixue\PycharmProjects\untitled" />
+      <recent name="C:\Users\baixue\PycharmProjects\untitled\testcase" />
+      <recent name="C:\Users\baixue\PycharmProjects\untitled\TestCases" />
+      <recent name="C:\Users\baixue\PycharmProjects\untitled\common" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run_all_cases">
+    <configuration name="addTeacherInfo" type="PythonConfigurationType" factoryName="Python">
+      <module name="Coursemg_Interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\baixue\PycharmProjects\untitled\CoursemgCase\Test_AddTeacherInfo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_excel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Coursemg_Interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/get_excel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_excel001" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Coursemg_Interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/get_excel001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_all_cases" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Coursemg_Interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run_cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_cases/run_all_cases.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_copy.test_01" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Coursemg_Interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_copy.test_01&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_copy.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Coursemg_Interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_case/test_copy.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.addTeacherInfo" />
+      <item itemvalue="Python.get_excel" />
+      <item itemvalue="Python.get_excel001" />
+      <item itemvalue="Python.run_all_cases" />
+      <item itemvalue="Python tests.pytest in test_copy.py" />
+      <item itemvalue="Python tests.pytest for test_copy.test_01" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_all_cases" />
+        <item itemvalue="Python.get_excel001" />
+        <item itemvalue="Python.get_excel" />
+        <item itemvalue="Python tests.pytest for test_copy.test_01" />
+        <item itemvalue="Python tests.pytest in test_copy.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f40488f-8fa3-4fcc-af8b-8145672ae1e7" name="Default Changelist" comment="" />
+      <created>1565760277065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565760277065</updated>
+      <workItem from="1565760291811" duration="8273000" />
+      <workItem from="1565771385835" duration="5317000" />
+      <workItem from="1566301696028" duration="1262000" />
+      <workItem from="1567676770967" duration="442000" />
+      <workItem from="1568432123064" duration="75000" />
+      <workItem from="1568432219460" duration="22000" />
+      <workItem from="1568432323161" duration="9000" />
+      <workItem from="1568432344935" duration="623000" />
+      <workItem from="1571626021422" duration="2506000" />
+      <workItem from="1575958573257" duration="2081000" />
+      <workItem from="1588755825728" duration="882000" />
+      <workItem from="1588815125346" duration="55000" />
+      <workItem from="1588817084483" duration="15049000" />
+      <workItem from="1589269546077" duration="10610000" />
+      <workItem from="1593399755656" duration="7125000" />
+      <workItem from="1593582548006" duration="16891000" />
+      <workItem from="1593767763935" duration="4128000" />
+      <workItem from="1594026300474" duration="6782000" />
+      <workItem from="1594185645590" duration="3441000" />
+      <workItem from="1595809232970" duration="2025000" />
+      <workItem from="1595811280189" duration="21366000" />
+      <workItem from="1596424218068" duration="33173000" />
+      <workItem from="1596582559126" duration="3320000" />
+      <workItem from="1596693355128" duration="32319000" />
+      <workItem from="1597049423837" duration="14922000" />
+      <workItem from="1597384726763" duration="5334000" />
+      <workItem from="1597621417192" duration="1067000" />
+      <workItem from="1597627755106" duration="184000" />
+      <workItem from="1597627976039" duration="118000" />
+      <workItem from="1597632990169" duration="2658000" />
+      <workItem from="1597645412918" duration="34000" />
+      <workItem from="1597893373486" duration="5758000" />
+      <workItem from="1598234319211" duration="6983000" />
+      <workItem from="1598241627992" duration="2172000" />
+      <workItem from="1598246715506" duration="1195000" />
+      <workItem from="1598247960840" duration="3385000" />
+      <workItem from="1598251368789" duration="241000" />
+      <workItem from="1598251642245" duration="12753000" />
+      <workItem from="1598321749714" duration="1828000" />
+      <workItem from="1598675870407" duration="3143000" />
+      <workItem from="1598832146530" duration="1026000" />
+      <workItem from="1598833189420" duration="19672000" />
+      <workItem from="1598867982572" duration="11245000" />
+      <workItem from="1598945544277" duration="6558000" />
+      <workItem from="1599197214863" duration="606000" />
+      <workItem from="1599197939950" duration="532000" />
+      <workItem from="1599789015128" duration="20461000" />
+      <workItem from="1600654527058" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_Login_Login_test_login1.coverage" NAME="Unittests for Login.Login.test_login1 Coverage Results" MODIFIED="1593666773174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$pytest_in_test_getTerm_py.coverage" NAME="pytest in test_getTerm.py Coverage Results" MODIFIED="1598852065168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/untitled$pytest_in_test_getCourse_py.coverage" NAME="pytest in test_getCourse.py Coverage Results" MODIFIED="1598851359261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_in_updateTeacher_py.coverage" NAME="Unittests in updateTeacher.py Coverage Results" MODIFIED="1595850666307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_yaml_Add_test_add1.coverage" NAME="Unittests for yaml.Add.test_add1 Coverage Results" MODIFIED="1597297763963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$test0629.coverage" NAME="test0629 Coverage Results" MODIFIED="1593410550769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_in_Login_py.coverage" NAME="Unittests in Login.py Coverage Results" MODIFIED="1593668404646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_Test_AddTeacherInfo_Add_test_add3.coverage" NAME="Unittests for Test_AddTeacherInfo.Add.test_add3 Coverage Results" MODIFIED="1597622284587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CoursemgCase" />
+    <SUITE FILE_PATH="coverage/untitled$pytest_for_test_updateteacher_Test_addteacher.coverage" NAME="pytest for test_updateteacher.Test_addteacher Coverage Results" MODIFIED="1598262373927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$pytest_for_test_getVersion_Test_getCourse_test_001.coverage" NAME="pytest for test_getVersion.Test_getCourse.test_001 Coverage Results" MODIFIED="1598852635776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$get_db.coverage" NAME="get_db Coverage Results" MODIFIED="1598854115924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_getQualificationInfo_Get_test_getQualificationInfo.coverage" NAME="Unittests for getQualificationInfo.Get.test_getQualificationInfo Coverage Results" MODIFIED="1595851171611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$SYS_opterTmpToken.coverage" NAME="SYS_opterTmpToken Coverage Results" MODIFIED="1595844695162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$mysql.coverage" NAME="mysql Coverage Results" MODIFIED="1596439286205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$test_getteacherlist__1_.coverage" NAME="test_getteacherlist (1) Coverage Results" MODIFIED="1598247588467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/untitled$get_token.coverage" NAME="get_token Coverage Results" MODIFIED="1598835764819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/untitled$pytest_for_test_updateteacher_Test_updateteacher_test_002.coverage" NAME="pytest for test_updateteacher.Test_updateteacher.test_002 Coverage Results" MODIFIED="1598264046066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_GetToken_token.coverage" NAME="Unittests for GetToken.token Coverage Results" MODIFIED="1597036822129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
+    <SUITE FILE_PATH="coverage/untitled$teacherList.coverage" NAME="teacherList Coverage Results" MODIFIED="1595810070977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$get_excel.coverage" NAME="get_excel Coverage Results" MODIFIED="1599816593299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_Test_AddTeacherInfo_Add_test_add5.coverage" NAME="Unittests for Test_AddTeacherInfo.Add.test_add5 Coverage Results" MODIFIED="1597619595159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_Test_GetTeacherList_TeacherList_test_GetTeacherList2.coverage" NAME="Unittests for Test_GetTeacherList.TeacherList.test_GetTeacherList2 Coverage Results" MODIFIED="1597384796930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$pytest_in_test_addteacher_py.coverage" NAME="pytest in test_addteacher.py Coverage Results" MODIFIED="1598838555501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$run_all_cases.coverage" NAME="run_all_cases Coverage Results" MODIFIED="1599819061287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/run_cases" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_Test_AddTeacherInfo_Add.coverage" NAME="Unittests for Test_AddTeacherInfo.Add Coverage Results" MODIFIED="1597619656546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$addTeacherInfo.coverage" NAME="addTeacherInfo Coverage Results" MODIFIED="1595812412656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_UpdateTeacherinfo_Update.coverage" NAME="Unittests for UpdateTeacherinfo.Update Coverage Results" MODIFIED="1596503121140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_in_Test_AddTeacherInfo_py.coverage" NAME="Unittests in Test_AddTeacherInfo.py Coverage Results" MODIFIED="1597634917585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CoursemgCase" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_Login_Login.coverage" NAME="Unittests for Login.Login Coverage Results" MODIFIED="1593668599761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_in_Test_GetTeacherList_py.coverage" NAME="Unittests in Test_GetTeacherList.py Coverage Results" MODIFIED="1597627869827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CoursemgCase" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_addteacher_Test_addteacher_test_003.coverage" NAME="pytest for test_addteacher.Test_addteacher.test_003 Coverage Results" MODIFIED="1598853939450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/untitled$recursion.coverage" NAME="tj Coverage Results" MODIFIED="1588828468767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$pytest_in_test_qualificationinfo_py.coverage" NAME="pytest in test_qualificationinfo.py Coverage Results" MODIFIED="1598834722125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_in_GetTeacherList_py.coverage" NAME="Unittests in GetTeacherList.py Coverage Results" MODIFIED="1596441521434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_in_getQualificationInfo_py.coverage" NAME="Unittests in getQualificationInfo.py Coverage Results" MODIFIED="1595851293872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_copy_Test_getCourse_test_001.coverage" NAME="pytest for test_copy.Test_getCourse.test_001 Coverage Results" MODIFIED="1599805496712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_getQualificationInfo_Get.coverage" NAME="Unittests for getQualificationInfo.Get Coverage Results" MODIFIED="1595851273415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_in_Test_UpdateTeacherinfo_py.coverage" NAME="Unittests in Test_UpdateTeacherinfo.py Coverage Results" MODIFIED="1597627926423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CoursemgCase" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_Login_Login_test_login3.coverage" NAME="Unittests for Login.Login.test_login3 Coverage Results" MODIFIED="1593664495628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_getCourse_Test_getCourse.coverage" NAME="pytest for test_getCourse.Test_getCourse Coverage Results" MODIFIED="1598953080552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_updateTeacher_Update.coverage" NAME="Unittests for updateTeacher.Update Coverage Results" MODIFIED="1595850525400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_in_Test_GetQualificationInfo_py.coverage" NAME="Unittests in Test_GetQualificationInfo.py Coverage Results" MODIFIED="1597627814476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CoursemgCase" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$Dailytest.coverage" NAME="Dailytest Coverage Results" MODIFIED="1598930616835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$pytest001.coverage" NAME="pytest001 Coverage Results" MODIFIED="1597907617416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_getCourse_Test_getCourse_test_002.coverage" NAME="pytest for test_getCourse.Test_getCourse.test_002 Coverage Results" MODIFIED="1598953455088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/untitled$Test_ComparewithDatabase.coverage" NAME="Test_ComparewithDatabase Coverage Results" MODIFIED="1597621316658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$pytest_for_test_updateteacher_Test_addteacher_test_001.coverage" NAME="pytest for test_updateteacher.Test_addteacher.test_001 Coverage Results" MODIFIED="1598263065277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$pytest_for_test_qualificationinfo_Test_getqualificationinfo_test_001.coverage" NAME="pytest for test_qualificationinfo.Test_getqualificationinfo.test_001 Coverage Results" MODIFIED="1598839699143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/untitled$test_getteacherlist.coverage" NAME="test_getteacherlist Coverage Results" MODIFIED="1598241970626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$get_excel002.coverage" NAME="get_excel002 Coverage Results" MODIFIED="1599814800053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/untitled$pytest_for_test_getteacherlist_Test_getteacherlist_test_001.coverage" NAME="pytest for test_getteacherlist.Test_getteacherlist.test_001 Coverage Results" MODIFIED="1598835786315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/untitled$compare.coverage" NAME="compare Coverage Results" MODIFIED="1597049224573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_GetTeacherList_TeacherList_test_GetTeacherList4.coverage" NAME="Unittests for GetTeacherList.TeacherList.test_GetTeacherList4 Coverage Results" MODIFIED="1596432705536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_GetTeacherList_TeacherList.coverage" NAME="Unittests for GetTeacherList.TeacherList Coverage Results" MODIFIED="1596435801935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_UpdateTeacherinfo_Update_test_AddTeacher.coverage" NAME="Unittests for UpdateTeacherinfo.Update.test_AddTeacher Coverage Results" MODIFIED="1596455013335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_GetToken_token_test_gettmptoken.coverage" NAME="Unittests for GetToken.token.test_gettmptoken Coverage Results" MODIFIED="1597036621234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
+    <SUITE FILE_PATH="coverage/untitled$run_all_cases.coverage" NAME="run_all_cases Coverage Results" MODIFIED="1598863336669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/run_cases" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_Test_UpdateTeacherinfo_Update_test_gettoken.coverage" NAME="Unittests for Test_UpdateTeacherinfo.Update.test_gettoken Coverage Results" MODIFIED="1597055757074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_TestLogin_Login.coverage" NAME="Unittests for TestLogin.Login Coverage Results" MODIFIED="1593582647247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_Test_GetQualificationInfo_Get.coverage" NAME="Unittests for Test_GetQualificationInfo.Get Coverage Results" MODIFIED="1597621864706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CoursemgCase" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_UpdateTeacherinfo_Update_test_UpdateTeacher5.coverage" NAME="Unittests for UpdateTeacherinfo.Update.test_UpdateTeacher5 Coverage Results" MODIFIED="1596503273823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_Test_AddTeacherInfo_Add_test_gettmptoken.coverage" NAME="Unittests for Test_AddTeacherInfo.Add.test_gettmptoken Coverage Results" MODIFIED="1597384329200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_TestLogin_Login_test_login1.coverage" NAME="Unittests for TestLogin.Login.test_login1 Coverage Results" MODIFIED="1593602485101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$pytest_in_test_getteacherlist_py.coverage" NAME="pytest in test_getteacherlist.py Coverage Results" MODIFIED="1598254366301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$pytest_for_test_getTextbook_Test_getCourse_test_001.coverage" NAME="pytest for test_getTextbook.Test_getCourse.test_001 Coverage Results" MODIFIED="1598851622975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/untitled$baixue.coverage" NAME="baixue Coverage Results" MODIFIED="1596776695827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$pytest_for_test_updateteacher_Test_updateteacher_test_001.coverage" NAME="pytest for test_updateteacher.Test_updateteacher.test_001 Coverage Results" MODIFIED="1598263863505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$course.coverage" NAME="course Coverage Results" MODIFIED="1598846174007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_Test_UpdateTeacherinfo_Update_test_UpdateTeacher3.coverage" NAME="Unittests for Test_UpdateTeacherinfo.Update.test_UpdateTeacher3 Coverage Results" MODIFIED="1597620761122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$GetToken.coverage" NAME="GetToken Coverage Results" MODIFIED="1597036706421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
+    <SUITE FILE_PATH="coverage/untitled$pytest_for_test_getteacherlist_Test_getteacherlist_test_003.coverage" NAME="pytest for test_getteacherlist.Test_getteacherlist.test_003 Coverage Results" MODIFIED="1598258273533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_copy_test_01.coverage" NAME="pytest for test_copy.test_01 Coverage Results" MODIFIED="1599815907836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_Test_AddTeacherInfo_Add_test_add1.coverage" NAME="Unittests for Test_AddTeacherInfo.Add.test_add1 Coverage Results" MODIFIED="1597056420486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_Test_GetQualificationInfo_Get_test_getQualificationInfo1.coverage" NAME="Unittests for Test_GetQualificationInfo.Get.test_getQualificationInfo1 Coverage Results" MODIFIED="1597618036496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_in_test_addteacher_py.coverage" NAME="pytest in test_addteacher.py Coverage Results" MODIFIED="1598854010241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_Test_AddTeacherInfo_Add_test_add7.coverage" NAME="Unittests for Test_AddTeacherInfo.Add.test_add7 Coverage Results" MODIFIED="1597619831821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_in_123_py.coverage" NAME="Unittests in 123.py Coverage Results" MODIFIED="1597622211254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CoursemgCase" />
+    <SUITE FILE_PATH="coverage/untitled$pytest_for_test_getteacherlist_Test_getteacherlist_test_002.coverage" NAME="pytest for test_getteacherlist.Test_getteacherlist.test_002 Coverage Results" MODIFIED="1598257063879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$excel.coverage" NAME="excel Coverage Results" MODIFIED="1598834043612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/untitled$pytest_in_test_updateteacher_py.coverage" NAME="pytest in test_updateteacher.py Coverage Results" MODIFIED="1598835869221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/untitled$pytest_for_test_updateteacher_Test_addteacher_test_002.coverage" NAME="pytest for test_updateteacher.Test_addteacher.test_002 Coverage Results" MODIFIED="1598262983087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$pytest_in_test_geTtextbook_py.coverage" NAME="pytest in test_getTextbook.py Coverage Results" MODIFIED="1598851374847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_UpdateTeacherinfo_Update_test_UpdateTeacher1.coverage" NAME="Unittests for UpdateTeacherinfo.Update.test_UpdateTeacher1 Coverage Results" MODIFIED="1596455729111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$pytest_for_test_getteacherlist_Test_getteacherlist.coverage" NAME="pytest for test_getteacherlist.Test_getteacherlist Coverage Results" MODIFIED="1598676893119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$pytest_for_test_addteacher_Test_addteacher_test_001.coverage" NAME="pytest for test_addteacher.Test_addteacher.test_001 Coverage Results" MODIFIED="1598260618936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_AddTeacherInfo_Add_test_add2.coverage" NAME="Unittests for AddTeacherInfo.Add.test_add2 Coverage Results" MODIFIED="1596527658482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$get_excel.coverage" NAME="get_excel Coverage Results" MODIFIED="1598852926692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/untitled$pytest_for_test_getTerm_Test_getCourse_test_001.coverage" NAME="pytest for test_getTerm.Test_getCourse.test_001 Coverage Results" MODIFIED="1598851970793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_GetTeacherList_TeacherList_test_gettoken.coverage" NAME="Unittests for GetTeacherList.TeacherList.test_gettoken Coverage Results" MODIFIED="1595913386462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_in_yaml_py.coverage" NAME="Unittests in yaml.py Coverage Results" MODIFIED="1597298630066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_in_test_getCourse_py.coverage" NAME="pytest in test_getCourse.py Coverage Results" MODIFIED="1599197646297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_in_test_copy_py.coverage" NAME="pytest in test_copy.py Coverage Results" MODIFIED="1599815020147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_Test_UpdateTeacherinfo_Update_test_gettmptoken.coverage" NAME="Unittests for Test_UpdateTeacherinfo.Update.test_gettmptoken Coverage Results" MODIFIED="1597050588128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_getCourse_Test_getCourse_test_001.coverage" NAME="pytest for test_getCourse.Test_getCourse.test_001 Coverage Results" MODIFIED="1598945447550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/untitled$gaoqiang.coverage" NAME="gaoqiang Coverage Results" MODIFIED="1596535030071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$get_excel001.coverage" NAME="get_excel001 Coverage Results" MODIFIED="1599816659004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_in_TestLogin_py.coverage" NAME="Unittests in TestLogin.py Coverage Results" MODIFIED="1593603488307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$get_db.coverage" NAME="get_db Coverage Results" MODIFIED="1598263842054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_Login_Login_test_login2.coverage" NAME="Unittests for Login.Login.test_login2 Coverage Results" MODIFIED="1593666663650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_addteacher_Test_addteacher_test_002.coverage" NAME="pytest for test_addteacher.Test_addteacher.test_002 Coverage Results" MODIFIED="1598854138755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_TestLogin_Login_test_login2.coverage" NAME="Unittests for TestLogin.Login.test_login2 Coverage Results" MODIFIED="1593602158930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$pytest_for_test_qualificationinfo_Test_getqualificationinfo.coverage" NAME="pytest for test_qualificationinfo.Test_getqualificationinfo Coverage Results" MODIFIED="1598835058854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/untitled$pytest_for_test_getCourse_Test_getCourse_test_001.coverage" NAME="pytest for test_getCourse.Test_getCourse.test_001 Coverage Results" MODIFIED="1598851481977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_AddTeacherInfo_Add.coverage" NAME="Unittests for AddTeacherInfo.Add Coverage Results" MODIFIED="1596528259057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

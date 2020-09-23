@@ -1,0 +1,191 @@
+[ {
+  "uid" : "7cea7003f40bc13a",
+  "name" : "获取学期模块成功",
+  "time" : {
+    "start" : 1599819063437,
+    "stop" : 1599819063578,
+    "duration" : 141
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "11a09b6746876243",
+  "name" : "获取销售课成功",
+  "time" : {
+    "start" : 1599819062946,
+    "stop" : 1599819063432,
+    "duration" : 486
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "18ab1665a0dddeb0",
+  "name" : "获取教师列表缺少必要参数",
+  "time" : {
+    "start" : 1599819064311,
+    "stop" : 1599819064397,
+    "duration" : 86
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "74bc28ffa3d51009",
+  "name" : "获取教师资质列表成功",
+  "time" : {
+    "start" : 1599819064517,
+    "stop" : 1599819064529,
+    "duration" : 12
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2921cc61f5e256d",
+  "name" : "test_01[subject-grade-version-studyYear-expected0]",
+  "time" : {
+    "start" : 1599819062685,
+    "stop" : 1599819062715,
+    "duration" : 30
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "eac9a7642071fc68",
+  "name" : "test_01[subject-grade-version-studyYear-expected2]",
+  "time" : {
+    "start" : 1599819062816,
+    "stop" : 1599819062852,
+    "duration" : 36
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "46560255982bea4c",
+  "name" : "添加老师成功",
+  "time" : {
+    "start" : 1599819062131,
+    "stop" : 1599819062333,
+    "duration" : 202
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c7c848f33db66d1f",
+  "name" : "test_01[subject-grade-version-studyYear-expected1]",
+  "time" : {
+    "start" : 1599819062772,
+    "stop" : 1599819062802,
+    "duration" : 30
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "35fd315c322198a",
+  "name" : "获取教师列表成功",
+  "time" : {
+    "start" : 1599819064195,
+    "stop" : 1599819064303,
+    "duration" : 108
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "10be9c9aa52cffad",
+  "name" : "test_01[-初中-人教版-2019-Parameter Invalid]",
+  "time" : {
+    "start" : 1599819062624,
+    "stop" : 1599819062675,
+    "duration" : 51
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "25b41f9d59d5867d",
+  "name" : "test_01[subject-grade-version-studyYear-expected3]",
+  "time" : {
+    "start" : 1599819062866,
+    "stop" : 1599819062894,
+    "duration" : 28
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f5a009eddf0e032a",
+  "name" : "获取版本数据成功",
+  "time" : {
+    "start" : 1599819063874,
+    "stop" : 1599819064191,
+    "duration" : 317
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cc20ad909d93dbcc",
+  "name" : "更新老师缺少必要参数",
+  "time" : {
+    "start" : 1599819064637,
+    "stop" : 1599819064721,
+    "duration" : 84
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "67d3686194831172",
+  "name" : "test_01[subject-grade-version-studyYear-expected4]",
+  "time" : {
+    "start" : 1599819062906,
+    "stop" : 1599819062934,
+    "duration" : 28
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "d8a38cffcf7cd5c6",
+  "name" : "更新老师成功",
+  "time" : {
+    "start" : 1599819064533,
+    "stop" : 1599819064634,
+    "duration" : 101
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7117bcef22277ac",
+  "name" : "添加老师缺少必要参数",
+  "time" : {
+    "start" : 1599819062342,
+    "stop" : 1599819062566,
+    "duration" : 224
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9556812a4c2081e4",
+  "name" : "获取教师列表token失效",
+  "time" : {
+    "start" : 1599819064401,
+    "stop" : 1599819064509,
+    "duration" : 108
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dbb374872322311d",
+  "name" : "获取教材成功",
+  "time" : {
+    "start" : 1599819063581,
+    "stop" : 1599819063870,
+    "duration" : 289
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "10af0b06ff2fb397",
+  "name" : "test_01[数学-初中-人教版-2019-Success]",
+  "time" : {
+    "start" : 1599819062571,
+    "stop" : 1599819062616,
+    "duration" : 45
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

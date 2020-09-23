@@ -1,0 +1,5 @@
+测试用例共有5行,18列
+{'code': 0, 'message': 'Success', 'data': {'userID': 35667344, 'username': 'jd05260009', 'mobile': '19900009914', 'grade': '02-2019', 'gradeType': 0, 'gradeName': '初二', 'province': '北京', 'districtname': '北京', 'subdistrictname': '海淀区', 'school': '三湾小学', 'mobilebind': 0, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE5MDQ0MDYyNDgsImlhdCI6MTU5NjgyMjI0OCwibmJmIjoxNTk2ODIyMTI4LCJzeXN0eXBlIjoid2ViIiwidXNlcl9pZCI6IjM1NjY3MzQ0In0.nc4T14A6D0fhlXy_2h2_dg3RuCon9_J1R0r2_21sUiA', 'gray': '1', 'timestamp': 1596822248, 'tmpToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1OTY4MjIzMDgsImlhdCI6MTU5NjgyMjI0OCwibmJmIjoxNTk2ODIyMTI4LCJzeXN0eXBlIjoid2ViIiwidXNlcl9pZCI6IjM1NjY3MzQ0In0.9-0Kj4MGVsz8uhhqeIZBlfXgh9LiGxgG8P6dG9P3G-I'}}
+{'code': 101000003, 'message': '该手机号已经存在, 并绑定其他账号', 'data': None}
+{'code': 100009001, 'message': '需要图形验证', 'data': None}
+{'code': 100009002, 'message': '图形验证失败', 'data': {}}

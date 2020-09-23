@@ -1,0 +1,73 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 'Success' == 'expected'\n  - expected\n  + Success",
+      "children" : [ {
+        "name" : "test_01[subject-grade-version-studyYear-expected0]",
+        "uid" : "2921cc61f5e256d",
+        "parentUid" : "aede6f0ce8dc5c3c3ec5ccc5ca765564",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599819062685,
+          "stop" : 1599819062715,
+          "duration" : 30
+        },
+        "flaky" : false,
+        "parameters" : [ "'expected'", "'grade'", "'studyYear'", "'subject'", "'version'" ]
+      }, {
+        "name" : "test_01[subject-grade-version-studyYear-expected1]",
+        "uid" : "c7c848f33db66d1f",
+        "parentUid" : "aede6f0ce8dc5c3c3ec5ccc5ca765564",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599819062772,
+          "stop" : 1599819062802,
+          "duration" : 30
+        },
+        "flaky" : false,
+        "parameters" : [ "'expected'", "'grade'", "'studyYear'", "'subject'", "'version'" ]
+      }, {
+        "name" : "test_01[subject-grade-version-studyYear-expected2]",
+        "uid" : "eac9a7642071fc68",
+        "parentUid" : "aede6f0ce8dc5c3c3ec5ccc5ca765564",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599819062816,
+          "stop" : 1599819062852,
+          "duration" : 36
+        },
+        "flaky" : false,
+        "parameters" : [ "'expected'", "'grade'", "'studyYear'", "'subject'", "'version'" ]
+      }, {
+        "name" : "test_01[subject-grade-version-studyYear-expected3]",
+        "uid" : "25b41f9d59d5867d",
+        "parentUid" : "aede6f0ce8dc5c3c3ec5ccc5ca765564",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599819062866,
+          "stop" : 1599819062894,
+          "duration" : 28
+        },
+        "flaky" : false,
+        "parameters" : [ "'expected'", "'grade'", "'studyYear'", "'subject'", "'version'" ]
+      }, {
+        "name" : "test_01[subject-grade-version-studyYear-expected4]",
+        "uid" : "67d3686194831172",
+        "parentUid" : "aede6f0ce8dc5c3c3ec5ccc5ca765564",
+        "status" : "failed",
+        "time" : {
+          "start" : 1599819062906,
+          "stop" : 1599819062934,
+          "duration" : 28
+        },
+        "flaky" : false,
+        "parameters" : [ "'expected'", "'grade'", "'studyYear'", "'subject'", "'version'" ]
+      } ],
+      "uid" : "aede6f0ce8dc5c3c3ec5ccc5ca765564"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

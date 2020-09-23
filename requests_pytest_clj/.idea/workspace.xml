@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81459954-67e8-4ff0-8ef5-b3716e7b68cd" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$test_sql.coverage" NAME="test_sql Coverage Results" MODIFIED="1593493714837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestSelectSql_and_test_paid.coverage" NAME="py.test in TestSelectSql and test_paid Coverage Results" MODIFIED="1597051860520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$test_jisuan.coverage" NAME="test_jisuan Coverage Results" MODIFIED="1594547368020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case_cart" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestSelectSql_and_test_paid_subject.coverage" NAME="py.test in TestSelectSql and test_paid_subject Coverage Results" MODIFIED="1596790295015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_test_getuserinfo_py.coverage" NAME="py.test in test_getuserinfo.py Coverage Results" MODIFIED="1593489848938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestUserget__1_.coverage" NAME="py.test in TestUserget (1) Coverage Results" MODIFIED="1594352352603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestAddCoupon_and_test_addCoupon.coverage" NAME="py.test in TestAddCoupon and test_addCoupon Coverage Results" MODIFIED="1595821264734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestUserCheck_and_test_getCheckInfo.coverage" NAME="py.test in TestUserCheck and test_getCheckInfo Coverage Results" MODIFIED="1595821238200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_test_addCart_py.coverage" NAME="py.test in test_addCart.py Coverage Results" MODIFIED="1595822090931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$cart_coupon.coverage" NAME="cart_coupon Coverage Results" MODIFIED="1595313827753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case_cart" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestGetCourseSegment.coverage" NAME="py.test in TestGetCourseSegment Coverage Results" MODIFIED="1596700792990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_test_004_py.coverage" NAME="py.test in test_004.py Coverage Results" MODIFIED="1592967734758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestGetSubjectVersion_and_test_getSubjectAndVersion.coverage" NAME="py.test in TestGetSubjectVersion and test_getSubjectAndVersion Coverage Results" MODIFIED="1597196453418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestUserCartget_and_test_getCartCoupon.coverage" NAME="py.test in TestUserCartget and test_getCartCoupon Coverage Results" MODIFIED="1595844511181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_test_getCourseList_py.coverage" NAME="py.test in test_getCourseList.py Coverage Results" MODIFIED="1596701158427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_test_getCourseList_v2_py.coverage" NAME="py.test in test_getCourseList_v2.py Coverage Results" MODIFIED="1596703830354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_test_cart_coupon_check_py.coverage" NAME="py.test in test_cart_coupon_check.py Coverage Results" MODIFIED="1595899641342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$sendRequest.coverage" NAME="sendRequest Coverage Results" MODIFIED="1593148038218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_test_addCoupon_py.coverage" NAME="py.test in test_addCoupon.py Coverage Results" MODIFIED="1595815997061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestUserget_and_test_getUserInfo.coverage" NAME="py.test in TestUserget and test_getUserInfo Coverage Results" MODIFIED="1595320139967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestUserCartget_and_test_crmCoupon.coverage" NAME="py.test in TestUserCartget and test_crmCoupon Coverage Results" MODIFIED="1595821277694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$test_dict_list.coverage" NAME="test_dict_list Coverage Results" MODIFIED="1595584110018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case_cart" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_test_001_py.coverage" NAME="py.test in test_001.py Coverage Results" MODIFIED="1597035722525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestLoginCase_and_test_getUserInfo.coverage" NAME="py.test in TestLoginCase and test_getUserInfo Coverage Results" MODIFIED="1592820490726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_test_getCourseSegment_py.coverage" NAME="py.test in test_getCourseSegment.py Coverage Results" MODIFIED="1596699503774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestGetCoursDetail.coverage" NAME="py.test in TestGetCoursDetail Coverage Results" MODIFIED="1596709121222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestGetUserInfo_and_test_getUserInfo.coverage" NAME="py.test in TestGetUserInfo and test_getUserInfo Coverage Results" MODIFIED="1596699066671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestGetSpecialDetail.coverage" NAME="py.test in TestGetSpecialDetail Coverage Results" MODIFIED="1597371194041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestUserget_and_test_getUserInfo__1_.coverage" NAME="py.test in TestUserget and test_getUserInfo (1) Coverage Results" MODIFIED="1594356218624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestSelectSql.coverage" NAME="py.test in TestSelectSql Coverage Results" MODIFIED="1596597479455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestGetCourseSegment_and_test_getCourseSegment.coverage" NAME="py.test in TestGetCourseSegment and test_getCourseSegment Coverage Results" MODIFIED="1596699573906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_test_getuserorder_py.coverage" NAME="py.test in test_getuserorder.py Coverage Results" MODIFIED="1593491695199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$test_getuserinfo.coverage" NAME="test_getuserinfo Coverage Results" MODIFIED="1592826835277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestGetUserInfo.coverage" NAME="py.test in TestGetUserInfo Coverage Results" MODIFIED="1595833681928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_test_gz_active_py.coverage" NAME="py.test in test_gz_active.py Coverage Results" MODIFIED="1596679429439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_test_getCourseList_v3_py.coverage" NAME="py.test in test_getCourseList_v3.py Coverage Results" MODIFIED="1596706170250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestLoginCase.coverage" NAME="py.test in TestLoginCase Coverage Results" MODIFIED="1593490013660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestLianXi_and_test_001.coverage" NAME="py.test in TestLianXi and test_001 Coverage Results" MODIFIED="1596683675678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_conftest_py.coverage" NAME="py.test in conftest.py Coverage Results" MODIFIED="1592820002552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestSelectSql_and_test_paid__1_.coverage" NAME="py.test in TestSelectSql and test_paid (1) Coverage Results" MODIFIED="1597035230049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_test_checkComment_py__1_.coverage" NAME="py.test in test_checkComment.py (1) Coverage Results" MODIFIED="1597371256738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$runMethod.coverage" NAME="runMethod Coverage Results" MODIFIED="1594453852454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestLoginCase__1_.coverage" NAME="py.test in TestLoginCase (1) Coverage Results" MODIFIED="1592965362355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestUserget.coverage" NAME="py.test in TestUserget Coverage Results" MODIFIED="1594356997114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestAddCoupon.coverage" NAME="py.test in TestAddCoupon Coverage Results" MODIFIED="1595824925786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestGetUserInfo_and_test_getUserInfo__2_.coverage" NAME="py.test in TestGetUserInfo and test_getUserInfo (2) Coverage Results" MODIFIED="1593492855799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_sql_py.coverage" NAME="py.test in sql.py Coverage Results" MODIFIED="1596528828932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestUserCheck.coverage" NAME="py.test in TestUserCheck Coverage Results" MODIFIED="1595824932212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestGetCourseList2_and_test_getCourseList__3_.coverage" NAME="py.test in TestGetCourseList2 and test_getCourseList (3) Coverage Results" MODIFIED="1596706928980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestUserCartget.coverage" NAME="py.test in TestUserCartget Coverage Results" MODIFIED="1595818326749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$runTestCase.coverage" NAME="runTestCase Coverage Results" MODIFIED="1597371497148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestGetCourseSegment_and_test_getCourseSummary.coverage" NAME="py.test in TestGetCourseSegment and test_getCourseSummary Coverage Results" MODIFIED="1596699640877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_test_crm_coupon_py.coverage" NAME="py.test in test_crm_coupon.py Coverage Results" MODIFIED="1595821436205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_coupon_py.coverage" NAME="py.test in coupon.py Coverage Results" MODIFIED="1595321537298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestGetSingleDetail.coverage" NAME="py.test in TestGetSingleDetail Coverage Results" MODIFIED="1596765826532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestUserCartget_and_test_getCheckInfo.coverage" NAME="py.test in TestUserCartget and test_getCheckInfo Coverage Results" MODIFIED="1595814183838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestGetSpecialDetail_and_test_getSingleCourseDetail.coverage" NAME="py.test in TestGetSpecialDetail and test_getSingleCourseDetail Coverage Results" MODIFIED="1597370842906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$excelReader.coverage" NAME="excelReader Coverage Results" MODIFIED="1593150508475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestUserCartget_and_test_getCartCoupon__1_.coverage" NAME="py.test in TestUserCartget and test_getCartCoupon (1) Coverage Results" MODIFIED="1595844802203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestSelectSql_and_test_paid__2_.coverage" NAME="py.test in TestSelectSql and test_paid (2) Coverage Results" MODIFIED="1596697027201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestGetCourseList2_and_test_getCourseList__2_.coverage" NAME="py.test in TestGetCourseList2 and test_getCourseList (2) Coverage Results" MODIFIED="1596706691932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestGetCourseList2.coverage" NAME="py.test in TestGetCourseList2 Coverage Results" MODIFIED="1596706939967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestGetCourseList2_and_test_getCourseList.coverage" NAME="py.test in TestGetCourseList2 and test_getCourseList Coverage Results" MODIFIED="1596703793903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestUserCartget_and_test_getUserInfo.coverage" NAME="py.test in TestUserCartget and test_getUserInfo Coverage Results" MODIFIED="1595313644292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$conftest.coverage" NAME="conftest Coverage Results" MODIFIED="1595821209029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case_cart" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestGetUserInfo__1_.coverage" NAME="py.test in TestGetUserInfo (1) Coverage Results" MODIFIED="1593492421409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_test_getPackageCourseDetail_py.coverage" NAME="py.test in test_getPackageCourseDetail.py Coverage Results" MODIFIED="1597370398644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestGetCourseList2_and_test_getCourseList__1_.coverage" NAME="py.test in TestGetCourseList2 and test_getCourseList (1) Coverage Results" MODIFIED="1596706157063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestUserCartget_and_test_getUserInfo__1_.coverage" NAME="py.test in TestUserCartget and test_getUserInfo (1) Coverage Results" MODIFIED="1595313935521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestGetSingleDetail_and_test_getSingleCourseDetail.coverage" NAME="py.test in TestGetSingleDetail and test_getSingleCourseDetail Coverage Results" MODIFIED="1596765805755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestUserget_and_test_getUserInfo__2_.coverage" NAME="py.test in TestUserget and test_getUserInfo (2) Coverage Results" MODIFIED="1594356944980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_test_activeCourse_py.coverage" NAME="py.test in test_activeCourse.py Coverage Results" MODIFIED="1596597164594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_testapis.coverage" NAME="py.test in testapis Coverage Results" MODIFIED="1592910837433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_test_getSubjectAndVersion_py.coverage" NAME="py.test in test_getSubjectAndVersion.py Coverage Results" MODIFIED="1596765783772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestUserget_and_test_cartUserInfo.coverage" NAME="py.test in TestUserget and test_cartUserInfo Coverage Results" MODIFIED="1594347390194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$parseSql.coverage" NAME="parseSql Coverage Results" MODIFIED="1592971412144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$parseExcelFile.coverage" NAME="parseExcelFile Coverage Results" MODIFIED="1592809442956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestUserCartget__1_.coverage" NAME="py.test in TestUserCartget (1) Coverage Results" MODIFIED="1595819560647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$test_001.coverage" NAME="test_001 Coverage Results" MODIFIED="1592964363421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_test_getUserInfo_py.coverage" NAME="py.test in test_getUserInfo.py Coverage Results" MODIFIED="1596699169867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestGetUserInfo_and_test_getUserInfo__1_.coverage" NAME="py.test in TestGetUserInfo and test_getUserInfo (1) Coverage Results" MODIFIED="1596699151171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_test_cart_list_py.coverage" NAME="py.test in test_cart_list.py Coverage Results" MODIFIED="1595844480498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_test_login_py.coverage" NAME="py.test in test_login.py Coverage Results" MODIFIED="1596698872157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_test_login02_py.coverage" NAME="py.test in test_login02.py Coverage Results" MODIFIED="1593152227048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestLoginCase_and_test_login.coverage" NAME="py.test in TestLoginCase and test_login Coverage Results" MODIFIED="1596698859775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestSelectSql_and_test_select_all_ok.coverage" NAME="py.test in TestSelectSql and test_select_all_ok Coverage Results" MODIFIED="1596596108764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_test_checkComment_py.coverage" NAME="py.test in test_checkComment.py Coverage Results" MODIFIED="1597370780393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$test_cart_coupon_excepted.coverage" NAME="test_cart_coupon_excepted Coverage Results" MODIFIED="1594351148754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case_cart" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_test_cart_coupon_py.coverage" NAME="py.test in test_cart_coupon.py Coverage Results" MODIFIED="1595844563152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestSelectSql_and_test_sql.coverage" NAME="py.test in TestSelectSql and test_sql Coverage Results" MODIFIED="1596595870108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_test_getCourseDetail_py.coverage" NAME="py.test in test_getCourseDetail.py Coverage Results" MODIFIED="1596764027505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_test_addCart_py__1_.coverage" NAME="py.test in test_addCart.py (1) Coverage Results" MODIFIED="1595832669758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestGetUserInfo__2_.coverage" NAME="py.test in TestGetUserInfo (2) Coverage Results" MODIFIED="1593492767292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_test_getSpecialCourseDetail_py.coverage" NAME="py.test in test_getSpecialCourseDetail.py Coverage Results" MODIFIED="1597307164592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_test_getUserOrder_py.coverage" NAME="py.test in test_getUserOrder.py Coverage Results" MODIFIED="1597370731903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestGetCoursDetail_and_test_getCourseDetail.coverage" NAME="py.test in TestGetCoursDetail and test_getCourseDetail Coverage Results" MODIFIED="1596764052766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$test_login02.coverage" NAME="test_login02 Coverage Results" MODIFIED="1592964311949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestLoginCase_and_test_login__1_.coverage" NAME="py.test in TestLoginCase and test_login (1) Coverage Results" MODIFIED="1593351204816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestSelectSql_and_test_paid_sid.coverage" NAME="py.test in TestSelectSql and test_paid_sid Coverage Results" MODIFIED="1596786000813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$test_login.coverage" NAME="test_login Coverage Results" MODIFIED="1592807765618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/requests_pytest_clj$py_test_in_TestUserCartget_and_test_addCoupon.coverage" NAME="py.test in TestUserCartget and test_addCoupon Coverage Results" MODIFIED="1595820318540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="requests_pytest_clj" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hME8Z4oA6Hh7gDZAWfePKzAto0" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="D:\Program Files\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\jiekoutest\requests_pytest_clj\test_case" />
+      <recent name="E:\jiekoutest\requests_pytest_clj\test_case_course" />
+      <recent name="E:\jiekoutest\requests_pytest_clj\model" />
+      <recent name="E:\jiekoutest\requests_pytest_clj\test_case_cart" />
+      <recent name="E:\jiekoutest\requests_pytest_clj" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\jiekoutest\requests_pytest_clj\test_sql" />
+      <recent name="E:\jiekoutest\requests_pytest_clj\test_cases_course" />
+      <recent name="E:\jiekoutest\requests_pytest_clj\model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_getCourseList.TestGetCourseList">
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="requests_pytest_clj" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration name="excelReader" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="requests_pytest_clj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/util" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/util/excelReader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runTestCase" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="requests_pytest_clj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runTestCase.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="py.test in TestGetSpecialDetail" type="tests" factoryName="py.test" temporary="true">
+      <module name="requests_pytest_clj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="$PROJECT_DIR$/test_case/test_checkComment.py" />
+      <option name="keywords" value="TestGetSpecialDetail" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="true" />
+      <module name="requests_pytest_clj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="py.test in test_checkComment.py (1)" type="tests" factoryName="py.test" temporary="true">
+      <module name="requests_pytest_clj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="$PROJECT_DIR$/test_case/test_checkComment.py" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <module name="requests_pytest_clj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_getCourseList.TestGetCourseList" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="requests_pytest_clj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case_course" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_getCourseList.TestGetCourseList&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.runTestCase" />
+      <item itemvalue="Python.excelReader" />
+      <item itemvalue="Python tests.py.test in TestGetSpecialDetail" />
+      <item itemvalue="Python tests.py.test in test_checkComment.py (1)" />
+      <item itemvalue="Python tests.pytest for test_getCourseList.TestGetCourseList" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_getCourseList.TestGetCourseList" />
+        <item itemvalue="Python.excelReader" />
+        <item itemvalue="Python.runTestCase" />
+        <item itemvalue="Python tests.py.test in test_checkComment.py (1)" />
+        <item itemvalue="Python tests.py.test in TestGetSpecialDetail" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81459954-67e8-4ff0-8ef5-b3716e7b68cd" name="Default" comment="" />
+      <created>1592793229327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592793229327</updated>
+      <workItem from="1599812404881" duration="3597000" />
+      <workItem from="1600837938604" duration="2464000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="python-line">
+          <url>file://$PROJECT_DIR$/util/sendRequest.py</url>
+          <line>102</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/test_sql/test_activeCourse.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/test_sql/test_activeCourse.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

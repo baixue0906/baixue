@@ -1,0 +1,2 @@
+<class 'dict'>
+{'message': '"resolution" must be a string', 'error': {'isJoi': True, 'name': 'ValidationError', 'details': [{'message': '"resolution" must be a string', 'path': ['resolution'], 'type': 'string.base', 'context': {'value': 2073600, 'key': 'resolution', 'label': 'resolution'}}], '_object': {'resolution': 2073600, 'systemVersion': 'Windows 10', 'network': 'wifi', 'version': '10。1'}}}
