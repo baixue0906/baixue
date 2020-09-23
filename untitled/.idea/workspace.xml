@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f40488f-8fa3-4fcc-af8b-8145672ae1e7" name="Default Changelist" comment="" />
+    <list default="true" id="4f40488f-8fa3-4fcc-af8b-8145672ae1e7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/test_course/test_activeSingle.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_course/test_activeSingle.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +32,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1PP0A8MIPnan7eFpPB8dbrNSr4F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -39,6 +45,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="full.screen.before.presentation.mode" value="false" />
@@ -291,12 +298,23 @@
       <workItem from="1600049398537" duration="3579000" />
       <workItem from="1600055104689" duration="33044000" />
       <workItem from="1600480598705" duration="24845000" />
-      <workItem from="1600738477050" duration="29891000" />
+      <workItem from="1600738477050" duration="30499000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state width="1419" height="88" key="GridCell.Tab.0.bottom" timestamp="1599996363733">
