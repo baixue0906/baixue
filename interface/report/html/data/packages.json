@@ -1,0 +1,137 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "cases",
+    "children" : [ {
+      "name" : "test_getSchoolYear",
+      "children" : [ {
+        "name" : "获取入学年份",
+        "uid" : "19ebe4efe609414d",
+        "parentUid" : "6329226257f80bac3d4f1d54d2736107",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596821886092,
+          "stop" : 1596821886202,
+          "duration" : 110
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6329226257f80bac3d4f1d54d2736107"
+    }, {
+      "name" : "test_get_formal_courses",
+      "children" : [ {
+        "name" : "用户未登录",
+        "uid" : "af8f8446f8e242c9",
+        "parentUid" : "3e1f84385e0af8814fb1fdd1b8d189e1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596821886210,
+          "stop" : 1596821886253,
+          "duration" : 43
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "获取课程列表成功",
+        "uid" : "9d443cc3f96613ef",
+        "parentUid" : "3e1f84385e0af8814fb1fdd1b8d189e1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596821886605,
+          "stop" : 1596821887045,
+          "duration" : 440
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3e1f84385e0af8814fb1fdd1b8d189e1"
+    }, {
+      "name" : "test_give_formal_course",
+      "children" : [ {
+        "name" : "赠送用户免费正式课",
+        "uid" : "c0af2ba539d42c5c",
+        "parentUid" : "709c397eb160ba8829201d90520b3a0f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596821887204,
+          "stop" : 1596822007871,
+          "duration" : 120667
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "709c397eb160ba8829201d90520b3a0f"
+    }, {
+      "name" : "test_login",
+      "children" : [ {
+        "name" : "密码登录",
+        "uid" : "45c966107752cf10",
+        "parentUid" : "ad8748b508876214210dcbe11e9b93c8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596822007880,
+          "stop" : 1596822128220,
+          "duration" : 120340
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "验证码登录",
+        "uid" : "f2e5ac4790363ef4",
+        "parentUid" : "ad8748b508876214210dcbe11e9b93c8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596822128227,
+          "stop" : 1596822248338,
+          "duration" : 120111
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ad8748b508876214210dcbe11e9b93c8"
+    }, {
+      "name" : "test_reg",
+      "children" : [ {
+        "name" : "注册接口测试",
+        "uid" : "67c1f763e43c1e2d",
+        "parentUid" : "b5fc2b12de4f50a04c687fb6f4477188",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596822248345,
+          "stop" : 1596822368609,
+          "duration" : 120264
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b5fc2b12de4f50a04c687fb6f4477188"
+    }, {
+      "name" : "test_retainpage",
+      "children" : [ {
+        "name" : "用户留单",
+        "uid" : "fbcaa0e976027071",
+        "parentUid" : "2d30bddb1c20bdd5f2a6dda96818f5e9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596822368617,
+          "stop" : 1596822368706,
+          "duration" : 89
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2d30bddb1c20bdd5f2a6dda96818f5e9"
+    } ],
+    "uid" : "d4f25acf57632f6fe40a83cfe70f00b2"
+  } ]
+}

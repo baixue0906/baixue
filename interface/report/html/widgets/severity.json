@@ -1,0 +1,81 @@
+[ {
+  "uid" : "af8f8446f8e242c9",
+  "name" : "用户未登录",
+  "time" : {
+    "start" : 1596821886210,
+    "stop" : 1596821886253,
+    "duration" : 43
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f2e5ac4790363ef4",
+  "name" : "验证码登录",
+  "time" : {
+    "start" : 1596822128227,
+    "stop" : 1596822248338,
+    "duration" : 120111
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "67c1f763e43c1e2d",
+  "name" : "注册接口测试",
+  "time" : {
+    "start" : 1596822248345,
+    "stop" : 1596822368609,
+    "duration" : 120264
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fbcaa0e976027071",
+  "name" : "用户留单",
+  "time" : {
+    "start" : 1596822368617,
+    "stop" : 1596822368706,
+    "duration" : 89
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "45c966107752cf10",
+  "name" : "密码登录",
+  "time" : {
+    "start" : 1596822007880,
+    "stop" : 1596822128220,
+    "duration" : 120340
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9d443cc3f96613ef",
+  "name" : "获取课程列表成功",
+  "time" : {
+    "start" : 1596821886605,
+    "stop" : 1596821887045,
+    "duration" : 440
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "19ebe4efe609414d",
+  "name" : "获取入学年份",
+  "time" : {
+    "start" : 1596821886092,
+    "stop" : 1596821886202,
+    "duration" : 110
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c0af2ba539d42c5c",
+  "name" : "赠送用户免费正式课",
+  "time" : {
+    "start" : 1596821887204,
+    "stop" : 1596822007871,
+    "duration" : 120667
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

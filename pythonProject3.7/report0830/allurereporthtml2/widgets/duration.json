@@ -1,0 +1,21 @@
+[ {
+  "uid" : "f6b7fa0071fd8f43",
+  "name" : "获取商品列表001",
+  "time" : {
+    "start" : 1599842942429,
+    "stop" : 1599842942733,
+    "duration" : 304
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6973d1c020fa31dd",
+  "name" : "获取商品列表001",
+  "time" : {
+    "start" : 1599842942096,
+    "stop" : 1599842942425,
+    "duration" : 329
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

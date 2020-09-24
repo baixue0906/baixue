@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="7" hostname="192.168.86.100" name="pytest" skipped="0" tests="41" time="10.891" timestamp="2020-09-13T08:35:49.732485"><testcase classname="test_case.test_addteacher.Test_addteacher" file="test_case/test_addteacher.py" line="9" name="test_001" time="0.327"><failure message="TypeError: &apos;NoneType&apos; object is not subscriptable">self = &lt;test_addteacher.Test_addteacher object at 0x10ac5cac0&gt;
+
+    @allure.title(&quot;添加老师成功&quot;)
+    def test_001(self):
+        cases = Read_exc().read_exc(&quot;Addteacher&quot;)
+&gt;       tmptoken = TeacherList().test_gettmptoken()
+
+../test_case/test_addteacher.py:13: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = &lt;Lib_common.get_token.TeacherList object at 0x10abed430&gt;
+
+    def test_gettmptoken(self):
+        url = &apos;https://jdapi.jd100.com/uc/core/v1/sys/opterTmpToken&apos;
+        params = {&apos;sysID&apos;: &apos;5&apos;}
+        r = requests.get(url=url, params=params)
+&gt;       TeacherList.TMPTOKEN = r.json().get(&apos;data&apos;)[&apos;opterTmpToken&apos;]
+E       TypeError: &apos;NoneType&apos; object is not subscriptable
+
+../Lib_common/get_token.py:12: TypeError</failure></testcase><testcase classname="test_case.test_addteacher.Test_addteacher" file="test_case/test_addteacher.py" line="27" name="test_002" time="0.194"><failure message="TypeError: &apos;NoneType&apos; object is not subscriptable">self = &lt;test_addteacher.Test_addteacher object at 0x10acc2d30&gt;
+
+    @allure.title(&quot;添加老师缺少必要参数&quot;)
+    def test_002(self):
+        cases = Read_exc().read_exc(&quot;Addteacher&quot;)
+&gt;       tmptoken = TeacherList().test_gettmptoken()
+
+../test_case/test_addteacher.py:31: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = &lt;Lib_common.get_token.TeacherList object at 0x10abc3160&gt;
+
+    def test_gettmptoken(self):
+        url = &apos;https://jdapi.jd100.com/uc/core/v1/sys/opterTmpToken&apos;
+        params = {&apos;sysID&apos;: &apos;5&apos;}
+        r = requests.get(url=url, params=params)
+&gt;       TeacherList.TMPTOKEN = r.json().get(&apos;data&apos;)[&apos;opterTmpToken&apos;]
+E       TypeError: &apos;NoneType&apos; object is not subscriptable
+
+../Lib_common/get_token.py:12: TypeError</failure></testcase><testcase classname="test_case.test_getCourse" file="test_case/test_getCourse.py" line="5" name="test_getCourse[{\n&quot;studyYears&quot;:&quot;2019&quot;,\n&quot;subject&quot;:&quot;2&quot;,\n&quot;grades&quot;:&quot;\u9ad8\u4e00&quot;,\n&quot;version&quot;:&quot;\u4eba\u6559A\u7248&quot;,\n&quot;gradeType&quot;:&quot;0&quot;,\n&quot;courseType&quot;:&quot;1&quot;\n}-Success0]" time="0.287"></testcase><testcase classname="test_case.test_getCourse" file="test_case/test_getCourse.py" line="5" name="test_getCourse[{\n&quot;studyYears&quot;:&quot;&quot;,\n&quot;subject&quot;:&quot;2&quot;,\n&quot;grades&quot;:&quot;\u9ad8\u4e00&quot;,\n&quot;version&quot;:&quot;\u4eba\u6559A\u7248&quot;,\n&quot;gradeType&quot;:&quot;0&quot;,\n&quot;courseType&quot;:&quot;1&quot;\n}-Parameter Invalid]" time="0.188"></testcase><testcase classname="test_case.test_getCourse" file="test_case/test_getCourse.py" line="5" name="test_getCourse[{\n&quot;studyYears&quot;:&quot;2019&quot;,\n&quot;subject&quot;:&quot;&quot;,\n&quot;grades&quot;:&quot;\u9ad8\u4e00&quot;,\n&quot;version&quot;:&quot;\u4eba\u6559A\u7248&quot;,\n&quot;gradeType&quot;:&quot;0&quot;,\n&quot;courseType&quot;:&quot;1&quot;\n}-Parameter Invalid]" time="0.315"></testcase><testcase classname="test_case.test_getCourse" file="test_case/test_getCourse.py" line="5" name="test_getCourse[{\n&quot;studyYears&quot;:&quot;2019&quot;,\n&quot;subject&quot;:&quot;2&quot;,\n&quot;grades&quot;:&quot;&quot;,\n&quot;version&quot;:&quot;\u4eba\u6559A\u7248&quot;,\n&quot;gradeType&quot;:&quot;0&quot;,\n&quot;courseType&quot;:&quot;1&quot;\n}-Parameter Invalid]" time="0.280"></testcase><testcase classname="test_case.test_getCourse" file="test_case/test_getCourse.py" line="5" name="test_getCourse[{\n&quot;studyYears&quot;:&quot;2019&quot;,\n&quot;subject&quot;:&quot;2&quot;,\n&quot;grades&quot;:&quot;\u9ad8\u4e00&quot;,\n&quot;version&quot;:&quot;&quot;,\n&quot;gradeType&quot;:&quot;0&quot;,\n&quot;courseType&quot;:&quot;1&quot;\n}-Parameter Invalid]" time="0.299"></testcase><testcase classname="test_case.test_getCourse" file="test_case/test_getCourse.py" line="5" name="test_getCourse[{\n&quot;studyYears&quot;:&quot;2019&quot;,\n&quot;subject&quot;:&quot;2&quot;,\n&quot;grades&quot;:&quot;\u9ad8\u4e00&quot;,\n&quot;version&quot;:&quot;\u4eba\u6559A\u7248&quot;,\n&quot;gradeType&quot;:&quot;0&quot;,\n&quot;courseType&quot;:&quot;&quot;\n}-Parameter Invalid]" time="0.227"></testcase><testcase classname="test_case.test_getCourse" file="test_case/test_getCourse.py" line="5" name="test_getCourse[{\n&quot;studyYears&quot;:&quot;2019,2020&quot;,\n&quot;subject&quot;:&quot;2&quot;,\n&quot;grades&quot;:&quot;\u9ad8\u4e00&quot;,\n&quot;version&quot;:&quot;\u4eba\u6559A\u7248&quot;,\n&quot;gradeType&quot;:&quot;0&quot;,\n&quot;courseType&quot;:&quot;1&quot;\n}-Success]" time="0.203"></testcase><testcase classname="test_case.test_getCourse" file="test_case/test_getCourse.py" line="5" name="test_getCourse[{\n&quot;studyYears&quot;:&quot;2019&quot;,\n&quot;subject&quot;:&quot;2&quot;,\n&quot;grades&quot;:&quot;\u9ad8\u4e00,\u9ad8\u4e8c,\u9ad8\u4e09&quot;,\n&quot;version&quot;:&quot;\u4eba\u6559A\u7248&quot;,\n&quot;gradeType&quot;:&quot;0&quot;,\n&quot;courseType&quot;:&quot;1&quot;\n}-Success]" time="0.213"></testcase><testcase classname="test_case.test_getCourse" file="test_case/test_getCourse.py" line="5" name="test_getCourse[{\n&quot;studyYears&quot;:&quot;2019&quot;,\n&quot;subject&quot;:&quot;2&quot;,\n&quot;grades&quot;:&quot;\u9ad8\u4e00&quot;,\n&quot;version&quot;:&quot;\u4eba\u6559A\u7248&quot;,\n&quot;gradeType&quot;:&quot;0&quot;,\n&quot;courseType&quot;:&quot;1&quot;\n}-Success1]" time="0.201"></testcase><testcase classname="test_case.test_getCourse" file="test_case/test_getCourse.py" line="5" name="test_getCourse[{\n&quot;studyYears&quot;:&quot;2019&quot;,\n&quot;subject&quot;:&quot;2&quot;,\n&quot;grades&quot;:&quot;\u9ad8\u4e00&quot;,\n&quot;version&quot;:&quot;\u4eba\u6559A\u7248&quot;,\n&quot;gradeType&quot;:&quot;1&quot;,\n&quot;courseType&quot;:&quot;1&quot;\n}-Success]" time="0.301"></testcase><testcase classname="test_case.test_getCourse" file="test_case/test_getCourse.py" line="5" name="test_getCourse[{\n&quot;studyYears&quot;:&quot;2019&quot;,\n&quot;subject&quot;:&quot;2&quot;,\n&quot;grades&quot;:&quot;\u9ad8\u4e00&quot;,\n&quot;version&quot;:&quot;\u4eba\u6559A\u7248&quot;,\n&quot;gradeType&quot;:&quot;0&quot;,\n&quot;courseType&quot;:&quot;1&quot;\n}-Success2]" time="0.271"></testcase><testcase classname="test_case.test_getCourse" file="test_case/test_getCourse.py" line="5" name="test_getCourse[{\n&quot;studyYears&quot;:&quot;2019&quot;,\n&quot;subject&quot;:&quot;2&quot;,\n&quot;grades&quot;:&quot;\u9ad8\u4e00&quot;,\n&quot;version&quot;:&quot;\u4eba\u6559A\u7248&quot;,\n&quot;gradeType&quot;:&quot;0&quot;,\n&quot;courseType&quot;:&quot;3&quot;\n}-Success]" time="0.269"></testcase><testcase classname="test_case.test_getCourse" file="test_case/test_getCourse.py" line="5" name="test_getCourse[{\n&quot;studyYears&quot;:&quot;2019&quot;,\n&quot;subject&quot;:&quot;2&quot;,\n&quot;grades&quot;:&quot;\u9ad8\u4e00&quot;,\n&quot;version&quot;:&quot;\u4eba\u6559A\u7248&quot;,\n&quot;gradeType&quot;:&quot;0&quot;,\n&quot;courseType&quot;:&quot;5&quot;\n}-Success]" time="0.316"></testcase><testcase classname="test_case.test_getCourse" file="test_case/test_getCourse.py" line="5" name="test_getCourse[{\n&quot;studyYears&quot;:&quot;2019&quot;,\n&quot;subject&quot;:&quot;2&quot;,\n&quot;grades&quot;:&quot;\u9ad8\u4e00&quot;,\n&quot;version&quot;:&quot;\u4eba\u6559A\u7248&quot;,\n&quot;gradeType&quot;:&quot;0&quot;,\n&quot;courseType&quot;:&quot;6&quot;\n}-Success]" time="0.216"></testcase><testcase classname="test_case.test_getCourse" file="test_case/test_getCourse.py" line="5" name="test_getCourse[{\n&quot;studyYears&quot;:&quot;2019&quot;,\n&quot;subject&quot;:&quot;2&quot;,\n&quot;grades&quot;:&quot;\u9ad8\u4e00&quot;,\n&quot;version&quot;:&quot;\u4eba\u6559A\u7248&quot;,\n&quot;gradeType&quot;:&quot;0&quot;,\n&quot;courseType&quot;:&quot;7&quot;\n}-Success]" time="0.336"></testcase><testcase classname="test_case.test_getCourse" file="test_case/test_getCourse.py" line="5" name="test_getCourse[{\n&quot;studyYears&quot;:&quot;2019&quot;,\n&quot;subject&quot;:&quot;2&quot;,\n&quot;grades&quot;:&quot;\u9ad8\u4e00&quot;,\n&quot;version&quot;:&quot;\u4eba\u6559A\u7248&quot;,\n&quot;gradeType&quot;:&quot;0&quot;,\n&quot;courseType&quot;:&quot;8&quot;\n}-Success]" time="0.205"></testcase><testcase classname="test_case.test_getTerm" file="test_case/test_getTerm.py" line="5" name="test_getTextbook[{\n&quot;studyYears&quot;:&quot;2019&quot;,\n&quot;subject&quot;:&quot;2&quot;,\n&quot;grades&quot;:&quot;\u9ad8\u4e00&quot;,\n&quot;version&quot;:&quot;\u4eba\u6559A\u7248&quot;,\n&quot;enrolTime&quot;:&quot;03-2019&quot;,\n&quot;location&quot;:&quot;\u5317\u4eac&quot;\n}-Success]" time="0.200"></testcase><testcase classname="test_case.test_getTerm" file="test_case/test_getTerm.py" line="5" name="test_getTextbook[{\n&quot;studyYears&quot;:&quot;&quot;,\n&quot;subject&quot;:&quot;2&quot;,\n&quot;grades&quot;:&quot;\u9ad8\u4e00&quot;,\n&quot;version&quot;:&quot;\u4eba\u6559A\u7248&quot;,\n&quot;enrolTime&quot;:&quot;03-2019&quot;,\n&quot;location&quot;:&quot;\u5317\u4eac&quot;\n}-Parameter Invalid]" time="0.249"></testcase><testcase classname="test_case.test_getTerm" file="test_case/test_getTerm.py" line="5" name="test_getTextbook[{\n&quot;studyYears&quot;:&quot;2019&quot;,\n&quot;subject&quot;:&quot;&quot;,\n&quot;grades&quot;:&quot;\u9ad8\u4e00&quot;,\n&quot;version&quot;:&quot;\u4eba\u6559A\u7248&quot;,\n&quot;enrolTime&quot;:&quot;03-2019&quot;,\n&quot;location&quot;:&quot;\u5317\u4eac&quot;\n}-Parameter Invalid]" time="0.305"></testcase><testcase classname="test_case.test_getTerm" file="test_case/test_getTerm.py" line="5" name="test_getTextbook[{\n&quot;studyYears&quot;:&quot;2019&quot;,\n&quot;subject&quot;:&quot;2&quot;,\n&quot;grades&quot;:&quot;&quot;,\n&quot;version&quot;:&quot;\u4eba\u6559A\u7248&quot;,\n&quot;enrolTime&quot;:&quot;03-2019&quot;,\n&quot;location&quot;:&quot;\u5317\u4eac&quot;\n}-Parameter Invalid]" time="0.281"></testcase><testcase classname="test_case.test_getTerm" file="test_case/test_getTerm.py" line="5" name="test_getTextbook[{\n&quot;studyYears&quot;:&quot;2019&quot;,\n&quot;subject&quot;:&quot;2&quot;,\n&quot;grades&quot;:&quot;\u9ad8\u4e00&quot;,\n&quot;version&quot;:&quot;&quot;,\n&quot;enrolTime&quot;:&quot;03-2019&quot;,\n&quot;location&quot;:&quot;\u5317\u4eac&quot;\n}-Parameter Invalid]" time="0.272"></testcase><testcase classname="test_case.test_getTerm" file="test_case/test_getTerm.py" line="5" name="test_getTextbook[{\n&quot;studyYears&quot;:&quot;2019&quot;,\n&quot;subject&quot;:&quot;2&quot;,\n&quot;grades&quot;:&quot;\u9ad8\u4e00&quot;,\n&quot;version&quot;:&quot;\u4eba\u6559A\u7248&quot;,\n&quot;enrolTime&quot;:&quot;&quot;,\n&quot;location&quot;:&quot;\u5317\u4eac&quot;\n}-Parameter Invalid]" time="0.294"></testcase><testcase classname="test_case.test_getTerm" file="test_case/test_getTerm.py" line="5" name="test_getTextbook[{\n&quot;studyYears&quot;:&quot;2019&quot;,\n&quot;subject&quot;:&quot;2&quot;,\n&quot;grades&quot;:&quot;\u9ad8\u4e00&quot;,\n&quot;version&quot;:&quot;\u4eba\u6559A\u7248&quot;,\n&quot;enrolTime&quot;:&quot;03-2019&quot;,\n&quot;location&quot;:&quot;&quot;\n}-Parameter Invalid]" time="0.307"></testcase><testcase classname="test_case.test_getTextbook" file="test_case/test_getTextbook.py" line="5" name="test_getTextbook[{\n&quot;subject&quot;:&quot;\u6570\u5b66&quot;,\n&quot;grade&quot;:&quot;\u521d\u4e2d&quot;,\n&quot;version&quot;:&quot;\u4eba\u6559\u7248&quot;,\n&quot;studyYear&quot;:&quot;2019&quot;\n}-Success]" time="0.264"></testcase><testcase classname="test_case.test_getTextbook" file="test_case/test_getTextbook.py" line="5" name="test_getTextbook[{\n&quot;subject&quot;:&quot;&quot;,\n&quot;grade&quot;:&quot;\u521d\u4e2d&quot;,\n&quot;version&quot;:&quot;\u4eba\u6559\u7248&quot;,\n&quot;studyYear&quot;:&quot;2019&quot;\n}-Parameter Invalid]" time="0.195"></testcase><testcase classname="test_case.test_getTextbook" file="test_case/test_getTextbook.py" line="5" name="test_getTextbook[{\n&quot;subject&quot;:&quot;\u6570\u5b66&quot;,\n&quot;grade&quot;:&quot;&quot;,\n&quot;version&quot;:&quot;\u4eba\u6559\u7248&quot;,\n&quot;studyYear&quot;:&quot;2019&quot;\n}-Parameter Invalid]" time="0.294"></testcase><testcase classname="test_case.test_getTextbook" file="test_case/test_getTextbook.py" line="5" name="test_getTextbook[{\n&quot;subject&quot;:&quot;\u6570\u5b66&quot;,\n&quot;grade&quot;:&quot;\u521d\u4e2d&quot;,\n&quot;version&quot;:&quot;&quot;,\n&quot;studyYear&quot;:&quot;2019&quot;\n}-Parameter Invalid]" time="0.209"></testcase><testcase classname="test_case.test_getTextbook" file="test_case/test_getTextbook.py" line="5" name="test_getTextbook[{\n&quot;subject&quot;:&quot;\u6570\u5b66&quot;,\n&quot;grade&quot;:&quot;\u521d\u4e2d&quot;,\n&quot;version&quot;:&quot;\u4eba\u6559\u7248&quot;,\n&quot;studyYear&quot;:&quot;&quot;\n}-Parameter Invalid]" time="0.269"></testcase><testcase classname="test_case.test_getVersion" file="test_case/test_getVersion.py" line="5" name="test_getTextbook[{\n&quot;subject&quot;:&quot;\u6570\u5b66&quot;,\n&quot;grade&quot;:&quot;\u521d\u4e2d&quot;,\n&quot;gradeType&quot;:&quot;0&quot;,\n&quot;studyYears&quot;:&quot;2019&quot;,\n&quot;courseType&quot;:&quot;1&quot;\n}-Success]" time="0.279"></testcase><testcase classname="test_case.test_getVersion" file="test_case/test_getVersion.py" line="5" name="test_getTextbook[{\n&quot;subject&quot;:&quot;&quot;,\n&quot;grade&quot;:&quot;\u521d\u4e2d&quot;,\n&quot;gradeType&quot;:&quot;0&quot;,\n&quot;studyYears&quot;:&quot;2019&quot;,\n&quot;courseType&quot;:&quot;1&quot;\n}-Parameter Invalid]" time="0.205"></testcase><testcase classname="test_case.test_getVersion" file="test_case/test_getVersion.py" line="5" name="test_getTextbook[{\n&quot;subject&quot;:&quot;\u6570\u5b66&quot;,\n&quot;grade&quot;:&quot;&quot;,\n&quot;gradeType&quot;:&quot;0&quot;,\n&quot;studyYears&quot;:&quot;2019&quot;,\n&quot;courseType&quot;:&quot;1&quot;\n}-Parameter Invalid]" time="0.320"></testcase><testcase classname="test_case.test_getVersion" file="test_case/test_getVersion.py" line="5" name="test_getTextbook[{\n&quot;subject&quot;:&quot;\u6570\u5b66&quot;,\n&quot;grade&quot;:&quot;\u521d\u4e2d&quot;,\n&quot;gradeType&quot;:&quot;&quot;,\n&quot;studyYears&quot;:&quot;2019&quot;,\n&quot;courseType&quot;:&quot;1&quot;\n}-Success]" time="0.311"></testcase><testcase classname="test_case.test_getVersion" file="test_case/test_getVersion.py" line="5" name="test_getTextbook[{\n&quot;subject&quot;:&quot;\u6570\u5b66&quot;,\n&quot;grade&quot;:&quot;\u521d\u4e2d&quot;,\n&quot;gradeType&quot;:&quot;0&quot;,\n&quot;studyYears&quot;:&quot;&quot;,\n&quot;courseType&quot;:&quot;1&quot;\n}-Parameter Invalid]" time="0.330"></testcase><testcase classname="test_case.test_getteacherlist.Test_getteacherlist" file="test_case/test_getteacherlist.py" line="9" name="test_001" time="0.300"><failure message="TypeError: &apos;NoneType&apos; object is not subscriptable">self = &lt;test_getteacherlist.Test_getteacherlist object at 0x10ad659a0&gt;
+
+    @allure.title(&quot;获取教师列表成功&quot;)
+    def test_001(self):
+        data = Read_exc().read_exc(&quot;Teacherlist&quot;)
+&gt;       tmptoken = TeacherList().test_gettmptoken()
+
+../test_case/test_getteacherlist.py:13: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = &lt;Lib_common.get_token.TeacherList object at 0x10ad58070&gt;
+
+    def test_gettmptoken(self):
+        url = &apos;https://jdapi.jd100.com/uc/core/v1/sys/opterTmpToken&apos;
+        params = {&apos;sysID&apos;: &apos;5&apos;}
+        r = requests.get(url=url, params=params)
+&gt;       TeacherList.TMPTOKEN = r.json().get(&apos;data&apos;)[&apos;opterTmpToken&apos;]
+E       TypeError: &apos;NoneType&apos; object is not subscriptable
+
+../Lib_common/get_token.py:12: TypeError</failure></testcase><testcase classname="test_case.test_getteacherlist.Test_getteacherlist" file="test_case/test_getteacherlist.py" line="21" name="test_002" time="0.279"><failure message="TypeError: &apos;NoneType&apos; object is not subscriptable">self = &lt;test_getteacherlist.Test_getteacherlist object at 0x10ad72550&gt;
+
+    @allure.title(&quot;获取教师列表缺少必要参数&quot;)
+    def test_002(self):
+        data = Read_exc().read_exc(&quot;Teacherlist&quot;)
+        result = TeacherList()
+&gt;       result.test_gettmptoken()
+
+../test_case/test_getteacherlist.py:26: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = &lt;Lib_common.get_token.TeacherList object at 0x10abf0310&gt;
+
+    def test_gettmptoken(self):
+        url = &apos;https://jdapi.jd100.com/uc/core/v1/sys/opterTmpToken&apos;
+        params = {&apos;sysID&apos;: &apos;5&apos;}
+        r = requests.get(url=url, params=params)
+&gt;       TeacherList.TMPTOKEN = r.json().get(&apos;data&apos;)[&apos;opterTmpToken&apos;]
+E       TypeError: &apos;NoneType&apos; object is not subscriptable
+
+../Lib_common/get_token.py:12: TypeError</failure></testcase><testcase classname="test_case.test_getteacherlist.Test_getteacherlist" file="test_case/test_getteacherlist.py" line="34" name="test_003" time="0.230"><failure message="TypeError: &apos;NoneType&apos; object is not subscriptable">self = &lt;test_getteacherlist.Test_getteacherlist object at 0x10ad94dc0&gt;
+
+    @allure.title(&quot;获取教师列表token失效&quot;)
+    def test_003(self):
+        data = Read_exc().read_exc(&quot;Teacherlist&quot;)
+        result = TeacherList()
+&gt;       result.test_gettmptoken()
+
+../test_case/test_getteacherlist.py:39: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = &lt;Lib_common.get_token.TeacherList object at 0x10abf06d0&gt;
+
+    def test_gettmptoken(self):
+        url = &apos;https://jdapi.jd100.com/uc/core/v1/sys/opterTmpToken&apos;
+        params = {&apos;sysID&apos;: &apos;5&apos;}
+        r = requests.get(url=url, params=params)
+&gt;       TeacherList.TMPTOKEN = r.json().get(&apos;data&apos;)[&apos;opterTmpToken&apos;]
+E       TypeError: &apos;NoneType&apos; object is not subscriptable
+
+../Lib_common/get_token.py:12: TypeError</failure></testcase><testcase classname="test_case.test_qualificationinfo.Test_getqualificationinfo" file="test_case/test_qualificationinfo.py" line="8" name="test_001" time="0.011"></testcase><testcase classname="test_case.test_updateteacher.Test_updateteacher" file="test_case/test_updateteacher.py" line="10" name="test_001" time="0.212"><failure message="TypeError: &apos;NoneType&apos; object is not subscriptable">self = &lt;test_updateteacher.Test_updateteacher object at 0x10ad9d100&gt;
+
+    @allure.title(&quot;更新老师成功&quot;)
+    def test_001(self):
+        cases = Read_exc().read_exc(&quot;Updateteacher&quot;)
+&gt;       tmptoken = TeacherList().test_gettmptoken()
+
+../test_case/test_updateteacher.py:14: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = &lt;Lib_common.get_token.TeacherList object at 0x10ad90910&gt;
+
+    def test_gettmptoken(self):
+        url = &apos;https://jdapi.jd100.com/uc/core/v1/sys/opterTmpToken&apos;
+        params = {&apos;sysID&apos;: &apos;5&apos;}
+        r = requests.get(url=url, params=params)
+&gt;       TeacherList.TMPTOKEN = r.json().get(&apos;data&apos;)[&apos;opterTmpToken&apos;]
+E       TypeError: &apos;NoneType&apos; object is not subscriptable
+
+../Lib_common/get_token.py:12: TypeError</failure></testcase><testcase classname="test_case.test_updateteacher.Test_updateteacher" file="test_case/test_updateteacher.py" line="30" name="test_002" time="0.235"><failure message="TypeError: &apos;NoneType&apos; object is not subscriptable">self = &lt;test_updateteacher.Test_updateteacher object at 0x10adc1610&gt;
+
+    @allure.title(&quot;更新老师缺少必要参数&quot;)
+    def test_002(self):
+        cases = Read_exc().read_exc(&quot;Updateteacher&quot;)
+&gt;       tmptoken = TeacherList().test_gettmptoken()
+
+../test_case/test_updateteacher.py:34: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = &lt;Lib_common.get_token.TeacherList object at 0x10ac7d520&gt;
+
+    def test_gettmptoken(self):
+        url = &apos;https://jdapi.jd100.com/uc/core/v1/sys/opterTmpToken&apos;
+        params = {&apos;sysID&apos;: &apos;5&apos;}
+        r = requests.get(url=url, params=params)
+&gt;       TeacherList.TMPTOKEN = r.json().get(&apos;data&apos;)[&apos;opterTmpToken&apos;]
+E       TypeError: &apos;NoneType&apos; object is not subscriptable
+
+../Lib_common/get_token.py:12: TypeError</failure></testcase></testsuite></testsuites>

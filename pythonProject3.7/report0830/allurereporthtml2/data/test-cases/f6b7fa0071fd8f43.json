@@ -1,0 +1,75 @@
+{
+  "uid" : "f6b7fa0071fd8f43",
+  "name" : "获取商品列表001",
+  "fullName" : "cases.test_readexcel#test_getlist",
+  "historyId" : "ef22f681100b83c1353e4e1dcd9d280d",
+  "time" : {
+    "start" : 1599842942429,
+    "stop" : 1599842942733,
+    "duration" : 304
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e983929e07465966",
+      "name" : "stdout",
+      "source" : "e983929e07465966.txt",
+      "type" : "text/plain",
+      "size" : 74
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_readexcel"
+  }, {
+    "name" : "host",
+    "value" : "192.168.86.100"
+  }, {
+    "name" : "thread",
+    "value" : "2527-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "cases.test_readexcel"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "inData",
+    "value" : "'{\"platform\": \"\",\"grade\": \"g\",\"page\": \"1\",\"num\": \"1\",\"goodsType\": \"1\"}'"
+  }, {
+    "name" : "repsData",
+    "value" : "'缺少必要的参数'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f6b7fa0071fd8f43.json",
+  "parameterValues" : [ "'{\"platform\": \"\",\"grade\": \"g\",\"page\": \"1\",\"num\": \"1\",\"goodsType\": \"1\"}'", "'缺少必要的参数'" ]
+}

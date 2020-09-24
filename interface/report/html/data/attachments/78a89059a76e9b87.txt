@@ -1,0 +1,2 @@
+测试用例共有2行,6列
+{'code': 0, 'message': 'Success', 'data': {'studyYear': '2020', 'newYearFlag': 0}}

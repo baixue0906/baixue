@@ -1,0 +1,65 @@
+{
+  "uid" : "8f7427dbb63fd373",
+  "name" : "test_getTextbook[{\n\"subject\":\"数学\",\n\"grade\":\"初中\",\n\"version\":\"人教版\",\n\"studyYear\":\"2019\"\n}-Success]",
+  "fullName" : "test_case.test_getTextbook#test_getTextbook",
+  "historyId" : "3a4cc331f8b7097fd06551d06fdd1e0c",
+  "time" : {
+    "start" : 1599957356589,
+    "stop" : 1599957356850,
+    "duration" : 261
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "课程数据模块"
+  }, {
+    "name" : "story",
+    "value" : "公共获取教材"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_getTextbook"
+  }, {
+    "name" : "host",
+    "value" : "192.168.86.100"
+  }, {
+    "name" : "thread",
+    "value" : "6272-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_getTextbook"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "inData",
+    "value" : "'{\n\"subject\":\"数学\",\n\"grade\":\"初中\",\n\"version\":\"人教版\",\n\"studyYear\":\"2019\"\n}'"
+  }, {
+    "name" : "repsData",
+    "value" : "'Success'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8f7427dbb63fd373.json",
+  "parameterValues" : [ "'{\n\"subject\":\"数学\",\n\"grade\":\"初中\",\n\"version\":\"人教版\",\n\"studyYear\":\"2019\"\n}'", "'Success'" ]
+}

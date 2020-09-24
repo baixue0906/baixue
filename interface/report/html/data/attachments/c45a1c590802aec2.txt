@@ -1,0 +1,8 @@
+测试用例共有3行,10列
+{'code': 0, 'message': 'Success', 'data': {'userID': 35667343, 'username': 'jd05260008', 'mobile': '19900009913', 'grade': '02-2019', 'gradeType': 0, 'gradeName': '初二', 'province': '北京', 'districtname': '北京', 'subdistrictname': '海淀区', 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE5MDQ0MDUwNDAsImlhdCI6MTU5NjgyMTA0MCwibmJmIjoxNTk2ODIwOTIwLCJzeXN0eXBlIjoid2ViIiwidXNlcl9pZCI6IjM1NjY3MzQzIn0.D0jqxA3zm6XUso3w3B6Kstcr-nCO5jjxAWdGZLuns9s', 'gray': '1', 'timestamp': 1596821887, 'tmpToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1OTY4MjE5NDcsImlhdCI6MTU5NjgyMTg4NywibmJmIjoxNTk2ODIxNzY3LCJzeXN0eXBlIjoid2ViIiwidXNlcl9pZCI6IjM1NjY3MzQzIn0.nQ6xkklTIdShd6X45ZgfkmRZf6Q2Y9Y86C9l6Uhhenc', 'isBind': 0, 'school': '三湾小学', 'mobilebind': 0}}
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE5MDQ0MDUwNDAsImlhdCI6MTU5NjgyMTA0MCwibmJmIjoxNTk2ODIwOTIwLCJzeXN0eXBlIjoid2ViIiwidXNlcl9pZCI6IjM1NjY3MzQzIn0.D0jqxA3zm6XUso3w3B6Kstcr-nCO5jjxAWdGZLuns9s
+测试用例共有5行,9列
+{'code': 210001002, 'message': '赠课唯一键值不能为空', 'data': []}
+{'code': 210001004, 'message': '参数不正确：赠课唯一键值不存在', 'data': []}
+{'code': 0, 'message': 'success', 'data': []}
+{'code': 210001008, 'message': '该用户已经领取过免费正式课', 'data': []}

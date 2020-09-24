@@ -1,0 +1,104 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "TypeError: 'NoneType' object is not subscriptable",
+      "children" : [ {
+        "name" : "添加老师成功",
+        "uid" : "eb26c27dbb6792e7",
+        "parentUid" : "86a928d47f47009c564bd8e345a40463",
+        "status" : "broken",
+        "time" : {
+          "start" : 1599957349896,
+          "stop" : 1599957350222,
+          "duration" : 326
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "添加老师缺少必要参数",
+        "uid" : "545094d8ded5922d",
+        "parentUid" : "86a928d47f47009c564bd8e345a40463",
+        "status" : "broken",
+        "time" : {
+          "start" : 1599957350289,
+          "stop" : 1599957350482,
+          "duration" : 193
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "获取教师列表成功",
+        "uid" : "61b2dacf28985140",
+        "parentUid" : "86a928d47f47009c564bd8e345a40463",
+        "status" : "broken",
+        "time" : {
+          "start" : 1599957359294,
+          "stop" : 1599957359593,
+          "duration" : 299
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "获取教师列表缺少必要参数",
+        "uid" : "bb8dd7e8adcd0001",
+        "parentUid" : "86a928d47f47009c564bd8e345a40463",
+        "status" : "broken",
+        "time" : {
+          "start" : 1599957359615,
+          "stop" : 1599957359894,
+          "duration" : 279
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "获取教师列表token失效",
+        "uid" : "4c187fb0f289f0fb",
+        "parentUid" : "86a928d47f47009c564bd8e345a40463",
+        "status" : "broken",
+        "time" : {
+          "start" : 1599957359904,
+          "stop" : 1599957360134,
+          "duration" : 230
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "更新老师成功",
+        "uid" : "37a435801cd9d958",
+        "parentUid" : "86a928d47f47009c564bd8e345a40463",
+        "status" : "broken",
+        "time" : {
+          "start" : 1599957360157,
+          "stop" : 1599957360368,
+          "duration" : 211
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "更新老师缺少必要参数",
+        "uid" : "36357efb9fabe93f",
+        "parentUid" : "86a928d47f47009c564bd8e345a40463",
+        "status" : "broken",
+        "time" : {
+          "start" : 1599957360378,
+          "stop" : 1599957360613,
+          "duration" : 235
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "86a928d47f47009c564bd8e345a40463"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

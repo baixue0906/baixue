@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "192.168.86.100",
+    "children" : [ {
+      "name" : "2527-MainThread",
+      "children" : [ {
+        "name" : "获取商品列表001",
+        "uid" : "f6b7fa0071fd8f43",
+        "parentUid" : "610e09036e4a653a3e4629d8eedd191b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1599842942429,
+          "stop" : 1599842942733,
+          "duration" : 304
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\"platform\": \"\",\"grade\": \"g\",\"page\": \"1\",\"num\": \"1\",\"goodsType\": \"1\"}'", "'缺少必要的参数'" ]
+      }, {
+        "name" : "获取商品列表001",
+        "uid" : "6973d1c020fa31dd",
+        "parentUid" : "610e09036e4a653a3e4629d8eedd191b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1599842942096,
+          "stop" : 1599842942425,
+          "duration" : 329
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\"platform\": \"1\",\"grade\": \"g\",\"page\": \"1\",\"num\": \"1\",\"goodsType\": \"1\"}'", "'Success'" ]
+      } ],
+      "uid" : "610e09036e4a653a3e4629d8eedd191b"
+    } ],
+    "uid" : "597d5769f2e0750433b082dfac1dc09d"
+  } ]
+}

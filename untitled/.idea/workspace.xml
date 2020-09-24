@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f40488f-8fa3-4fcc-af8b-8145672ae1e7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PP0A8MIPnan7eFpPB8dbrNSr4F" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="untitled" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="untitled" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lib" />
+      <recent name="$PROJECT_DIR$/Lib_common" />
+      <recent name="$PROJECT_DIR$/Lib_api" />
+      <recent name="C:\Users\baixue\PycharmProjects\untitled\test_case" />
+      <recent name="C:\Users\baixue\PycharmProjects\untitled" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\baixue\PycharmProjects\untitled\venv" />
+      <recent name="C:\Users\baixue\PycharmProjects\untitled" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Dailytest">
+    <configuration name="Dailytest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Coursemg_Interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dailytest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="addTeacherInfo" type="PythonConfigurationType" factoryName="Python">
+      <module name="Coursemg_Interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\baixue\PycharmProjects\untitled\CoursemgCase\Test_AddTeacherInfo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_userToken" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Coursemg_Interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lib/Lib_common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lib/Lib_common/get_userToken.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_getTerm.test_getTextbook" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Coursemg_Interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_getTerm.test_getTextbook&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_getCourse.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Coursemg_Interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_case/test_getCourse.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_getTerm.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Coursemg_Interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_case/test_getTerm.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.addTeacherInfo" />
+      <item itemvalue="Python tests.pytest in test_getCourse.py" />
+      <item itemvalue="Python tests.pytest in test_getTerm.py" />
+      <item itemvalue="Python tests.pytest for test_getTerm.test_getTextbook" />
+      <item itemvalue="Python.get_userToken" />
+      <item itemvalue="Python.Dailytest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Dailytest" />
+        <item itemvalue="Python.get_userToken" />
+        <item itemvalue="Python tests.pytest in test_getTerm.py" />
+        <item itemvalue="Python tests.pytest for test_getTerm.test_getTextbook" />
+        <item itemvalue="Python tests.pytest in test_getCourse.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f40488f-8fa3-4fcc-af8b-8145672ae1e7" name="Default Changelist" comment="" />
+      <created>1565760277065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565760277065</updated>
+      <workItem from="1565760291811" duration="8273000" />
+      <workItem from="1565771385835" duration="5317000" />
+      <workItem from="1566301696028" duration="1262000" />
+      <workItem from="1567676770967" duration="442000" />
+      <workItem from="1568432123064" duration="75000" />
+      <workItem from="1568432219460" duration="22000" />
+      <workItem from="1568432323161" duration="9000" />
+      <workItem from="1568432344935" duration="623000" />
+      <workItem from="1571626021422" duration="2506000" />
+      <workItem from="1575958573257" duration="2081000" />
+      <workItem from="1588755825728" duration="882000" />
+      <workItem from="1588815125346" duration="55000" />
+      <workItem from="1588817084483" duration="15049000" />
+      <workItem from="1589269546077" duration="10610000" />
+      <workItem from="1593399755656" duration="7125000" />
+      <workItem from="1593582548006" duration="16891000" />
+      <workItem from="1593767763935" duration="4128000" />
+      <workItem from="1594026300474" duration="6782000" />
+      <workItem from="1594185645590" duration="3441000" />
+      <workItem from="1595809232970" duration="2025000" />
+      <workItem from="1595811280189" duration="21366000" />
+      <workItem from="1596424218068" duration="33173000" />
+      <workItem from="1596582559126" duration="3320000" />
+      <workItem from="1596693355128" duration="32319000" />
+      <workItem from="1597049423837" duration="14922000" />
+      <workItem from="1597384726763" duration="5334000" />
+      <workItem from="1597621417192" duration="1067000" />
+      <workItem from="1597627755106" duration="184000" />
+      <workItem from="1597627976039" duration="118000" />
+      <workItem from="1597632990169" duration="2658000" />
+      <workItem from="1597645412918" duration="34000" />
+      <workItem from="1597893373486" duration="5758000" />
+      <workItem from="1598234319211" duration="6983000" />
+      <workItem from="1598241627992" duration="2172000" />
+      <workItem from="1598246715506" duration="1195000" />
+      <workItem from="1598247960840" duration="3385000" />
+      <workItem from="1598251368789" duration="241000" />
+      <workItem from="1598251642245" duration="12753000" />
+      <workItem from="1598321749714" duration="1828000" />
+      <workItem from="1598675870407" duration="3143000" />
+      <workItem from="1598832146530" duration="1026000" />
+      <workItem from="1598833189420" duration="19672000" />
+      <workItem from="1598867982572" duration="11245000" />
+      <workItem from="1598945544277" duration="6558000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1419" height="170" key="GridCell.Tab.0.bottom" timestamp="1600871684565">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1419" height="88" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1599996363733" />
+    <state width="1419" height="174" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1599958809182" />
+    <state width="1419" height="131" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1599924416782" />
+    <state width="1419" height="142" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1600791540372" />
+    <state width="1419" height="170" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1600871684565" />
+    <state width="1419" height="65" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1600870053727" />
+    <state width="1419" height="270" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1600866722193" />
+    <state width="1419" height="142" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1600790720763" />
+    <state width="1419" height="170" key="GridCell.Tab.0.center" timestamp="1600871684564">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1419" height="88" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1599996363733" />
+    <state width="1419" height="174" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1599958809182" />
+    <state width="1419" height="131" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1599924416781" />
+    <state width="1419" height="142" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1600791540371" />
+    <state width="1419" height="170" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1600871684564" />
+    <state width="1419" height="65" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1600870053726" />
+    <state width="1419" height="270" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1600866722192" />
+    <state width="1419" height="142" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1600790720762" />
+    <state width="1419" height="170" key="GridCell.Tab.0.left" timestamp="1600871684563">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1419" height="88" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1599996363733" />
+    <state width="1419" height="174" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1599958809182" />
+    <state width="1419" height="131" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1599924416781" />
+    <state width="1419" height="142" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1600791540371" />
+    <state width="1419" height="170" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1600871684563" />
+    <state width="1419" height="65" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1600870053726" />
+    <state width="1419" height="270" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1600866722191" />
+    <state width="1419" height="142" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1600790720762" />
+    <state width="1419" height="170" key="GridCell.Tab.0.right" timestamp="1600871684564">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1419" height="88" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1599996363733" />
+    <state width="1419" height="174" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1599958809182" />
+    <state width="1419" height="131" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1599924416782" />
+    <state width="1419" height="142" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1600791540372" />
+    <state width="1419" height="170" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1600871684564" />
+    <state width="1419" height="65" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1600870053726" />
+    <state width="1419" height="270" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1600866722192" />
+    <state width="1419" height="142" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1600790720763" />
+    <state width="1419" height="258" key="GridCell.Tab.1.bottom" timestamp="1600870014370">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1419" height="258" key="GridCell.Tab.1.bottom/0.23.1440.812@0.23.1440.812" timestamp="1600870014370" />
+    <state width="1419" height="258" key="GridCell.Tab.1.center" timestamp="1600870014370">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1419" height="258" key="GridCell.Tab.1.center/0.23.1440.812@0.23.1440.812" timestamp="1600870014370" />
+    <state width="1419" height="258" key="GridCell.Tab.1.left" timestamp="1600870014370">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1419" height="258" key="GridCell.Tab.1.left/0.23.1440.812@0.23.1440.812" timestamp="1600870014370" />
+    <state width="1419" height="258" key="GridCell.Tab.1.right" timestamp="1600870014370">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1419" height="258" key="GridCell.Tab.1.right/0.23.1440.812@0.23.1440.812" timestamp="1600870014370" />
+    <state x="221" y="63" key="SettingsEditor" timestamp="1599974116329">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="221" y="63" key="SettingsEditor/0.23.1440.801@0.23.1440.801" timestamp="1599974116329" />
+    <state x="221" y="63" key="SettingsEditor/0.23.1440.806@0.23.1440.806" timestamp="1599921052820" />
+    <state x="100" y="123" width="1240" height="601" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599978910431">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="100" y="123" width="1240" height="601" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.801@0.23.1440.801" timestamp="1599978910431" />
+  </component>
+</project>

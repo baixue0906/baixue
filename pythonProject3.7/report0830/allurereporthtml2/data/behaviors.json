@@ -1,0 +1,31 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "获取商品列表001",
+    "uid" : "6973d1c020fa31dd",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1599842942096,
+      "stop" : 1599842942425,
+      "duration" : 329
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'{\"platform\": \"1\",\"grade\": \"g\",\"page\": \"1\",\"num\": \"1\",\"goodsType\": \"1\"}'", "'Success'" ]
+  }, {
+    "name" : "获取商品列表001",
+    "uid" : "f6b7fa0071fd8f43",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1599842942429,
+      "stop" : 1599842942733,
+      "duration" : 304
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'{\"platform\": \"\",\"grade\": \"g\",\"page\": \"1\",\"num\": \"1\",\"goodsType\": \"1\"}'", "'缺少必要的参数'" ]
+  } ]
+}

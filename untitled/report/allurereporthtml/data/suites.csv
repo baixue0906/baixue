@@ -1,0 +1,258 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Sep 13 08:35:50 CST 2020","Sun Sep 13 08:35:50 CST 2020","185","test_case","test_getCourse","","","","test_getCourse[{
+""studyYears"":"""",
+""subject"":""2"",
+""grades"":""高一"",
+""version"":""人教A版"",
+""gradeType"":""0"",
+""courseType"":""1""
+}-Parameter Invalid]",""
+"passed","Sun Sep 13 08:35:57 CST 2020","Sun Sep 13 08:35:57 CST 2020","267","test_case","test_getTextbook","","","","test_getTextbook[{
+""subject"":""数学"",
+""grade"":""初中"",
+""version"":""人教版"",
+""studyYear"":""""
+}-Parameter Invalid]",""
+"passed","Sun Sep 13 08:35:58 CST 2020","Sun Sep 13 08:35:59 CST 2020","326","test_case","test_getVersion","","","","test_getTextbook[{
+""subject"":""数学"",
+""grade"":""初中"",
+""gradeType"":""0"",
+""studyYears"":"""",
+""courseType"":""1""
+}-Parameter Invalid]",""
+"passed","Sun Sep 13 08:35:53 CST 2020","Sun Sep 13 08:35:54 CST 2020","212","test_case","test_getCourse","","","","test_getCourse[{
+""studyYears"":""2019"",
+""subject"":""2"",
+""grades"":""高一"",
+""version"":""人教A版"",
+""gradeType"":""0"",
+""courseType"":""6""
+}-Success]",""
+"passed","Sun Sep 13 08:35:55 CST 2020","Sun Sep 13 08:35:56 CST 2020","290","test_case","test_getTerm","","","","test_getTextbook[{
+""studyYears"":""2019"",
+""subject"":""2"",
+""grades"":""高一"",
+""version"":""人教A版"",
+""enrolTime"":"""",
+""location"":""北京""
+}-Parameter Invalid]",""
+"passed","Sun Sep 13 08:35:56 CST 2020","Sun Sep 13 08:35:56 CST 2020","261","test_case","test_getTextbook","","","","test_getTextbook[{
+""subject"":""数学"",
+""grade"":""初中"",
+""version"":""人教版"",
+""studyYear"":""2019""
+}-Success]",""
+"passed","Sun Sep 13 08:35:50 CST 2020","Sun Sep 13 08:35:51 CST 2020","313","test_case","test_getCourse","","","","test_getCourse[{
+""studyYears"":""2019"",
+""subject"":"""",
+""grades"":""高一"",
+""version"":""人教A版"",
+""gradeType"":""0"",
+""courseType"":""1""
+}-Parameter Invalid]",""
+"passed","Sun Sep 13 08:35:54 CST 2020","Sun Sep 13 08:35:54 CST 2020","333","test_case","test_getCourse","","","","test_getCourse[{
+""studyYears"":""2019"",
+""subject"":""2"",
+""grades"":""高一"",
+""version"":""人教A版"",
+""gradeType"":""0"",
+""courseType"":""7""
+}-Success]",""
+"broken","Sun Sep 13 08:35:49 CST 2020","Sun Sep 13 08:35:50 CST 2020","326","test_case","test_addteacher","Test_addteacher","","","添加老师成功",""
+"passed","Sun Sep 13 08:35:50 CST 2020","Sun Sep 13 08:35:50 CST 2020","284","test_case","test_getCourse","","","","test_getCourse[{
+""studyYears"":""2019"",
+""subject"":""2"",
+""grades"":""高一"",
+""version"":""人教A版"",
+""gradeType"":""0"",
+""courseType"":""1""
+}-Success0]",""
+"passed","Sun Sep 13 08:35:52 CST 2020","Sun Sep 13 08:35:52 CST 2020","198","test_case","test_getCourse","","","","test_getCourse[{
+""studyYears"":""2019"",
+""subject"":""2"",
+""grades"":""高一"",
+""version"":""人教A版"",
+""gradeType"":""0"",
+""courseType"":""1""
+}-Success1]",""
+"passed","Sun Sep 13 08:35:57 CST 2020","Sun Sep 13 08:35:57 CST 2020","204","test_case","test_getTextbook","","","","test_getTextbook[{
+""subject"":""数学"",
+""grade"":""初中"",
+""version"":"""",
+""studyYear"":""2019""
+}-Parameter Invalid]",""
+"passed","Sun Sep 13 08:35:53 CST 2020","Sun Sep 13 08:35:53 CST 2020","268","test_case","test_getCourse","","","","test_getCourse[{
+""studyYears"":""2019"",
+""subject"":""2"",
+""grades"":""高一"",
+""version"":""人教A版"",
+""gradeType"":""0"",
+""courseType"":""1""
+}-Success2]",""
+"broken","Sun Sep 13 08:35:59 CST 2020","Sun Sep 13 08:35:59 CST 2020","279","test_case","test_getteacherlist","Test_getteacherlist","","","获取教师列表缺少必要参数",""
+"passed","Sun Sep 13 08:35:56 CST 2020","Sun Sep 13 08:35:57 CST 2020","192","test_case","test_getTextbook","","","","test_getTextbook[{
+""subject"":"""",
+""grade"":""初中"",
+""version"":""人教版"",
+""studyYear"":""2019""
+}-Parameter Invalid]",""
+"passed","Sun Sep 13 08:35:53 CST 2020","Sun Sep 13 08:35:53 CST 2020","313","test_case","test_getCourse","","","","test_getCourse[{
+""studyYears"":""2019"",
+""subject"":""2"",
+""grades"":""高一"",
+""version"":""人教A版"",
+""gradeType"":""0"",
+""courseType"":""5""
+}-Success]",""
+"passed","Sun Sep 13 08:35:54 CST 2020","Sun Sep 13 08:35:55 CST 2020","246","test_case","test_getTerm","","","","test_getTextbook[{
+""studyYears"":"""",
+""subject"":""2"",
+""grades"":""高一"",
+""version"":""人教A版"",
+""enrolTime"":""03-2019"",
+""location"":""北京""
+}-Parameter Invalid]",""
+"passed","Sun Sep 13 08:35:54 CST 2020","Sun Sep 13 08:35:54 CST 2020","195","test_case","test_getTerm","","","","test_getTextbook[{
+""studyYears"":""2019"",
+""subject"":""2"",
+""grades"":""高一"",
+""version"":""人教A版"",
+""enrolTime"":""03-2019"",
+""location"":""北京""
+}-Success]",""
+"broken","Sun Sep 13 08:35:59 CST 2020","Sun Sep 13 08:36:00 CST 2020","230","test_case","test_getteacherlist","Test_getteacherlist","","","获取教师列表token失效",""
+"passed","Sun Sep 13 08:35:57 CST 2020","Sun Sep 13 08:35:57 CST 2020","291","test_case","test_getTextbook","","","","test_getTextbook[{
+""subject"":""数学"",
+""grade"":"""",
+""version"":""人教版"",
+""studyYear"":""2019""
+}-Parameter Invalid]",""
+"passed","Sun Sep 13 08:35:58 CST 2020","Sun Sep 13 08:35:58 CST 2020","308","test_case","test_getVersion","","","","test_getTextbook[{
+""subject"":""数学"",
+""grade"":""初中"",
+""gradeType"":"""",
+""studyYears"":""2019"",
+""courseType"":""1""
+}-Success]",""
+"passed","Sun Sep 13 08:35:58 CST 2020","Sun Sep 13 08:35:58 CST 2020","318","test_case","test_getVersion","","","","test_getTextbook[{
+""subject"":""数学"",
+""grade"":"""",
+""gradeType"":""0"",
+""studyYears"":""2019"",
+""courseType"":""1""
+}-Parameter Invalid]",""
+"passed","Sun Sep 13 08:35:53 CST 2020","Sun Sep 13 08:35:53 CST 2020","266","test_case","test_getCourse","","","","test_getCourse[{
+""studyYears"":""2019"",
+""subject"":""2"",
+""grades"":""高一"",
+""version"":""人教A版"",
+""gradeType"":""0"",
+""courseType"":""3""
+}-Success]",""
+"passed","Sun Sep 13 08:35:58 CST 2020","Sun Sep 13 08:35:58 CST 2020","199","test_case","test_getVersion","","","","test_getTextbook[{
+""subject"":"""",
+""grade"":""初中"",
+""gradeType"":""0"",
+""studyYears"":""2019"",
+""courseType"":""1""
+}-Parameter Invalid]",""
+"passed","Sun Sep 13 08:35:56 CST 2020","Sun Sep 13 08:35:56 CST 2020","304","test_case","test_getTerm","","","","test_getTextbook[{
+""studyYears"":""2019"",
+""subject"":""2"",
+""grades"":""高一"",
+""version"":""人教A版"",
+""enrolTime"":""03-2019"",
+""location"":""""
+}-Parameter Invalid]",""
+"passed","Sun Sep 13 08:35:51 CST 2020","Sun Sep 13 08:35:52 CST 2020","224","test_case","test_getCourse","","","","test_getCourse[{
+""studyYears"":""2019"",
+""subject"":""2"",
+""grades"":""高一"",
+""version"":""人教A版"",
+""gradeType"":""0"",
+""courseType"":""""
+}-Parameter Invalid]",""
+"passed","Sun Sep 13 08:35:52 CST 2020","Sun Sep 13 08:35:52 CST 2020","201","test_case","test_getCourse","","","","test_getCourse[{
+""studyYears"":""2019,2020"",
+""subject"":""2"",
+""grades"":""高一"",
+""version"":""人教A版"",
+""gradeType"":""0"",
+""courseType"":""1""
+}-Success]",""
+"broken","Sun Sep 13 08:35:59 CST 2020","Sun Sep 13 08:35:59 CST 2020","299","test_case","test_getteacherlist","Test_getteacherlist","","","获取教师列表成功",""
+"passed","Sun Sep 13 08:35:55 CST 2020","Sun Sep 13 08:35:55 CST 2020","278","test_case","test_getTerm","","","","test_getTextbook[{
+""studyYears"":""2019"",
+""subject"":""2"",
+""grades"":"""",
+""version"":""人教A版"",
+""enrolTime"":""03-2019"",
+""location"":""北京""
+}-Parameter Invalid]",""
+"passed","Sun Sep 13 08:35:52 CST 2020","Sun Sep 13 08:35:52 CST 2020","209","test_case","test_getCourse","","","","test_getCourse[{
+""studyYears"":""2019"",
+""subject"":""2"",
+""grades"":""高一,高二,高三"",
+""version"":""人教A版"",
+""gradeType"":""0"",
+""courseType"":""1""
+}-Success]",""
+"broken","Sun Sep 13 08:36:00 CST 2020","Sun Sep 13 08:36:00 CST 2020","235","test_case","test_updateteacher","Test_updateteacher","","","更新老师缺少必要参数",""
+"broken","Sun Sep 13 08:36:00 CST 2020","Sun Sep 13 08:36:00 CST 2020","211","test_case","test_updateteacher","Test_updateteacher","","","更新老师成功",""
+"passed","Sun Sep 13 08:36:00 CST 2020","Sun Sep 13 08:36:00 CST 2020","11","test_case","test_qualificationinfo","Test_getqualificationinfo","","","获取教师资质列表成功",""
+"passed","Sun Sep 13 08:35:54 CST 2020","Sun Sep 13 08:35:54 CST 2020","203","test_case","test_getCourse","","","","test_getCourse[{
+""studyYears"":""2019"",
+""subject"":""2"",
+""grades"":""高一"",
+""version"":""人教A版"",
+""gradeType"":""0"",
+""courseType"":""8""
+}-Success]",""
+"passed","Sun Sep 13 08:35:57 CST 2020","Sun Sep 13 08:35:58 CST 2020","277","test_case","test_getVersion","","","","test_getTextbook[{
+""subject"":""数学"",
+""grade"":""初中"",
+""gradeType"":""0"",
+""studyYears"":""2019"",
+""courseType"":""1""
+}-Success]",""
+"passed","Sun Sep 13 08:35:51 CST 2020","Sun Sep 13 08:35:51 CST 2020","297","test_case","test_getCourse","","","","test_getCourse[{
+""studyYears"":""2019"",
+""subject"":""2"",
+""grades"":""高一"",
+""version"":"""",
+""gradeType"":""0"",
+""courseType"":""1""
+}-Parameter Invalid]",""
+"broken","Sun Sep 13 08:35:50 CST 2020","Sun Sep 13 08:35:50 CST 2020","193","test_case","test_addteacher","Test_addteacher","","","添加老师缺少必要参数",""
+"passed","Sun Sep 13 08:35:55 CST 2020","Sun Sep 13 08:35:55 CST 2020","302","test_case","test_getTerm","","","","test_getTextbook[{
+""studyYears"":""2019"",
+""subject"":"""",
+""grades"":""高一"",
+""version"":""人教A版"",
+""enrolTime"":""03-2019"",
+""location"":""北京""
+}-Parameter Invalid]",""
+"passed","Sun Sep 13 08:35:52 CST 2020","Sun Sep 13 08:35:53 CST 2020","299","test_case","test_getCourse","","","","test_getCourse[{
+""studyYears"":""2019"",
+""subject"":""2"",
+""grades"":""高一"",
+""version"":""人教A版"",
+""gradeType"":""1"",
+""courseType"":""1""
+}-Success]",""
+"passed","Sun Sep 13 08:35:51 CST 2020","Sun Sep 13 08:35:51 CST 2020","277","test_case","test_getCourse","","","","test_getCourse[{
+""studyYears"":""2019"",
+""subject"":""2"",
+""grades"":"""",
+""version"":""人教A版"",
+""gradeType"":""0"",
+""courseType"":""1""
+}-Parameter Invalid]",""
+"passed","Sun Sep 13 08:35:55 CST 2020","Sun Sep 13 08:35:55 CST 2020","269","test_case","test_getTerm","","","","test_getTextbook[{
+""studyYears"":""2019"",
+""subject"":""2"",
+""grades"":""高一"",
+""version"":"""",
+""enrolTime"":""03-2019"",
+""location"":""北京""
+}-Parameter Invalid]",""

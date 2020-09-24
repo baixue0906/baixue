@@ -1,0 +1,6 @@
+测试用例共有9行,13列
+{'code': 101000001, 'message': '用户或密码错误', 'data': None}
+{'code': 101000012, 'message': '用户名不存在', 'data': None}
+{'code': 0, 'message': 'Success', 'data': {'userID': 30389644, 'username': 'jd0629001', 'mobile': '15471236987', 'grade': '02-2018', 'gradeType': 1, 'gradeName': '初三', 'province': '湖南', 'districtname': '郴州', 'subdistrictname': '资兴市', 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE5MDQxNzY1NzgsImlhdCI6MTU5NjU5MjU3OCwibmJmIjoxNTk2NTkyNDU4LCJzeXN0eXBlIjoid2ViIiwidXNlcl9pZCI6IjMwMzg5NjQ0In0.Eamw8Qr3T8LcwZRKo7yuI56koev5Tu25OOCjmu7yUvY', 'gray': '1', 'timestamp': 1596822007, 'tmpToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1OTY4MjIwNjcsImlhdCI6MTU5NjgyMjAwNywibmJmIjoxNTk2ODIxODg3LCJzeXN0eXBlIjoid2ViIiwidXNlcl9pZCI6IjMwMzg5NjQ0In0.FUZ3H8yy8RN3TNUw7KrOKIYMwGBShFMrkN6RWP98kgo', 'isBind': 0, 'school': '兴宁镇中心完小', 'mobilebind': 0}}
+{'code': 100009001, 'message': '需要图形验证', 'data': None}
+{'code': 100009002, 'message': '图形验证失败', 'data': None}

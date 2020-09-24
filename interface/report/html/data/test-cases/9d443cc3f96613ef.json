@@ -1,0 +1,90 @@
+{
+  "uid" : "9d443cc3f96613ef",
+  "name" : "获取课程列表成功",
+  "fullName" : "cases.test_get_formal_courses.Test_get_formal_courses#test_002",
+  "historyId" : "378e1004379d86cec23949305c0a0aa7",
+  "time" : {
+    "start" : 1596821886605,
+    "stop" : 1596821887045,
+    "duration" : 440
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "login_old",
+    "time" : {
+      "start" : 1596821886259,
+      "stop" : 1596821886603,
+      "duration" : 344
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c20c49f024d18604",
+      "name" : "stdout",
+      "source" : "c20c49f024d18604.txt",
+      "type" : "text/plain",
+      "size" : 80010
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "PC获取课程列表"
+  }, {
+    "name" : "parentSuite",
+    "value" : "cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_get_formal_courses"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_get_formal_courses"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-C1ENUNC"
+  }, {
+    "name" : "thread",
+    "value" : "89276-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "cases.test_get_formal_courses"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9d443cc3f96613ef.json",
+  "parameterValues" : [ ]
+}

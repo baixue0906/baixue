@@ -1,0 +1,75 @@
+{
+  "uid" : "fbcaa0e976027071",
+  "name" : "用户留单",
+  "fullName" : "cases.test_retainpage.Test_RetainPage#test_001",
+  "historyId" : "42de62d76ddd7d78a51a8ec18f14eb57",
+  "time" : {
+    "start" : 1596822368617,
+    "stop" : 1596822368706,
+    "duration" : 89
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "79e4c732afcf9528",
+      "name" : "stdout",
+      "source" : "79e4c732afcf9528.txt",
+      "type" : "text/plain",
+      "size" : 169
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "营销产品线用户留单接口"
+  }, {
+    "name" : "parentSuite",
+    "value" : "cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_retainpage"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_RetainPage"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-C1ENUNC"
+  }, {
+    "name" : "thread",
+    "value" : "89276-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "cases.test_retainpage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fbcaa0e976027071.json",
+  "parameterValues" : [ ]
+}
