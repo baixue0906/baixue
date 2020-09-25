@@ -230,12 +230,12 @@
     <list>
       <item itemvalue="Python.addTeacherInfo" />
       <item itemvalue="Python.get_exceldata" />
+      <item itemvalue="Python tests.pytest for test_activeSingle.Test_getSingle.test_activeSingle" />
       <item itemvalue="Python tests.pytest for test_course.test_getSingle.Test_getSingle" />
       <item itemvalue="Python tests.pytest for test_course.test_getSingle.Test_getSingle.test_getSingle" />
-      <item itemvalue="Python tests.pytest in test_getSingle.py" />
       <item itemvalue="Python tests.pytest for test_getSingle.Test_getSingle" />
-      <item itemvalue="Python tests.pytest for test_activeSingle.Test_getSingle.test_activeSingle" />
       <item itemvalue="Python tests.pytest for test_teacherList.Test_teacherList.test_teacherList3" />
+      <item itemvalue="Python tests.pytest in test_getSingle.py" />
     </list>
     <recent_temporary>
       <list>
@@ -310,6 +310,7 @@
       <workItem from="1600738477050" duration="35341000" />
       <workItem from="1601001509892" duration="1445000" />
       <workItem from="1601020630059" duration="28000" />
+      <workItem from="1601025827678" duration="22000" />
     </task>
     <servers />
   </component>
