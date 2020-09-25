@@ -229,11 +229,13 @@
     </configuration>
     <list>
       <item itemvalue="Python.addTeacherInfo" />
+      <item itemvalue="Python.get_exceldata" />
+      <item itemvalue="Python tests.pytest for test_course.test_getSingle.Test_getSingle" />
+      <item itemvalue="Python tests.pytest for test_course.test_getSingle.Test_getSingle.test_getSingle" />
       <item itemvalue="Python tests.pytest in test_getSingle.py" />
       <item itemvalue="Python tests.pytest for test_getSingle.Test_getSingle" />
       <item itemvalue="Python tests.pytest for test_activeSingle.Test_getSingle.test_activeSingle" />
       <item itemvalue="Python tests.pytest for test_teacherList.Test_teacherList.test_teacherList3" />
-      <item itemvalue="Python.get_exceldata" />
     </list>
     <recent_temporary>
       <list>
@@ -305,7 +307,8 @@
       <workItem from="1600049398537" duration="3579000" />
       <workItem from="1600055104689" duration="33044000" />
       <workItem from="1600480598705" duration="24845000" />
-      <workItem from="1600738477050" duration="33750000" />
+      <workItem from="1600738477050" duration="35341000" />
+      <workItem from="1601001509892" duration="37000" />
     </task>
     <servers />
   </component>
@@ -317,7 +320,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
