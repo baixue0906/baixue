@@ -6,7 +6,7 @@ class UserToken():
         url = 'https://jdapi.jd100.com/uc/v1/login'
         headers = {'content-type':'application/x-www-form-urlencoded','sourcetype':'1001'}
         data = {
-            'account':'18800000099',
+            'account':'crmceshi007',
             'login_type':'1',
             'user_pwd':'11111'
                 }
