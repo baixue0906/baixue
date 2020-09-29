@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f40488f-8fa3-4fcc-af8b-8145672ae1e7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Coursemg_Interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Coursemg_Interface.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/Lib_common/get_loginuserToken.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/Lib_common/get_loginuserToken.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_course/test_activeSingle.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_course/test_activeSingle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +49,7 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -327,12 +323,13 @@
     <state width="1419" height="174" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1599958809182" />
     <state width="1419" height="131" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1599924416782" />
     <state width="1419" height="196" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1599922866728" />
-    <state x="221" y="63" key="SettingsEditor" timestamp="1600966226558">
-      <screen x="0" y="23" width="1440" height="800" />
+    <state x="1735" y="76" key="SettingsEditor" timestamp="1601289468879">
+      <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="221" y="63" key="SettingsEditor/0.23.1440.800@0.23.1440.800" timestamp="1600966226558" />
     <state x="221" y="63" key="SettingsEditor/0.23.1440.801@0.23.1440.801" timestamp="1599974116329" />
     <state x="221" y="63" key="SettingsEditor/0.23.1440.806@0.23.1440.806" timestamp="1599921052820" />
+    <state x="1735" y="76" key="SettingsEditor/1440.23.1920.1057/0.23.1440.804@1440.23.1920.1057" timestamp="1601289468879" />
     <state x="709" y="385" key="VCS.ChangelistChooser" timestamp="1601086104995">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
