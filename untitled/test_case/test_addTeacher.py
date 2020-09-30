@@ -1,27 +1,26 @@
 import pytest
 from Lib.Lib_common.get_exceldata import *
 from Lib.Lib_api.api_teacherInfo import teacherInfo
-from Lib.Lib_common.get_token import *
+from Lib.Lib_api.api_getOpterToken import *
 import allure
 from Lib.Lib_common.compareDatabase import OperationMysql
 
 @allure.feature('教师信息模块')
 @allure.story('添加教师接口')
 
-
 class Test_addTeacher:
     def setup_class(self):
         self.tmptoken = TeacherList().test_gettmptoken()
         self.opterToken = TeacherList().test_gettoken()
 
-    @pytest.mark.parametrize("inData,repsData", get_excelData('Addteacher', 1, 6, 5, 7))
-    def test_addTeacher1(self,inData,repsData):
-        res = teacherInfo().api_addTeacher(self.opterToken,inData)
-        assert res['message'] == repsData
+    # @pytest.mark.parametrize("inData,repsData", get_excelData2('Addteacher','Add',9,11))
+    # def test_addTeacher1(self,inData,repsData):
+    #     res = teacherInfo().api_addTeacher(self.opterToken,inData)
+    #     assert res['message'] == repsData['message']
 
-    @pytest.mark.parametrize("inData,repsData", get_excelData('Addteacher', 1, 2, 5, 7))
+    @pytest.mark.parametrize("inData,repsData", get_excelData('Addteacher',1,2,9,11))
     def test_addTeacher2(self,inData,repsData):
-        res = teacherInfo().api_addTeacher(self.opterToken,inData)
+        res = teacherInfo().api_addTeacher(self.opterToken,json.loads(inData))
         GUID= res['data']['guid']
         print(GUID)
 

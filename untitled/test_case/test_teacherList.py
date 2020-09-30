@@ -1,5 +1,5 @@
 import pytest
-from Lib.Lib_common.get_exceldata import *
+from Lib.Lib_common.get_exceldata import get_excelData2
 from Lib.Lib_api.api_teacherInfo import teacherInfo
 from Lib.Lib_common.get_token import *
 import allure
@@ -14,21 +14,19 @@ class Test_teacherList:
         self.tmptoken = TeacherList().test_gettmptoken()
         self.opterToken = TeacherList().test_gettoken()
 
-
     def test_teacherList1(self):
-        res = teacherInfo().api_teacherList(self.opterToken)
+        res = teacherInfo().api_teacherList({'opterToken':self.opterToken})
         print(res)
         assert res['message'] == 'Success'
 
-    @pytest.mark.parametrize("inData,repsData", get_excelData('Teacherlist', 2, 4, 4, 6))
+    @pytest.mark.parametrize("inData,repsData", get_excelData2('Teacherlist1','List',8,11))
     def test_teacherList2(self,inData,repsData):
-        data= json.loads(inData)
-        res = teacherInfo().api_teacherList(data['opterToken'])
-        assert res['message'] == repsData
+        res = teacherInfo().api_teacherList(inData)
+        assert res['message'] == repsData['message']
 
-    #对比接口返回数据与数据库查询的数据对比
+    # 对比接口返回数据与数据库查询的数据对比
     def test_teacherList3(self):
-        res = teacherInfo().api_teacherList(self.opterToken)
+        res = teacherInfo().api_teacherList({'opterToken':self.opterToken})
         GUID= res['data'][1]['guid']
 
         sql = ("SELECT * from W_TeacherInfo WHERE guid ='%s'"%(GUID))
