@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f40488f-8fa3-4fcc-af8b-8145672ae1e7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Interface41/.idea/Interface41.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Interface41/.idea/Interface41.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface41/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Interface41/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +52,7 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -71,6 +74,18 @@
       <recent name="$PROJECT_DIR$/Lib_api" />
       <recent name="C:\Users\baixue\PycharmProjects\untitled\test_case" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="Python.get_loginuserToken">
     <configuration name="addTeacherInfo" type="PythonConfigurationType" factoryName="Python">
@@ -107,6 +122,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lib/Lib_common/get_exceldata.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -128,6 +144,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lib/Lib_common/get_loginuserToken.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -146,8 +163,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_getVersion.test_getVersion&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
@@ -162,8 +179,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/test_case/test_getCourse.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
@@ -178,8 +195,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/test_case/test_getVersion.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
@@ -203,7 +220,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -264,6 +281,8 @@
       <workItem from="1600055104689" duration="33044000" />
       <workItem from="1600480598705" duration="24845000" />
       <workItem from="1600738477050" duration="30499000" />
+      <workItem from="1601171542395" duration="57000" />
+      <workItem from="1601199271018" duration="695000" />
     </task>
     <servers />
   </component>
@@ -275,12 +294,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="91" y="157" width="1240" height="604" key="DiffContextDialog" timestamp="1601087907746">
@@ -323,13 +343,12 @@
     <state width="1419" height="174" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1599958809182" />
     <state width="1419" height="131" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1599924416782" />
     <state width="1419" height="196" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1599922866728" />
-    <state x="1735" y="76" key="SettingsEditor" timestamp="1601289468879">
-      <screen x="1440" y="23" width="1920" height="1057" />
+    <state x="221" y="63" key="SettingsEditor" timestamp="1600966226558">
+      <screen x="0" y="23" width="1440" height="800" />
     </state>
     <state x="221" y="63" key="SettingsEditor/0.23.1440.800@0.23.1440.800" timestamp="1600966226558" />
     <state x="221" y="63" key="SettingsEditor/0.23.1440.801@0.23.1440.801" timestamp="1599974116329" />
     <state x="221" y="63" key="SettingsEditor/0.23.1440.806@0.23.1440.806" timestamp="1599921052820" />
-    <state x="1735" y="76" key="SettingsEditor/1440.23.1920.1057/0.23.1440.804@1440.23.1920.1057" timestamp="1601289468879" />
     <state x="709" y="385" key="VCS.ChangelistChooser" timestamp="1601086104995">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
