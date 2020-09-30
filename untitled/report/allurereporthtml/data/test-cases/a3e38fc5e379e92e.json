@@ -1,0 +1,97 @@
+{
+  "uid" : "a3e38fc5e379e92e",
+  "name" : "test_teacherList2[inData0-repsData0]",
+  "fullName" : "test_case.test_teacherList.Test_teacherList#test_teacherList2",
+  "historyId" : "d69c22b77f53670394ce80dbcaa82bc0",
+  "time" : {
+    "start" : 1601454126675,
+    "stop" : 1601454126714,
+    "duration" : 39
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1601454126506,
+      "stop" : 1601454126558,
+      "duration" : 52
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1601454126839,
+      "stop" : 1601454126839,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "教师信息模块"
+  }, {
+    "name" : "story",
+    "value" : "教师列表"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_teacherList"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_teacherList"
+  }, {
+    "name" : "host",
+    "value" : "et-201809131052"
+  }, {
+    "name" : "thread",
+    "value" : "11928-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_teacherList"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "inData",
+    "value" : "{'opterToken': ''}"
+  }, {
+    "name" : "repsData",
+    "value" : "{'code': 100002001, 'data': None, 'message': '缺少必要的参数'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a3e38fc5e379e92e.json",
+  "parameterValues" : [ "{'opterToken': ''}", "{'code': 100002001, 'data': None, 'message': '缺少必要的参数'}" ]
+}

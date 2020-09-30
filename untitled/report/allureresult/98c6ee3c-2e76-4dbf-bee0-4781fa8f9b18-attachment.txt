@@ -1,4 +1,0 @@
-e2dc73346bbd44b690d0448cf3e8eaa0
-SELECT * from W_TeacherInfo WHERE guid ="e2dc73346bbd44b690d0448cf3e8eaa0"
-e2dc73346bbd44b690d0448cf3e8eaa0
-添加老师接口数据库数据对比成功

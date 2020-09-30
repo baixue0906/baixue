@@ -10,6 +10,7 @@ def test_getQualificationInfo1():
     res = teacherInfo().api_getQualificationInfo()
     assert res['message'] == 'Success'
 
+@allure.story('获取教师资质信息')
 def test_getQualificationInfo2():
     res = teacherInfo().api_getQualificationInfo()
     teacherName= res['data'][0]['teacher_name']
