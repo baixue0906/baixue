@@ -1,0 +1,64 @@
+{
+  "uid" : "c4ecbab8ba19206f",
+  "name" : "test_getCourse[{\n\"studyYears\":\"2019\",\n\"subject\":\"\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}-Parameter Invalid]",
+  "fullName" : "test_case.test_getCourse#test_getCourse",
+  "historyId" : "c79fa3e5932b7ccdd555ff7be0335674",
+  "time" : {
+    "start" : 1601455064275,
+    "stop" : 1601455064315,
+    "duration" : 40
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "公共获取销售课"
+  }, {
+    "name" : "feature",
+    "value" : "课程数据模块"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_getCourse"
+  }, {
+    "name" : "host",
+    "value" : "et-201809131052"
+  }, {
+    "name" : "thread",
+    "value" : "11540-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_getCourse"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "inData",
+    "value" : "'{\n\"studyYears\":\"2019\",\n\"subject\":\"\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}'"
+  }, {
+    "name" : "repsData",
+    "value" : "'Parameter Invalid'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c4ecbab8ba19206f.json",
+  "parameterValues" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}'", "'Parameter Invalid'" ]
+}

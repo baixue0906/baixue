@@ -1,4 +1,0 @@
-b14ba134ef514ba9b8a71ba7c2d7a2c9
-SELECT * from W_TeacherInfo WHERE guid ="b14ba134ef514ba9b8a71ba7c2d7a2c9"
-b14ba134ef514ba9b8a71ba7c2d7a2c9
-添加老师接口数据库数据对比成功

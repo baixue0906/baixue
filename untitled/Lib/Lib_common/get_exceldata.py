@@ -4,13 +4,21 @@
 import xlrd,json
 
 def get_excelData(sheet_name,minrow,maxrow,col1,col2):
+    '''
+    :param sheet_name: 表名
+    :param minrow: 获取用例的首行
+    :param maxrow: 获取用例的最后一行
+    :param col1:获取需要参数化的列数
+    :param col2:获取预期结果的列数
+    :return:
+    '''
     workBook = xlrd.open_workbook(r"C:\Users\baixue\PycharmProjects\untitled\data\testcase.xlsx") #绝对路径123
     workSheet = workBook.sheet_by_name(sheet_name)#需要执行的sheet表
     datalist=[]
     for cnt in range(minrow,maxrow):#用例读取起始行，到最终行
         cellData = workSheet.cell_value(cnt,col1)
         repscellData = workSheet.cell_value(cnt,col2)
-        datalist.append((cellData,repscellData))
+        datalist.append((cellData,repscellData)) #返回的数据为字符串类型，可以转换成字典类型，json.loads()
     return datalist
 
 

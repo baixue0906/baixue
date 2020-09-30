@@ -9,13 +9,13 @@
         "name" : "Test_addTeacher",
         "children" : [ {
           "name" : "test_addTeacher2[{\n\"display_name\":\"添加一号\",\n\"real_name\":\"真是一号\",\n\"tech_subject\":\"科目一号\",\n\"tech_grade\":\"高一\"\n}-{\n    \"code\": 0,\n    \"message\": \"Success\",\n    \"data\": {\n        \"guid\": \"bbfbf2db889c4ffeb0e93b2742e4adce\",\n        \"displayName\": \"测试add\",\n        \"realName\": \"测试0706001\",\n        \"techSubject\": \"语文\",\n        \"techGrade\": \"高一\",\n        \"sex\": 0,\n        \"isTaught\": 0,\n        \"IDNum\": \"\",\n        \"certificateNum\": \"\",\n        \"styleMethod\": \"\",\n        \"backgroundResume\": \"\",\n        \"courseUrl\": \"\",\n        \"qualificationUrl\": \"\",\n        \"certificateUrl\": \"\",\n        \"middleSizeUrl\": \"\",\n        \"level\": \"\",\n        \"isDisplay\": 0,\n        \"insertTime\": \"2020-09-30 07:24:03\",\n        \"updateTime\": \"2020-09-30 07:24:03\"\n    }\n}]",
-          "uid" : "d390fe02d089a7f0",
+          "uid" : "befc77c671023ca5",
           "parentUid" : "d7d138cad386b0b45fa931c4b34a80b8",
           "status" : "passed",
           "time" : {
-            "start" : 1601454125096,
-            "stop" : 1601454125190,
-            "duration" : 94
+            "start" : 1601455064053,
+            "stop" : 1601455064166,
+            "duration" : 113
           },
           "flaky" : false,
           "parameters" : [ "'{\n\"display_name\":\"添加一号\",\n\"real_name\":\"真是一号\",\n\"tech_subject\":\"科目一号\",\n\"tech_grade\":\"高一\"\n}'", "'{\n    \"code\": 0,\n    \"message\": \"Success\",\n    \"data\": {\n        \"guid\": \"bbfbf2db889c4ffeb0e93b2742e4adce\",\n        \"displayName\": \"测试add\",\n        \"realName\": \"测试0706001\",\n        \"techSubject\": \"语文\",\n        \"techGrade\": \"高一\",\n        \"sex\": 0,\n        \"isTaught\": 0,\n        \"IDNum\": \"\",\n        \"certificateNum\": \"\",\n        \"styleMethod\": \"\",\n        \"backgroundResume\": \"\",\n        \"courseUrl\": \"\",\n        \"qualificationUrl\": \"\",\n        \"certificateUrl\": \"\",\n        \"middleSizeUrl\": \"\",\n        \"level\": \"\",\n        \"isDisplay\": 0,\n        \"insertTime\": \"2020-09-30 07:24:03\",\n        \"updateTime\": \"2020-09-30 07:24:03\"\n    }\n}'" ]
@@ -27,192 +27,192 @@
       "name" : "test_getCourse",
       "children" : [ {
         "name" : "test_getCourse[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}-Success0]",
-        "uid" : "9156a91832d5b27d",
+        "uid" : "c154a07db15a8a5c",
         "parentUid" : "2ec0fec7cb146de162ca0690bc6ef198",
         "status" : "passed",
         "time" : {
-          "start" : 1601454125208,
-          "stop" : 1601454125238,
-          "duration" : 30
+          "start" : 1601455064189,
+          "stop" : 1601455064239,
+          "duration" : 50
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}'", "'Success'" ]
       }, {
         "name" : "test_getCourse[{\n\"studyYears\":\"\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}-Parameter Invalid]",
-        "uid" : "950712baf22dd086",
+        "uid" : "c46c276d9df3a779",
         "parentUid" : "2ec0fec7cb146de162ca0690bc6ef198",
         "status" : "passed",
         "time" : {
-          "start" : 1601454125244,
-          "stop" : 1601454125272,
-          "duration" : 28
+          "start" : 1601455064246,
+          "stop" : 1601455064271,
+          "duration" : 25
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"studyYears\":\"\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}'", "'Parameter Invalid'" ]
       }, {
         "name" : "test_getCourse[{\n\"studyYears\":\"2019\",\n\"subject\":\"\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}-Parameter Invalid]",
-        "uid" : "b6165c79b2660020",
+        "uid" : "c4ecbab8ba19206f",
         "parentUid" : "2ec0fec7cb146de162ca0690bc6ef198",
         "status" : "passed",
         "time" : {
-          "start" : 1601454125277,
-          "stop" : 1601454125301,
-          "duration" : 24
+          "start" : 1601455064275,
+          "stop" : 1601455064315,
+          "duration" : 40
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}'", "'Parameter Invalid'" ]
       }, {
         "name" : "test_getCourse[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}-Parameter Invalid]",
-        "uid" : "9da393a9b060c01a",
+        "uid" : "f1315fa2b9492f3e",
         "parentUid" : "2ec0fec7cb146de162ca0690bc6ef198",
         "status" : "passed",
         "time" : {
-          "start" : 1601454125318,
-          "stop" : 1601454125352,
-          "duration" : 34
+          "start" : 1601455064337,
+          "stop" : 1601455064380,
+          "duration" : 43
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}'", "'Parameter Invalid'" ]
       }, {
         "name" : "test_getCourse[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}-Parameter Invalid]",
-        "uid" : "1ea4c784df56d8df",
+        "uid" : "b6c0eafc7bf9169c",
         "parentUid" : "2ec0fec7cb146de162ca0690bc6ef198",
         "status" : "passed",
         "time" : {
-          "start" : 1601454125358,
-          "stop" : 1601454125381,
-          "duration" : 23
+          "start" : 1601455064386,
+          "stop" : 1601455064414,
+          "duration" : 28
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}'", "'Parameter Invalid'" ]
       }, {
         "name" : "test_getCourse[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"\"\n}-Parameter Invalid]",
-        "uid" : "bdafad7e264c5457",
+        "uid" : "95a3cd75af25520c",
         "parentUid" : "2ec0fec7cb146de162ca0690bc6ef198",
         "status" : "passed",
         "time" : {
-          "start" : 1601454125387,
-          "stop" : 1601454125420,
-          "duration" : 33
+          "start" : 1601455064420,
+          "stop" : 1601455064448,
+          "duration" : 28
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"\"\n}'", "'Parameter Invalid'" ]
       }, {
         "name" : "test_getCourse[{\n\"studyYears\":\"2019,2020\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}-Success]",
-        "uid" : "2be64f093cf7933",
+        "uid" : "4b46642536885835",
         "parentUid" : "2ec0fec7cb146de162ca0690bc6ef198",
         "status" : "passed",
         "time" : {
-          "start" : 1601454125425,
-          "stop" : 1601454125461,
-          "duration" : 36
+          "start" : 1601455064454,
+          "stop" : 1601455064498,
+          "duration" : 44
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"studyYears\":\"2019,2020\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}'", "'Success'" ]
       }, {
         "name" : "test_getCourse[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一,高二,高三\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}-Success]",
-        "uid" : "83632b44bf1e9ed4",
+        "uid" : "b55619bc770d20b6",
         "parentUid" : "2ec0fec7cb146de162ca0690bc6ef198",
         "status" : "passed",
         "time" : {
-          "start" : 1601454125467,
-          "stop" : 1601454125505,
-          "duration" : 38
+          "start" : 1601455064503,
+          "stop" : 1601455064543,
+          "duration" : 40
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一,高二,高三\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}'", "'Success'" ]
       }, {
         "name" : "test_getCourse[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}-Success1]",
-        "uid" : "4fef020c3a68fb02",
+        "uid" : "f5f06b7155026d23",
         "parentUid" : "2ec0fec7cb146de162ca0690bc6ef198",
         "status" : "passed",
         "time" : {
-          "start" : 1601454125509,
-          "stop" : 1601454125540,
-          "duration" : 31
+          "start" : 1601455064572,
+          "stop" : 1601455064606,
+          "duration" : 34
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}'", "'Success'" ]
       }, {
         "name" : "test_getCourse[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"1\",\n\"courseType\":\"1\"\n}-Success]",
-        "uid" : "689de15bf85c9809",
+        "uid" : "e5c4c5e2585c2d79",
         "parentUid" : "2ec0fec7cb146de162ca0690bc6ef198",
         "status" : "passed",
         "time" : {
-          "start" : 1601454125557,
-          "stop" : 1601454125591,
-          "duration" : 34
+          "start" : 1601455064616,
+          "stop" : 1601455064649,
+          "duration" : 33
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"1\",\n\"courseType\":\"1\"\n}'", "'Success'" ]
       }, {
         "name" : "test_getCourse[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}-Success2]",
-        "uid" : "8392056e3b48e201",
+        "uid" : "4ccdaeb9981d24c0",
         "parentUid" : "2ec0fec7cb146de162ca0690bc6ef198",
         "status" : "passed",
         "time" : {
-          "start" : 1601454125595,
-          "stop" : 1601454125627,
-          "duration" : 32
+          "start" : 1601455064655,
+          "stop" : 1601455064686,
+          "duration" : 31
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}'", "'Success'" ]
       }, {
         "name" : "test_getCourse[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"3\"\n}-Success]",
-        "uid" : "a86143ac7d524f79",
+        "uid" : "54c2712aa192c45f",
         "parentUid" : "2ec0fec7cb146de162ca0690bc6ef198",
         "status" : "passed",
         "time" : {
-          "start" : 1601454125632,
-          "stop" : 1601454125663,
-          "duration" : 31
+          "start" : 1601455064692,
+          "stop" : 1601455064722,
+          "duration" : 30
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"3\"\n}'", "'Success'" ]
       }, {
         "name" : "test_getCourse[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"5\"\n}-Success]",
-        "uid" : "cbee22b4c03ab272",
+        "uid" : "c0223fe54bc797a9",
         "parentUid" : "2ec0fec7cb146de162ca0690bc6ef198",
         "status" : "passed",
         "time" : {
-          "start" : 1601454125669,
-          "stop" : 1601454125697,
-          "duration" : 28
+          "start" : 1601455064727,
+          "stop" : 1601455064754,
+          "duration" : 27
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"5\"\n}'", "'Success'" ]
       }, {
         "name" : "test_getCourse[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"6\"\n}-Success]",
-        "uid" : "973680d994a244b3",
+        "uid" : "bc99fd2588032002",
         "parentUid" : "2ec0fec7cb146de162ca0690bc6ef198",
         "status" : "passed",
         "time" : {
-          "start" : 1601454125713,
-          "stop" : 1601454125742,
-          "duration" : 29
+          "start" : 1601455064776,
+          "stop" : 1601455064806,
+          "duration" : 30
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"6\"\n}'", "'Success'" ]
       }, {
         "name" : "test_getCourse[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"7\"\n}-Success]",
-        "uid" : "1b44508f34d7f2b7",
+        "uid" : "64ca27512f7468a5",
         "parentUid" : "2ec0fec7cb146de162ca0690bc6ef198",
         "status" : "passed",
         "time" : {
-          "start" : 1601454125748,
-          "stop" : 1601454125778,
-          "duration" : 30
+          "start" : 1601455064811,
+          "stop" : 1601455064846,
+          "duration" : 35
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"7\"\n}'", "'Success'" ]
       }, {
         "name" : "test_getCourse[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"8\"\n}-Success]",
-        "uid" : "c79431477ec6fe5e",
+        "uid" : "922db7d5ca9fec15",
         "parentUid" : "2ec0fec7cb146de162ca0690bc6ef198",
         "status" : "passed",
         "time" : {
-          "start" : 1601454125783,
-          "stop" : 1601454125811,
+          "start" : 1601455064851,
+          "stop" : 1601455064879,
           "duration" : 28
         },
         "flaky" : false,
@@ -223,85 +223,85 @@
       "name" : "test_getTerm",
       "children" : [ {
         "name" : "test_getTerm[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"enrolTime\":\"03-2019\",\n\"location\":\"北京\"\n}-Success]",
-        "uid" : "1f009090c61d472c",
+        "uid" : "3cdae29beafc341",
         "parentUid" : "589eb9b5ee73dd4b0ce755a459fea819",
         "status" : "passed",
         "time" : {
-          "start" : 1601454125816,
-          "stop" : 1601454125846,
-          "duration" : 30
+          "start" : 1601455064900,
+          "stop" : 1601455064928,
+          "duration" : 28
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"enrolTime\":\"03-2019\",\n\"location\":\"北京\"\n}'", "'Success'" ]
       }, {
         "name" : "test_getTerm[{\n\"studyYears\":\"\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"enrolTime\":\"03-2019\",\n\"location\":\"北京\"\n}-Parameter Invalid]",
-        "uid" : "51b380634d987601",
+        "uid" : "5f88ce656fd06682",
         "parentUid" : "589eb9b5ee73dd4b0ce755a459fea819",
         "status" : "passed",
         "time" : {
-          "start" : 1601454125851,
-          "stop" : 1601454125876,
-          "duration" : 25
+          "start" : 1601455064932,
+          "stop" : 1601455064956,
+          "duration" : 24
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"studyYears\":\"\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"enrolTime\":\"03-2019\",\n\"location\":\"北京\"\n}'", "'Parameter Invalid'" ]
       }, {
         "name" : "test_getTerm[{\n\"studyYears\":\"2019\",\n\"subject\":\"\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"enrolTime\":\"03-2019\",\n\"location\":\"北京\"\n}-Parameter Invalid]",
-        "uid" : "34297c2749d1992f",
+        "uid" : "93ac4ab4f6d26ccc",
         "parentUid" : "589eb9b5ee73dd4b0ce755a459fea819",
         "status" : "passed",
         "time" : {
-          "start" : 1601454125880,
-          "stop" : 1601454125906,
-          "duration" : 26
+          "start" : 1601455064963,
+          "stop" : 1601455064987,
+          "duration" : 24
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"enrolTime\":\"03-2019\",\n\"location\":\"北京\"\n}'", "'Parameter Invalid'" ]
       }, {
         "name" : "test_getTerm[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"\",\n\"version\":\"人教A版\",\n\"enrolTime\":\"03-2019\",\n\"location\":\"北京\"\n}-Parameter Invalid]",
-        "uid" : "c8be73ed0c39c6c0",
+        "uid" : "a592cc4d685eb059",
         "parentUid" : "589eb9b5ee73dd4b0ce755a459fea819",
         "status" : "passed",
         "time" : {
-          "start" : 1601454125911,
-          "stop" : 1601454125935,
-          "duration" : 24
+          "start" : 1601455065008,
+          "stop" : 1601455065036,
+          "duration" : 28
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"\",\n\"version\":\"人教A版\",\n\"enrolTime\":\"03-2019\",\n\"location\":\"北京\"\n}'", "'Parameter Invalid'" ]
       }, {
         "name" : "test_getTerm[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"\",\n\"enrolTime\":\"03-2019\",\n\"location\":\"北京\"\n}-Parameter Invalid]",
-        "uid" : "80ab055bfeb59046",
+        "uid" : "8c1621e637ae4acb",
         "parentUid" : "589eb9b5ee73dd4b0ce755a459fea819",
         "status" : "passed",
         "time" : {
-          "start" : 1601454125952,
-          "stop" : 1601454125978,
-          "duration" : 26
+          "start" : 1601455065042,
+          "stop" : 1601455065081,
+          "duration" : 39
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"\",\n\"enrolTime\":\"03-2019\",\n\"location\":\"北京\"\n}'", "'Parameter Invalid'" ]
       }, {
         "name" : "test_getTerm[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"enrolTime\":\"\",\n\"location\":\"北京\"\n}-Parameter Invalid]",
-        "uid" : "80da2cfa8eb9d846",
+        "uid" : "983a8e7266bf3af7",
         "parentUid" : "589eb9b5ee73dd4b0ce755a459fea819",
         "status" : "passed",
         "time" : {
-          "start" : 1601454125983,
-          "stop" : 1601454126009,
-          "duration" : 26
+          "start" : 1601455065090,
+          "stop" : 1601455065125,
+          "duration" : 35
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"enrolTime\":\"\",\n\"location\":\"北京\"\n}'", "'Parameter Invalid'" ]
       }, {
         "name" : "test_getTerm[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"enrolTime\":\"03-2019\",\n\"location\":\"\"\n}-Parameter Invalid]",
-        "uid" : "6479b17556c719ff",
+        "uid" : "2801e7f67def4124",
         "parentUid" : "589eb9b5ee73dd4b0ce755a459fea819",
         "status" : "passed",
         "time" : {
-          "start" : 1601454126014,
-          "stop" : 1601454126041,
-          "duration" : 27
+          "start" : 1601455065135,
+          "stop" : 1601455065175,
+          "duration" : 40
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"enrolTime\":\"03-2019\",\n\"location\":\"\"\n}'", "'Parameter Invalid'" ]
@@ -311,61 +311,61 @@
       "name" : "test_getTextbook",
       "children" : [ {
         "name" : "test_getTextbook[{\n\"subject\":\"数学\",\n\"grade\":\"初中\",\n\"version\":\"人教版\",\n\"studyYear\":\"2019\"\n}-Success]",
-        "uid" : "d5f661757af9bee5",
+        "uid" : "c622855e792f4e54",
         "parentUid" : "185873775803378193b860e13f8d8642",
         "status" : "passed",
         "time" : {
-          "start" : 1601454126047,
-          "stop" : 1601454126076,
-          "duration" : 29
+          "start" : 1601455065186,
+          "stop" : 1601455065223,
+          "duration" : 37
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"subject\":\"数学\",\n\"grade\":\"初中\",\n\"version\":\"人教版\",\n\"studyYear\":\"2019\"\n}'", "'Success'" ]
       }, {
         "name" : "test_getTextbook[{\n\"subject\":\"\",\n\"grade\":\"初中\",\n\"version\":\"人教版\",\n\"studyYear\":\"2019\"\n}-Parameter Invalid]",
-        "uid" : "effdba299fae0c10",
+        "uid" : "f801f27b4e442bb9",
         "parentUid" : "185873775803378193b860e13f8d8642",
         "status" : "passed",
         "time" : {
-          "start" : 1601454126080,
-          "stop" : 1601454126107,
-          "duration" : 27
+          "start" : 1601455065250,
+          "stop" : 1601455065288,
+          "duration" : 38
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"subject\":\"\",\n\"grade\":\"初中\",\n\"version\":\"人教版\",\n\"studyYear\":\"2019\"\n}'", "'Parameter Invalid'" ]
       }, {
         "name" : "test_getTextbook[{\n\"subject\":\"数学\",\n\"grade\":\"\",\n\"version\":\"人教版\",\n\"studyYear\":\"2019\"\n}-Parameter Invalid]",
-        "uid" : "190e2e2584944527",
+        "uid" : "3efd21fd124a6c9",
         "parentUid" : "185873775803378193b860e13f8d8642",
         "status" : "passed",
         "time" : {
-          "start" : 1601454126111,
-          "stop" : 1601454126138,
-          "duration" : 27
+          "start" : 1601455065299,
+          "stop" : 1601455065330,
+          "duration" : 31
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"subject\":\"数学\",\n\"grade\":\"\",\n\"version\":\"人教版\",\n\"studyYear\":\"2019\"\n}'", "'Parameter Invalid'" ]
       }, {
         "name" : "test_getTextbook[{\n\"subject\":\"数学\",\n\"grade\":\"初中\",\n\"version\":\"\",\n\"studyYear\":\"2019\"\n}-Parameter Invalid]",
-        "uid" : "8b9afda3e53bf33d",
+        "uid" : "9f5cabe9af3d7203",
         "parentUid" : "185873775803378193b860e13f8d8642",
         "status" : "passed",
         "time" : {
-          "start" : 1601454126144,
-          "stop" : 1601454126167,
-          "duration" : 23
+          "start" : 1601455065337,
+          "stop" : 1601455065381,
+          "duration" : 44
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"subject\":\"数学\",\n\"grade\":\"初中\",\n\"version\":\"\",\n\"studyYear\":\"2019\"\n}'", "'Parameter Invalid'" ]
       }, {
         "name" : "test_getTextbook[{\n\"subject\":\"数学\",\n\"grade\":\"初中\",\n\"version\":\"人教版\",\n\"studyYear\":\"\"\n}-Parameter Invalid]",
-        "uid" : "bc61734f8691ca65",
+        "uid" : "6793241692e91954",
         "parentUid" : "185873775803378193b860e13f8d8642",
         "status" : "passed",
         "time" : {
-          "start" : 1601454126184,
-          "stop" : 1601454126209,
-          "duration" : 25
+          "start" : 1601455065388,
+          "stop" : 1601455065420,
+          "duration" : 32
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"subject\":\"数学\",\n\"grade\":\"初中\",\n\"version\":\"人教版\",\n\"studyYear\":\"\"\n}'", "'Parameter Invalid'" ]
@@ -375,61 +375,61 @@
       "name" : "test_getVersion",
       "children" : [ {
         "name" : "test_getVersion[{\n\"subject\":\"数学\",\n\"grade\":\"初中\",\n\"gradeType\":\"0\",\n\"studyYears\":\"2019\",\n\"courseType\":\"1\"\n}-Success]",
-        "uid" : "6330d5089d4be506",
+        "uid" : "71f0e1d4c553c38a",
         "parentUid" : "4a5b2f0f897bfb55de75ad7837cdbfc8",
         "status" : "passed",
         "time" : {
-          "start" : 1601454126216,
-          "stop" : 1601454126250,
-          "duration" : 34
+          "start" : 1601455065451,
+          "stop" : 1601455065504,
+          "duration" : 53
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"subject\":\"数学\",\n\"grade\":\"初中\",\n\"gradeType\":\"0\",\n\"studyYears\":\"2019\",\n\"courseType\":\"1\"\n}'", "'Success'" ]
       }, {
         "name" : "test_getVersion[{\n\"subject\":\"\",\n\"grade\":\"初中\",\n\"gradeType\":\"0\",\n\"studyYears\":\"2019\",\n\"courseType\":\"1\"\n}-Parameter Invalid]",
-        "uid" : "648f2a124d23ec12",
+        "uid" : "392fdea10e449473",
         "parentUid" : "4a5b2f0f897bfb55de75ad7837cdbfc8",
         "status" : "passed",
         "time" : {
-          "start" : 1601454126255,
-          "stop" : 1601454126279,
-          "duration" : 24
+          "start" : 1601455065516,
+          "stop" : 1601455065546,
+          "duration" : 30
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"subject\":\"\",\n\"grade\":\"初中\",\n\"gradeType\":\"0\",\n\"studyYears\":\"2019\",\n\"courseType\":\"1\"\n}'", "'Parameter Invalid'" ]
       }, {
         "name" : "test_getVersion[{\n\"subject\":\"数学\",\n\"grade\":\"\",\n\"gradeType\":\"0\",\n\"studyYears\":\"2019\",\n\"courseType\":\"1\"\n}-Parameter Invalid]",
-        "uid" : "f4cf612f6961424e",
+        "uid" : "864f1ba6ea550b9b",
         "parentUid" : "4a5b2f0f897bfb55de75ad7837cdbfc8",
         "status" : "passed",
         "time" : {
-          "start" : 1601454126285,
-          "stop" : 1601454126308,
-          "duration" : 23
+          "start" : 1601455065579,
+          "stop" : 1601455065622,
+          "duration" : 43
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"subject\":\"数学\",\n\"grade\":\"\",\n\"gradeType\":\"0\",\n\"studyYears\":\"2019\",\n\"courseType\":\"1\"\n}'", "'Parameter Invalid'" ]
       }, {
         "name" : "test_getVersion[{\n\"subject\":\"数学\",\n\"grade\":\"初中\",\n\"gradeType\":\"\",\n\"studyYears\":\"2019\",\n\"courseType\":\"1\"\n}-Success]",
-        "uid" : "806fa98d85dfc6d3",
+        "uid" : "3bf1ea7cbb8c7a3c",
         "parentUid" : "4a5b2f0f897bfb55de75ad7837cdbfc8",
         "status" : "passed",
         "time" : {
-          "start" : 1601454126313,
-          "stop" : 1601454126348,
-          "duration" : 35
+          "start" : 1601455065633,
+          "stop" : 1601455065678,
+          "duration" : 45
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"subject\":\"数学\",\n\"grade\":\"初中\",\n\"gradeType\":\"\",\n\"studyYears\":\"2019\",\n\"courseType\":\"1\"\n}'", "'Success'" ]
       }, {
         "name" : "test_getVersion[{\n\"subject\":\"数学\",\n\"grade\":\"初中\",\n\"gradeType\":\"0\",\n\"studyYears\":\"\",\n\"courseType\":\"1\"\n}-Parameter Invalid]",
-        "uid" : "bce779e4182f6492",
+        "uid" : "f4c525bda85f5e9e",
         "parentUid" : "4a5b2f0f897bfb55de75ad7837cdbfc8",
         "status" : "passed",
         "time" : {
-          "start" : 1601454126355,
-          "stop" : 1601454126381,
-          "duration" : 26
+          "start" : 1601455065685,
+          "stop" : 1601455065721,
+          "duration" : 36
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"subject\":\"数学\",\n\"grade\":\"初中\",\n\"gradeType\":\"0\",\n\"studyYears\":\"\",\n\"courseType\":\"1\"\n}'", "'Parameter Invalid'" ]
@@ -439,25 +439,25 @@
       "name" : "test_qualificationinfo",
       "children" : [ {
         "name" : "test_getQualificationInfo1",
-        "uid" : "80b97f3364626f33",
+        "uid" : "2c59ce7103e648d4",
         "parentUid" : "110dfa04877f8be159d628a9eaae1c59",
         "status" : "passed",
         "time" : {
-          "start" : 1601454126386,
-          "stop" : 1601454126445,
-          "duration" : 59
+          "start" : 1601455065773,
+          "stop" : 1601455065858,
+          "duration" : 85
         },
         "flaky" : false,
         "parameters" : [ ]
       }, {
         "name" : "test_getQualificationInfo2",
-        "uid" : "b50535b52635b2c0",
+        "uid" : "7e9795fbb28ca1af",
         "parentUid" : "110dfa04877f8be159d628a9eaae1c59",
         "status" : "passed",
         "time" : {
-          "start" : 1601454126448,
-          "stop" : 1601454126503,
-          "duration" : 55
+          "start" : 1601455065864,
+          "stop" : 1601455065974,
+          "duration" : 110
         },
         "flaky" : false,
         "parameters" : [ ]
@@ -469,49 +469,49 @@
         "name" : "Test_teacherList",
         "children" : [ {
           "name" : "test_teacherList1",
-          "uid" : "b8ad584c9853d6f2",
+          "uid" : "409b7a01ae64f3a1",
           "parentUid" : "e30ff670d2657501170ee0c33752d88f",
           "status" : "passed",
           "time" : {
-            "start" : 1601454126559,
-            "stop" : 1601454126670,
-            "duration" : 111
+            "start" : 1601455066068,
+            "stop" : 1601455066170,
+            "duration" : 102
           },
           "flaky" : false,
           "parameters" : [ ]
         }, {
           "name" : "test_teacherList2[inData0-repsData0]",
-          "uid" : "a3e38fc5e379e92e",
+          "uid" : "dcfdeb88def924d",
           "parentUid" : "e30ff670d2657501170ee0c33752d88f",
           "status" : "passed",
           "time" : {
-            "start" : 1601454126675,
-            "stop" : 1601454126714,
-            "duration" : 39
+            "start" : 1601455066185,
+            "stop" : 1601455066246,
+            "duration" : 61
           },
           "flaky" : false,
           "parameters" : [ "{'opterToken': ''}", "{'code': 100002001, 'data': None, 'message': '缺少必要的参数'}" ]
         }, {
           "name" : "test_teacherList2[inData1-repsData1]",
-          "uid" : "fc04d983e0e2c703",
+          "uid" : "c9b57f2cef603658",
           "parentUid" : "e30ff670d2657501170ee0c33752d88f",
           "status" : "passed",
           "time" : {
-            "start" : 1601454126720,
-            "stop" : 1601454126746,
-            "duration" : 26
+            "start" : 1601455066325,
+            "stop" : 1601455066383,
+            "duration" : 58
           },
           "flaky" : false,
           "parameters" : [ "{'opterToken': '123'}", "{'code': 100001003, 'data': None, 'message': 'token无效'}" ]
         }, {
           "name" : "test_teacherList3",
-          "uid" : "7bdf4f074fd4f81c",
+          "uid" : "d809bfc332abda60",
           "parentUid" : "e30ff670d2657501170ee0c33752d88f",
           "status" : "passed",
           "time" : {
-            "start" : 1601454126763,
-            "stop" : 1601454126838,
-            "duration" : 75
+            "start" : 1601455066394,
+            "stop" : 1601455066461,
+            "duration" : 67
           },
           "flaky" : false,
           "parameters" : [ ]
@@ -525,25 +525,25 @@
         "name" : "Test_updateTeacher",
         "children" : [ {
           "name" : "test_updateTeacher[inData0-repsData0]",
-          "uid" : "a3b150050bdcce3b",
+          "uid" : "9fff56a657d7b071",
           "parentUid" : "a321e21261f6161563a60f18a49bc1f7",
           "status" : "passed",
           "time" : {
-            "start" : 1601454126917,
-            "stop" : 1601454126947,
-            "duration" : 30
+            "start" : 1601455066601,
+            "stop" : 1601455066668,
+            "duration" : 67
           },
           "flaky" : false,
           "parameters" : [ "{'guid': 'b915c7bc6d4a4344a76d4a69286d9c9e', 'display_name': '添加一号', 'real_name': '真是一号', 'tech_subject': '科目一号', 'tech_grade': '高一'}", "{'code': 0, 'message': 'Success', 'data': {'guid': '5d672520f71444ecb2ac9e3d9a89f7f9', 'displayName': '测试edit1', 'realName': '测试', 'techSubject': '语文', 'techGrade': '高一', 'sex': 0, 'isTaught': 0, 'IDNum': '', 'certificateNum': '', 'styleMethod': '', 'backgroundResume': '', 'courseUrl': '', 'qualificationUrl': '', 'certificateUrl': '', 'middleSizeUrl': '', 'level': '', 'isDisplay': 0, 'insertTime': '2020-09-30 07:49:51', 'updateTime': '2020-09-30 07:49:55'}}" ]
         }, {
           "name" : "test_updateTeacher[inData1-repsData1]",
-          "uid" : "c31df21cce5917af",
+          "uid" : "5d6f7b0e470d9e7f",
           "parentUid" : "a321e21261f6161563a60f18a49bc1f7",
           "status" : "passed",
           "time" : {
-            "start" : 1601454126955,
-            "stop" : 1601454126997,
-            "duration" : 42
+            "start" : 1601455066675,
+            "stop" : 1601455066722,
+            "duration" : 47
           },
           "flaky" : false,
           "parameters" : [ "{'guid': '', 'display_name': '添加一号', 'real_name': '真是一号', 'tech_subject': '科目一号', 'tech_grade': '高一'}", "{'code': 100002001, 'message': '缺少必要的参数', 'data': None}" ]
