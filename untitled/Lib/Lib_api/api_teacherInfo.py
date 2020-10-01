@@ -1,7 +1,5 @@
 # api_teacherinfo
 # 2020/9/12
-import json
-from Lib.Lib_api.api_getOpterToken import *
 import requests
 from configs.config import HOST
 
