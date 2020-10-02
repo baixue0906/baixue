@@ -1,28 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="4f40488f-8fa3-4fcc-af8b-8145672ae1e7" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/../Delivery_System0906/.idea/Delivery_System0906.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Delivery_System0906/.idea/Delivery_System0906.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Delivery_System0906/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Delivery_System0906/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Coursemg_Interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Coursemg_Interface.iml" afterDir="false" />
@@ -229,6 +209,9 @@
       <change beforePath="$PROJECT_DIR$/test_case/test_qualificationinfo.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_case/test_qualificationinfo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_case/test_teacherList.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_case/test_teacherList.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_case/test_updateTeacher.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_case/test_updateTeacher.py" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> tmp
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -277,8 +260,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="full.screen.before.presentation.mode" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Delivery_System0906" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+>>>>>>> tmp
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -313,7 +301,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.run_all_cases">
+=======
+  <component name="RunManager" selected="Python tests.pytest in test_getTerm.py">
+>>>>>>> tmp
     <configuration name="addTeacherInfo" type="PythonConfigurationType" factoryName="Python">
       <module name="Coursemg_Interface" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -336,7 +328,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="api_teacherInfo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="run_all_cases" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> tmp
       <module name="Coursemg_Interface" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -344,12 +340,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lib/Lib_api" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run_cases" />
+>>>>>>> tmp
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lib/Lib_api/api_teacherInfo.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_cases/run_all_cases.py" />
+>>>>>>> tmp
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -358,19 +362,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="run_all_cases" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="pytest for test_addTeacher.Test_addTeacher" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+>>>>>>> tmp
       <module name="Coursemg_Interface" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run_cases" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_cases/run_all_cases.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -381,18 +387,25 @@
       <method v="2" />
     </configuration>
     <configuration name="test_qualificationinfo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_addTeacher.Test_addTeacher&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_addTeacher.Test_addTeacher.test_addTeacher2" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+>>>>>>> tmp
       <module name="Coursemg_Interface" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_case/test_qualificationinfo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -403,6 +416,15 @@
       <method v="2" />
     </configuration>
     <configuration name="test_teacherList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_addTeacher.Test_addTeacher.test_addTeacher2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_getTerm.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+>>>>>>> tmp
       <module name="Coursemg_Interface" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -415,6 +437,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_case/test_teacherList.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -425,6 +448,15 @@
       <method v="2" />
     </configuration>
     <configuration name="test_updateTeacher" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_case/test_getTerm.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_qualificationinfo.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+>>>>>>> tmp
       <module name="Coursemg_Interface" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -437,6 +469,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_case/test_updateTeacher.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -444,10 +477,17 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
+=======
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_case/test_qualificationinfo.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+>>>>>>> tmp
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.addTeacherInfo" />
+<<<<<<< HEAD
       <item itemvalue="Python.api_teacherInfo" />
       <item itemvalue="Python.test_updateTeacher" />
       <item itemvalue="Python.test_teacherList" />
@@ -461,12 +501,27 @@
         <item itemvalue="Python.test_teacherList" />
         <item itemvalue="Python.test_updateTeacher" />
         <item itemvalue="Python.api_teacherInfo" />
+=======
+      <item itemvalue="Python.run_all_cases" />
+      <item itemvalue="Python tests.pytest for test_addTeacher.Test_addTeacher.test_addTeacher2" />
+      <item itemvalue="Python tests.pytest for test_addTeacher.Test_addTeacher" />
+      <item itemvalue="Python tests.pytest in test_qualificationinfo.py" />
+      <item itemvalue="Python tests.pytest in test_getTerm.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in test_getTerm.py" />
+        <item itemvalue="Python.run_all_cases" />
+        <item itemvalue="Python tests.pytest in test_qualificationinfo.py" />
+        <item itemvalue="Python tests.pytest for test_addTeacher.Test_addTeacher.test_addTeacher2" />
+        <item itemvalue="Python tests.pytest for test_addTeacher.Test_addTeacher" />
+>>>>>>> tmp
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
-    <configuration>$USER_HOME$/.subversion</configuration>
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -533,9 +588,13 @@
       <workItem from="1601453132479" duration="54000" />
       <workItem from="1601453206740" duration="1030000" />
       <workItem from="1601454450019" duration="3370000" />
+<<<<<<< HEAD
       <workItem from="1601602822850" duration="42000" />
       <workItem from="1601602866014" duration="49000" />
       <workItem from="1601602929280" duration="6127000" />
+=======
+      <workItem from="1601459877600" duration="307000" />
+>>>>>>> tmp
     </task>
     <servers />
   </component>
@@ -556,21 +615,12 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="1736" y="294" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601534724243">
-      <screen x="1440" y="98" width="1920" height="1057" />
-    </state>
-    <state x="1736" y="294" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.98.1920.1057/0.23.1440.798@1440.98.1920.1057" timestamp="1601534724243" />
-    <state x="1736" y="294" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.98.1920.1057/0.23.1440.801@1440.98.1920.1057" timestamp="1601534389820" />
     <state x="91" y="157" width="1240" height="604" key="DiffContextDialog" timestamp="1601087907746">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
     <state x="91" y="157" width="1240" height="604" key="DiffContextDialog/0.23.1440.800@0.23.1440.800" timestamp="1601087907746" />
-    <state x="2014" y="273" key="FileChooserDialogImpl" timestamp="1601534599574">
-      <screen x="1440" y="98" width="1920" height="1057" />
-    </state>
-    <state x="2014" y="273" key="FileChooserDialogImpl/1440.98.1920.1057/0.23.1440.801@1440.98.1920.1057" timestamp="1601534599574" />
-    <state width="1691" height="251" key="GridCell.Tab.0.bottom" timestamp="1601544683234">
-      <screen x="0" y="23" width="1440" height="801" />
+    <state width="1419" height="197" key="GridCell.Tab.0.bottom" timestamp="1601121411958">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="197" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601121411958" />
     <state width="1419" height="252" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1600966688664" />
@@ -578,13 +628,8 @@
     <state width="1419" height="174" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1599958809182" />
     <state width="1419" height="131" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1599924416782" />
     <state width="1419" height="196" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1599922866728" />
-    <state width="1397" height="122" key="GridCell.Tab.0.bottom/1440.98.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1601533808292" />
-    <state width="1347" height="310" key="GridCell.Tab.0.bottom/1440.98.1920.1057/0.23.1440.798@1440.98.1920.1057" timestamp="1601534745389" />
-    <state width="1691" height="251" key="GridCell.Tab.0.bottom/1440.98.1920.1057/0.23.1440.801@0.23.1440.801" timestamp="1601544683234" />
-    <state width="1347" height="310" key="GridCell.Tab.0.bottom/1440.98.1920.1057/0.23.1440.801@1440.98.1920.1057" timestamp="1601534875997" />
-    <state width="1691" height="251" key="GridCell.Tab.0.bottom/1440.98.1920.1057/0.23.1440.804@1440.98.1920.1057" timestamp="1601536225909" />
-    <state width="1691" height="251" key="GridCell.Tab.0.center" timestamp="1601544683233">
-      <screen x="0" y="23" width="1440" height="801" />
+    <state width="1419" height="197" key="GridCell.Tab.0.center" timestamp="1601121411957">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="197" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1601121411957" />
     <state width="1419" height="252" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1600966688663" />
@@ -592,13 +637,8 @@
     <state width="1419" height="174" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1599958809182" />
     <state width="1419" height="131" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1599924416781" />
     <state width="1419" height="196" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1599922866728" />
-    <state width="1397" height="122" key="GridCell.Tab.0.center/1440.98.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1601533808291" />
-    <state width="1347" height="310" key="GridCell.Tab.0.center/1440.98.1920.1057/0.23.1440.798@1440.98.1920.1057" timestamp="1601534745389" />
-    <state width="1691" height="251" key="GridCell.Tab.0.center/1440.98.1920.1057/0.23.1440.801@0.23.1440.801" timestamp="1601544683233" />
-    <state width="1347" height="310" key="GridCell.Tab.0.center/1440.98.1920.1057/0.23.1440.801@1440.98.1920.1057" timestamp="1601534875997" />
-    <state width="1691" height="251" key="GridCell.Tab.0.center/1440.98.1920.1057/0.23.1440.804@1440.98.1920.1057" timestamp="1601536225908" />
-    <state width="1691" height="251" key="GridCell.Tab.0.left" timestamp="1601544683231">
-      <screen x="0" y="23" width="1440" height="801" />
+    <state width="1419" height="197" key="GridCell.Tab.0.left" timestamp="1601121411955">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="197" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1601121411955" />
     <state width="1419" height="252" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1600966688663" />
@@ -606,13 +646,8 @@
     <state width="1419" height="174" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1599958809182" />
     <state width="1419" height="131" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1599924416781" />
     <state width="1419" height="196" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1599922866727" />
-    <state width="1397" height="122" key="GridCell.Tab.0.left/1440.98.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1601533808290" />
-    <state width="1347" height="310" key="GridCell.Tab.0.left/1440.98.1920.1057/0.23.1440.798@1440.98.1920.1057" timestamp="1601534745388" />
-    <state width="1691" height="251" key="GridCell.Tab.0.left/1440.98.1920.1057/0.23.1440.801@0.23.1440.801" timestamp="1601544683231" />
-    <state width="1347" height="310" key="GridCell.Tab.0.left/1440.98.1920.1057/0.23.1440.801@1440.98.1920.1057" timestamp="1601534875997" />
-    <state width="1691" height="251" key="GridCell.Tab.0.left/1440.98.1920.1057/0.23.1440.804@1440.98.1920.1057" timestamp="1601536225907" />
-    <state width="1691" height="251" key="GridCell.Tab.0.right" timestamp="1601544683234">
-      <screen x="0" y="23" width="1440" height="801" />
+    <state width="1419" height="197" key="GridCell.Tab.0.right" timestamp="1601121411958">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="197" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1601121411958" />
     <state width="1419" height="252" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1600966688663" />
@@ -620,22 +655,12 @@
     <state width="1419" height="174" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1599958809182" />
     <state width="1419" height="131" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1599924416782" />
     <state width="1419" height="196" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1599922866728" />
-    <state width="1397" height="122" key="GridCell.Tab.0.right/1440.98.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1601533808292" />
-    <state width="1347" height="310" key="GridCell.Tab.0.right/1440.98.1920.1057/0.23.1440.798@1440.98.1920.1057" timestamp="1601534745389" />
-    <state width="1691" height="251" key="GridCell.Tab.0.right/1440.98.1920.1057/0.23.1440.801@0.23.1440.801" timestamp="1601544683234" />
-    <state width="1347" height="310" key="GridCell.Tab.0.right/1440.98.1920.1057/0.23.1440.801@1440.98.1920.1057" timestamp="1601534875997" />
-    <state width="1691" height="251" key="GridCell.Tab.0.right/1440.98.1920.1057/0.23.1440.804@1440.98.1920.1057" timestamp="1601536225909" />
-    <state x="1735" y="151" key="SettingsEditor" timestamp="1601534742738">
-      <screen x="1440" y="98" width="1920" height="1057" />
+    <state x="221" y="63" key="SettingsEditor" timestamp="1600966226558">
+      <screen x="0" y="23" width="1440" height="800" />
     </state>
     <state x="221" y="63" key="SettingsEditor/0.23.1440.800@0.23.1440.800" timestamp="1600966226558" />
     <state x="221" y="63" key="SettingsEditor/0.23.1440.801@0.23.1440.801" timestamp="1599974116329" />
     <state x="221" y="63" key="SettingsEditor/0.23.1440.806@0.23.1440.806" timestamp="1599921052820" />
-    <state x="1735" y="129" key="SettingsEditor/1440.75.1920.1080/0.0.1440.900@1440.75.1920.1080" timestamp="1601529465169" />
-    <state x="221" y="63" key="SettingsEditor/1440.98.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1601533504836" />
-    <state x="1735" y="151" key="SettingsEditor/1440.98.1920.1057/0.23.1440.798@1440.98.1920.1057" timestamp="1601534742738" />
-    <state x="1735" y="151" key="SettingsEditor/1440.98.1920.1057/0.23.1440.801@1440.98.1920.1057" timestamp="1601534646888" />
-    <state x="1735" y="151" key="SettingsEditor/1440.98.1920.1057/0.23.1440.804@1440.98.1920.1057" timestamp="1601534044723" />
     <state x="709" y="385" key="VCS.ChangelistChooser" timestamp="1601086104995">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
@@ -646,11 +671,35 @@
     <state x="100" y="123" width="1240" height="601" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.801@0.23.1440.801" timestamp="1599978910431" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/Coursemg_Interface$api_teacherInfo.coverage" NAME="api_teacherInfo Coverage Results" MODIFIED="1601608394828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lib/Lib_api" />
     <SUITE FILE_PATH="coverage/Coursemg_Interface$test_teacherList.coverage" NAME="test_teacherList Coverage Results" MODIFIED="1601608737972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/Coursemg_Interface$get_exceldata.coverage" NAME="get_exceldata Coverage Results" MODIFIED="1601606924430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lib/Lib_common" />
     <SUITE FILE_PATH="coverage/Coursemg_Interface$test_updateTeacher.coverage" NAME="test_updateTeacher Coverage Results" MODIFIED="1601608568674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/Coursemg_Interface$run_all_cases.coverage" NAME="run_all_cases Coverage Results" MODIFIED="1601609330803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/run_cases" />
     <SUITE FILE_PATH="coverage/Coursemg_Interface$test_qualificationinfo.coverage" NAME="test_qualificationinfo Coverage Results" MODIFIED="1601609295565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+=======
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$myShop.coverage" NAME="myShop Coverage Results" MODIFIED="1601450283406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/第4次课程-2020.09.27-(Pytest框架+数据驱动）/Delivery_System-2020.09.28/Delivery_System-2020.09.28/lib/apiLib" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_qualificationinfo_test_getQualificationInfo2.coverage" NAME="pytest for test_qualificationinfo.test_getQualificationInfo2 Coverage Results" MODIFIED="1601452690871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_getCourse_test_getCourse.coverage" NAME="pytest for test_getCourse.test_getCourse Coverage Results" MODIFIED="1601453589161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_in_test_getTerm_py.coverage" NAME="pytest in test_getTerm.py Coverage Results" MODIFIED="1601455513990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_teacherList_Test_teacherList.coverage" NAME="pytest for test_teacherList.Test_teacherList Coverage Results" MODIFIED="1601447846784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_in_test_getCourse_py.coverage" NAME="pytest in test_getCourse.py Coverage Results" MODIFIED="1601453446188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_updateTeacher_Test_updateTeacher.coverage" NAME="pytest for test_updateTeacher.Test_updateTeacher Coverage Results" MODIFIED="1601452499115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$get_exceldata.coverage" NAME="get_exceldata Coverage Results" MODIFIED="1601453584493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lib/Lib_common" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_in_test_addTeacher_py.coverage" NAME="pytest in test_addTeacher.py Coverage Results" MODIFIED="1601451849967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_addTeacher_Test_addTeacher.coverage" NAME="pytest for test_addTeacher.Test_addTeacher Coverage Results" MODIFIED="1601453909253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_in_test_qualificationinfo_py.coverage" NAME="pytest in test_qualificationinfo.py Coverage Results" MODIFIED="1601454043834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_in_test_updateTeacher_py.coverage" NAME="pytest in test_updateTeacher.py Coverage Results" MODIFIED="1601452345347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$api_getOpterToken.coverage" NAME="api_getOpterToken Coverage Results" MODIFIED="1601452415023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lib/Lib_api" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$run_all_cases.coverage" NAME="run_all_cases Coverage Results" MODIFIED="1601455062949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/run_cases" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$getExcelData.coverage" NAME="getExcelData Coverage Results" MODIFIED="1601446776548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/第4次课程-2020.09.27-(Pytest框架+数据驱动）/Delivery_System-2020.09.28/Delivery_System-2020.09.28/tools" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_teacherList_Test_teacherList_test_teacherList3.coverage" NAME="pytest for test_teacherList.Test_teacherList.test_teacherList3 Coverage Results" MODIFIED="1601450388722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$api_teacherInfo.coverage" NAME="api_teacherInfo Coverage Results" MODIFIED="1601452485647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lib/Lib_api" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_in_test_teacherList_py.coverage" NAME="pytest in test_teacherList.py Coverage Results" MODIFIED="1601447857451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_addTeacher_Test_addTeacher_test_addTeacher1.coverage" NAME="pytest for test_addTeacher.Test_addTeacher.test_addTeacher1 Coverage Results" MODIFIED="1601451019554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_teacherList_Test_teacherList_test_teacherList1.coverage" NAME="pytest for test_teacherList.Test_teacherList.test_teacherList1 Coverage Results" MODIFIED="1601447822954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/Coursemg_Interface$pytest_for_test_addTeacher_Test_addTeacher_test_addTeacher2.coverage" NAME="pytest for test_addTeacher.Test_addTeacher.test_addTeacher2 Coverage Results" MODIFIED="1601454011248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+>>>>>>> tmp
   </component>
 </project>
