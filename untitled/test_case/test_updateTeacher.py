@@ -6,14 +6,15 @@ import allure
 
 @allure.feature('教师信息模块')
 @allure.story('修改教师接口')
+@pytest.mark.parametrize("inData,repsData",get_excelData2('Updateteacher','Update',9,11))
+
 class Test_updateTeacher:
     def setup_class(self):
         self.tmptoken = TeacherList().test_gettmptoken()
         self.opterToken = TeacherList().test_gettoken()
 
-    @pytest.mark.parametrize("inData,repsData", get_excelData2('Updateteacher', 'Update', 9, 11))
-    def test_updateTeacher2(self,inData,repsData,update_teacher_init):
-        res = teacherInfo().api_updateTeacher(self.opterToken,inData,update_teacher_init)
+    def test_updateTeacher(self,inData,repsData):
+        res = teacherInfo().api_updateTeacher(self.opterToken,inData)
         assert res['message'] == repsData['message']
 
 if __name__ == '__main__':

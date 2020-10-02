@@ -6,74 +6,14 @@
     "children" : [ {
       "name" : "添加教师接口",
       "children" : [ {
-        "name" : "test_addTeacher1[inData0-repsData0]",
-        "uid" : "25608eb6630cee90",
-        "parentUid" : "a5342442765cf981ae77b2b30b1dee1e",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601609331854,
-          "stop" : 1601609331911,
-          "duration" : 57
-        },
-        "flaky" : false,
-        "parameters" : [ "{'display_name': '添加一号', 'real_name': '真是一号', 'tech_subject': '科目一号', 'tech_grade': '高一'}", "{'code': 0, 'message': 'Success', 'data': {'guid': 'bbfbf2db889c4ffeb0e93b2742e4adce', 'displayName': '测试add', 'realName': '测试0706001', 'techSubject': '语文', 'techGrade': '高一', 'sex': 0, 'isTaught': 0, 'IDNum': '', 'certificateNum': '', 'styleMethod': '', 'backgroundResume': '', 'courseUrl': '', 'qualificationUrl': '', 'certificateUrl': '', 'middleSizeUrl': '', 'level': '', 'isDisplay': 0, 'insertTime': '2020-09-30 07:24:03', 'updateTime': '2020-09-30 07:24:03'}}" ]
-      }, {
-        "name" : "test_addTeacher1[inData1-repsData1]",
-        "uid" : "89a6399c2d6937a",
-        "parentUid" : "a5342442765cf981ae77b2b30b1dee1e",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601609331934,
-          "stop" : 1601609331961,
-          "duration" : 27
-        },
-        "flaky" : false,
-        "parameters" : [ "{'display_name': '', 'real_name': '真是一号', 'tech_subject': '科目一号', 'tech_grade': '高一'}", "{'code': 100002001, 'message': '缺少必要的参数', 'data': None}" ]
-      }, {
-        "name" : "test_addTeacher1[inData2-repsData2]",
-        "uid" : "1b72a174aad8477",
-        "parentUid" : "a5342442765cf981ae77b2b30b1dee1e",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601609331966,
-          "stop" : 1601609331993,
-          "duration" : 27
-        },
-        "flaky" : false,
-        "parameters" : [ "{'display_name': '添加一号', 'real_name': '', 'tech_subject': '科目一号', 'tech_grade': '高一'}", "{'code': 100002001, 'message': '缺少必要的参数', 'data': None}" ]
-      }, {
-        "name" : "test_addTeacher1[inData3-repsData3]",
-        "uid" : "159b0c7c7e2a2c85",
-        "parentUid" : "a5342442765cf981ae77b2b30b1dee1e",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601609331997,
-          "stop" : 1601609332046,
-          "duration" : 49
-        },
-        "flaky" : false,
-        "parameters" : [ "{'display_name': '添加一号', 'real_name': '真是一号', 'tech_subject': '', 'tech_grade': '高一'}", "{'code': 100002001, 'message': '缺少必要的参数', 'data': None}" ]
-      }, {
-        "name" : "test_addTeacher1[inData4-repsData4]",
-        "uid" : "e2e79edf89473562",
-        "parentUid" : "a5342442765cf981ae77b2b30b1dee1e",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601609332051,
-          "stop" : 1601609332076,
-          "duration" : 25
-        },
-        "flaky" : false,
-        "parameters" : [ "{'display_name': '添加一号', 'real_name': '真是一号', 'tech_subject': '科目一号', 'tech_grade': ''}", "{'code': 100002001, 'message': '缺少必要的参数', 'data': None}" ]
-      }, {
         "name" : "test_addTeacher2[{\n\"display_name\":\"添加一号\",\n\"real_name\":\"真是一号\",\n\"tech_subject\":\"科目一号\",\n\"tech_grade\":\"高一\"\n}-{\n    \"code\": 0,\n    \"message\": \"Success\",\n    \"data\": {\n        \"guid\": \"bbfbf2db889c4ffeb0e93b2742e4adce\",\n        \"displayName\": \"测试add\",\n        \"realName\": \"测试0706001\",\n        \"techSubject\": \"语文\",\n        \"techGrade\": \"高一\",\n        \"sex\": 0,\n        \"isTaught\": 0,\n        \"IDNum\": \"\",\n        \"certificateNum\": \"\",\n        \"styleMethod\": \"\",\n        \"backgroundResume\": \"\",\n        \"courseUrl\": \"\",\n        \"qualificationUrl\": \"\",\n        \"certificateUrl\": \"\",\n        \"middleSizeUrl\": \"\",\n        \"level\": \"\",\n        \"isDisplay\": 0,\n        \"insertTime\": \"2020-09-30 07:24:03\",\n        \"updateTime\": \"2020-09-30 07:24:03\"\n    }\n}]",
-        "uid" : "4d29b18a725f45fa",
+        "uid" : "befc77c671023ca5",
         "parentUid" : "a5342442765cf981ae77b2b30b1dee1e",
         "status" : "passed",
         "time" : {
-          "start" : 1601609332099,
-          "stop" : 1601609332142,
-          "duration" : 43
+          "start" : 1601455064053,
+          "stop" : 1601455064166,
+          "duration" : 113
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"display_name\":\"添加一号\",\n\"real_name\":\"真是一号\",\n\"tech_subject\":\"科目一号\",\n\"tech_grade\":\"高一\"\n}'", "'{\n    \"code\": 0,\n    \"message\": \"Success\",\n    \"data\": {\n        \"guid\": \"bbfbf2db889c4ffeb0e93b2742e4adce\",\n        \"displayName\": \"测试add\",\n        \"realName\": \"测试0706001\",\n        \"techSubject\": \"语文\",\n        \"techGrade\": \"高一\",\n        \"sex\": 0,\n        \"isTaught\": 0,\n        \"IDNum\": \"\",\n        \"certificateNum\": \"\",\n        \"styleMethod\": \"\",\n        \"backgroundResume\": \"\",\n        \"courseUrl\": \"\",\n        \"qualificationUrl\": \"\",\n        \"certificateUrl\": \"\",\n        \"middleSizeUrl\": \"\",\n        \"level\": \"\",\n        \"isDisplay\": 0,\n        \"insertTime\": \"2020-09-30 07:24:03\",\n        \"updateTime\": \"2020-09-30 07:24:03\"\n    }\n}'" ]
@@ -83,25 +23,13 @@
       "name" : "获取教师资质信息",
       "children" : [ {
         "name" : "test_getQualificationInfo1",
-        "uid" : "218501426477cc13",
+        "uid" : "2c59ce7103e648d4",
         "parentUid" : "12bad052ec6ada47e8062d77f45fa6f9",
         "status" : "passed",
         "time" : {
-          "start" : 1601609333343,
-          "stop" : 1601609333469,
-          "duration" : 126
-        },
-        "flaky" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "test_getQualificationInfo2",
-        "uid" : "1d0a5177962bbff6",
-        "parentUid" : "12bad052ec6ada47e8062d77f45fa6f9",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601609333471,
-          "stop" : 1601609333525,
-          "duration" : 54
+          "start" : 1601455065773,
+          "stop" : 1601455065858,
+          "duration" : 85
         },
         "flaky" : false,
         "parameters" : [ ]
@@ -111,49 +39,49 @@
       "name" : "教师列表",
       "children" : [ {
         "name" : "test_teacherList1",
-        "uid" : "9098bd1de9bdce89",
+        "uid" : "409b7a01ae64f3a1",
         "parentUid" : "6c280548c83df7dcf214f9c6c472833d",
         "status" : "passed",
         "time" : {
-          "start" : 1601609333600,
-          "stop" : 1601609333688,
-          "duration" : 88
+          "start" : 1601455066068,
+          "stop" : 1601455066170,
+          "duration" : 102
         },
         "flaky" : false,
         "parameters" : [ ]
       }, {
         "name" : "test_teacherList2[inData0-repsData0]",
-        "uid" : "bab4adbb6897a496",
+        "uid" : "dcfdeb88def924d",
         "parentUid" : "6c280548c83df7dcf214f9c6c472833d",
         "status" : "passed",
         "time" : {
-          "start" : 1601609333694,
-          "stop" : 1601609333722,
-          "duration" : 28
+          "start" : 1601455066185,
+          "stop" : 1601455066246,
+          "duration" : 61
         },
         "flaky" : false,
         "parameters" : [ "{'opterToken': ''}", "{'code': 100002001, 'data': None, 'message': '缺少必要的参数'}" ]
       }, {
         "name" : "test_teacherList2[inData1-repsData1]",
-        "uid" : "735b616895082444",
+        "uid" : "c9b57f2cef603658",
         "parentUid" : "6c280548c83df7dcf214f9c6c472833d",
         "status" : "passed",
         "time" : {
-          "start" : 1601609333727,
-          "stop" : 1601609333751,
-          "duration" : 24
+          "start" : 1601455066325,
+          "stop" : 1601455066383,
+          "duration" : 58
         },
         "flaky" : false,
         "parameters" : [ "{'opterToken': '123'}", "{'code': 100001003, 'data': None, 'message': 'token无效'}" ]
       }, {
         "name" : "test_teacherList3",
-        "uid" : "e7c5f28ca0fc2830",
+        "uid" : "d809bfc332abda60",
         "parentUid" : "6c280548c83df7dcf214f9c6c472833d",
         "status" : "passed",
         "time" : {
-          "start" : 1601609333756,
-          "stop" : 1601609333821,
-          "duration" : 65
+          "start" : 1601455066394,
+          "stop" : 1601455066461,
+          "duration" : 67
         },
         "flaky" : false,
         "parameters" : [ ]
@@ -162,197 +90,29 @@
     }, {
       "name" : "修改教师接口",
       "children" : [ {
-        "name" : "test_updateTeacher2[inData0-repsData0]",
-        "uid" : "c6f31cc2282fd715",
+        "name" : "test_updateTeacher[inData0-repsData0]",
+        "uid" : "9fff56a657d7b071",
         "parentUid" : "9ef308e92d8ce4140558f52f453dceca",
         "status" : "passed",
         "time" : {
-          "start" : 1601609334027,
-          "stop" : 1601609334057,
-          "duration" : 30
+          "start" : 1601455066601,
+          "stop" : 1601455066668,
+          "duration" : 67
         },
         "flaky" : false,
-        "parameters" : [ "{'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'display_name': '测试修改展示名称', 'real_name': '测试化学老师', 'tech_subject': '科学,生物,化学', 'tech_grade': '小学', 'sex': '2', 'is_taught': '1', 'id_num': '110109000000000000', 'certificate_num': '', 'style_method': '', 'background_resume': '', 'course_url': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualification_url': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificate_url': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'is_display': '0', 'level': '化学高级教师职务', 'middle_size_url': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg'}", "{'code': 0, 'message': 'Success', 'data': {'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'displayName': '测试化学老师展示姓名贰', 'realName': '测试化学老师', 'techSubject': '科学,生物,化学', 'techGrade': '小学', 'sex': 2, 'isTaught': 1, 'IDNum': '110109000000000000', 'certificateNum': '', 'styleMethod': '', 'backgroundResume': '', 'courseUrl': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualificationUrl': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificateUrl': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'middleSizeUrl': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg', 'level': '', 'isDisplay': 0, 'insertTime': '2020-07-02 06:01:46', 'updateTime': '2020-10-02 02:32:17'}}" ]
+        "parameters" : [ "{'guid': 'b915c7bc6d4a4344a76d4a69286d9c9e', 'display_name': '添加一号', 'real_name': '真是一号', 'tech_subject': '科目一号', 'tech_grade': '高一'}", "{'code': 0, 'message': 'Success', 'data': {'guid': '5d672520f71444ecb2ac9e3d9a89f7f9', 'displayName': '测试edit1', 'realName': '测试', 'techSubject': '语文', 'techGrade': '高一', 'sex': 0, 'isTaught': 0, 'IDNum': '', 'certificateNum': '', 'styleMethod': '', 'backgroundResume': '', 'courseUrl': '', 'qualificationUrl': '', 'certificateUrl': '', 'middleSizeUrl': '', 'level': '', 'isDisplay': 0, 'insertTime': '2020-09-30 07:49:51', 'updateTime': '2020-09-30 07:49:55'}}" ]
       }, {
-        "name" : "test_updateTeacher2[inData1-repsData1]",
-        "uid" : "e73dd6f26c79c9f3",
+        "name" : "test_updateTeacher[inData1-repsData1]",
+        "uid" : "5d6f7b0e470d9e7f",
         "parentUid" : "9ef308e92d8ce4140558f52f453dceca",
         "status" : "passed",
         "time" : {
-          "start" : 1601609334181,
-          "stop" : 1601609334211,
-          "duration" : 30
+          "start" : 1601455066675,
+          "stop" : 1601455066722,
+          "duration" : 47
         },
         "flaky" : false,
-        "parameters" : [ "{'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'display_name': '测试化学老师展示姓名贰', 'real_name': '测试修改真实名称', 'tech_subject': '科学,生物,化学', 'tech_grade': '小学', 'sex': '2', 'is_taught': '1', 'id_num': '110109000000000000', 'certificate_num': '', 'style_method': '', 'background_resume': '', 'course_url': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualification_url': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificate_url': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'is_display': '0', 'level': '化学高级教师职务', 'middle_size_url': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg'}", "{'code': 0, 'message': 'Success', 'data': {'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'displayName': '测试化学老师展示姓名贰', 'realName': '测试化学老师', 'techSubject': '科学,生物,化学', 'techGrade': '小学', 'sex': 2, 'isTaught': 1, 'IDNum': '110109000000000000', 'certificateNum': '', 'styleMethod': '', 'backgroundResume': '', 'courseUrl': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualificationUrl': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificateUrl': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'middleSizeUrl': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg', 'level': '', 'isDisplay': 0, 'insertTime': '2020-07-02 06:01:46', 'updateTime': '2020-10-02 02:32:17'}}" ]
-      }, {
-        "name" : "test_updateTeacher2[inData2-repsData2]",
-        "uid" : "a78f7d0f55aba4e8",
-        "parentUid" : "9ef308e92d8ce4140558f52f453dceca",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601609334356,
-          "stop" : 1601609334386,
-          "duration" : 30
-        },
-        "flaky" : false,
-        "parameters" : [ "{'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'display_name': '测试化学老师展示姓名贰', 'real_name': '测试化学老师', 'tech_subject': '语文', 'tech_grade': '小学', 'sex': '2', 'is_taught': '1', 'id_num': '110109000000000000', 'certificate_num': '', 'style_method': '', 'background_resume': '', 'course_url': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualification_url': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificate_url': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'is_display': '0', 'level': '化学高级教师职务', 'middle_size_url': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg'}", "{'code': 0, 'message': 'Success', 'data': {'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'displayName': '测试化学老师展示姓名贰', 'realName': '测试化学老师', 'techSubject': '科学,生物,化学', 'techGrade': '小学', 'sex': 2, 'isTaught': 1, 'IDNum': '110109000000000000', 'certificateNum': '', 'styleMethod': '', 'backgroundResume': '', 'courseUrl': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualificationUrl': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificateUrl': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'middleSizeUrl': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg', 'level': '', 'isDisplay': 0, 'insertTime': '2020-07-02 06:01:46', 'updateTime': '2020-10-02 02:32:17'}}" ]
-      }, {
-        "name" : "test_updateTeacher2[inData3-repsData3]",
-        "uid" : "964422b60166e13c",
-        "parentUid" : "9ef308e92d8ce4140558f52f453dceca",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601609334515,
-          "stop" : 1601609334546,
-          "duration" : 31
-        },
-        "flaky" : false,
-        "parameters" : [ "{'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'display_name': '测试化学老师展示姓名贰', 'real_name': '测试化学老师', 'tech_subject': '科学,生物,化学', 'tech_grade': '高中', 'sex': '2', 'is_taught': '1', 'id_num': '110109000000000000', 'certificate_num': '', 'style_method': '', 'background_resume': '', 'course_url': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualification_url': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificate_url': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'is_display': '0', 'level': '化学高级教师职务', 'middle_size_url': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg'}", "{'code': 0, 'message': 'Success', 'data': {'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'displayName': '测试化学老师展示姓名贰', 'realName': '测试化学老师', 'techSubject': '科学,生物,化学', 'techGrade': '小学', 'sex': 2, 'isTaught': 1, 'IDNum': '110109000000000000', 'certificateNum': '', 'styleMethod': '', 'backgroundResume': '', 'courseUrl': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualificationUrl': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificateUrl': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'middleSizeUrl': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg', 'level': '', 'isDisplay': 0, 'insertTime': '2020-07-02 06:01:46', 'updateTime': '2020-10-02 02:32:17'}}" ]
-      }, {
-        "name" : "test_updateTeacher2[inData4-repsData4]",
-        "uid" : "763ee7b26b0cb168",
-        "parentUid" : "9ef308e92d8ce4140558f52f453dceca",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601609334677,
-          "stop" : 1601609334714,
-          "duration" : 37
-        },
-        "flaky" : false,
-        "parameters" : [ "{'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'display_name': '测试化学老师展示姓名贰', 'real_name': '测试化学老师', 'tech_subject': '科学,生物,化学', 'tech_grade': '小学', 'sex': '1', 'is_taught': '1', 'id_num': '110109000000000000', 'certificate_num': '', 'style_method': '', 'background_resume': '', 'course_url': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualification_url': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificate_url': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'is_display': '0', 'level': '化学高级教师职务', 'middle_size_url': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg'}", "{'code': 0, 'message': 'Success', 'data': {'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'displayName': '测试化学老师展示姓名贰', 'realName': '测试化学老师', 'techSubject': '科学,生物,化学', 'techGrade': '小学', 'sex': 2, 'isTaught': 1, 'IDNum': '110109000000000000', 'certificateNum': '', 'styleMethod': '', 'backgroundResume': '', 'courseUrl': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualificationUrl': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificateUrl': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'middleSizeUrl': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg', 'level': '', 'isDisplay': 0, 'insertTime': '2020-07-02 06:01:46', 'updateTime': '2020-10-02 02:32:17'}}" ]
-      }, {
-        "name" : "test_updateTeacher2[inData5-repsData5]",
-        "uid" : "dba03efe37d01ecc",
-        "parentUid" : "9ef308e92d8ce4140558f52f453dceca",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601609334832,
-          "stop" : 1601609334864,
-          "duration" : 32
-        },
-        "flaky" : false,
-        "parameters" : [ "{'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'display_name': '测试化学老师展示姓名贰', 'real_name': '测试化学老师', 'tech_subject': '科学,生物,化学', 'tech_grade': '小学', 'sex': '2', 'is_taught': '2', 'id_num': '110109000000000000', 'certificate_num': '', 'style_method': '', 'background_resume': '', 'course_url': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualification_url': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificate_url': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'is_display': '0', 'level': '化学高级教师职务', 'middle_size_url': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg'}", "{'code': 0, 'message': 'Success', 'data': {'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'displayName': '测试化学老师展示姓名贰', 'realName': '测试化学老师', 'techSubject': '科学,生物,化学', 'techGrade': '小学', 'sex': 2, 'isTaught': 1, 'IDNum': '110109000000000000', 'certificateNum': '', 'styleMethod': '', 'backgroundResume': '', 'courseUrl': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualificationUrl': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificateUrl': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'middleSizeUrl': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg', 'level': '', 'isDisplay': 0, 'insertTime': '2020-07-02 06:01:46', 'updateTime': '2020-10-02 02:32:17'}}" ]
-      }, {
-        "name" : "test_updateTeacher2[inData6-repsData6]",
-        "uid" : "34b7aadef1c88ce8",
-        "parentUid" : "9ef308e92d8ce4140558f52f453dceca",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601609334990,
-          "stop" : 1601609335018,
-          "duration" : 28
-        },
-        "flaky" : false,
-        "parameters" : [ "{'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'display_name': '测试化学老师展示姓名贰', 'real_name': '测试化学老师', 'tech_subject': '科学,生物,化学', 'tech_grade': '小学', 'sex': '2', 'is_taught': '1', 'id_num': '110103199900001999', 'certificate_num': '', 'style_method': '', 'background_resume': '', 'course_url': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualification_url': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificate_url': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'is_display': '0', 'level': '化学高级教师职务', 'middle_size_url': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg'}", "{'code': 0, 'message': 'Success', 'data': {'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'displayName': '测试化学老师展示姓名贰', 'realName': '测试化学老师', 'techSubject': '科学,生物,化学', 'techGrade': '小学', 'sex': 2, 'isTaught': 1, 'IDNum': '110109000000000000', 'certificateNum': '', 'styleMethod': '', 'backgroundResume': '', 'courseUrl': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualificationUrl': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificateUrl': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'middleSizeUrl': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg', 'level': '', 'isDisplay': 0, 'insertTime': '2020-07-02 06:01:46', 'updateTime': '2020-10-02 02:32:17'}}" ]
-      }, {
-        "name" : "test_updateTeacher2[inData7-repsData7]",
-        "uid" : "75dae84e426366c7",
-        "parentUid" : "9ef308e92d8ce4140558f52f453dceca",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601609335135,
-          "stop" : 1601609335166,
-          "duration" : 31
-        },
-        "flaky" : false,
-        "parameters" : [ "{'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'display_name': '测试化学老师展示姓名贰', 'real_name': '测试化学老师', 'tech_subject': '科学,生物,化学', 'tech_grade': '小学', 'sex': '2', 'is_taught': '1', 'id_num': '110109000000000000', 'certificate_num': '1234567890', 'style_method': '', 'background_resume': '', 'course_url': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualification_url': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificate_url': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'is_display': '0', 'level': '化学高级教师职务', 'middle_size_url': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg'}", "{'code': 0, 'message': 'Success', 'data': {'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'displayName': '测试化学老师展示姓名贰', 'realName': '测试化学老师', 'techSubject': '科学,生物,化学', 'techGrade': '小学', 'sex': 2, 'isTaught': 1, 'IDNum': '110109000000000000', 'certificateNum': '', 'styleMethod': '', 'backgroundResume': '', 'courseUrl': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualificationUrl': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificateUrl': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'middleSizeUrl': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg', 'level': '', 'isDisplay': 0, 'insertTime': '2020-07-02 06:01:46', 'updateTime': '2020-10-02 02:32:17'}}" ]
-      }, {
-        "name" : "test_updateTeacher2[inData8-repsData8]",
-        "uid" : "197d485e964fc590",
-        "parentUid" : "9ef308e92d8ce4140558f52f453dceca",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601609335296,
-          "stop" : 1601609335332,
-          "duration" : 36
-        },
-        "flaky" : false,
-        "parameters" : [ "{'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'display_name': '测试化学老师展示姓名贰', 'real_name': '测试化学老师', 'tech_subject': '科学,生物,化学', 'tech_grade': '小学', 'sex': '2', 'is_taught': '1', 'id_num': '110109000000000000', 'certificate_num': '', 'style_method': '修改授课风格', 'background_resume': '', 'course_url': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualification_url': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificate_url': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'is_display': '0', 'level': '化学高级教师职务', 'middle_size_url': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg'}", "{'code': 0, 'message': 'Success', 'data': {'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'displayName': '测试化学老师展示姓名贰', 'realName': '测试化学老师', 'techSubject': '科学,生物,化学', 'techGrade': '小学', 'sex': 2, 'isTaught': 1, 'IDNum': '110109000000000000', 'certificateNum': '', 'styleMethod': '', 'backgroundResume': '', 'courseUrl': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualificationUrl': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificateUrl': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'middleSizeUrl': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg', 'level': '', 'isDisplay': 0, 'insertTime': '2020-07-02 06:01:46', 'updateTime': '2020-10-02 02:32:17'}}" ]
-      }, {
-        "name" : "test_updateTeacher2[inData9-repsData9]",
-        "uid" : "f67b87ce1e37d674",
-        "parentUid" : "9ef308e92d8ce4140558f52f453dceca",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601609335469,
-          "stop" : 1601609335503,
-          "duration" : 34
-        },
-        "flaky" : false,
-        "parameters" : [ "{'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'display_name': '测试化学老师展示姓名贰', 'real_name': '测试化学老师', 'tech_subject': '科学,生物,化学', 'tech_grade': '小学', 'sex': '2', 'is_taught': '1', 'id_num': '110109000000000000', 'certificate_num': '', 'style_method': '', 'background_resume': '', 'course_url': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualification_url': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificate_url': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'is_display': '0', 'level': '化学高级教师职务', 'middle_size_url': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg'}", "{'code': 0, 'message': 'Success', 'data': {'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'displayName': '测试化学老师展示姓名贰', 'realName': '测试化学老师', 'techSubject': '科学,生物,化学', 'techGrade': '小学', 'sex': 2, 'isTaught': 1, 'IDNum': '110109000000000000', 'certificateNum': '', 'styleMethod': '', 'backgroundResume': '', 'courseUrl': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualificationUrl': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificateUrl': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'middleSizeUrl': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg', 'level': '', 'isDisplay': 0, 'insertTime': '2020-07-02 06:01:46', 'updateTime': '2020-10-02 02:32:17'}}" ]
-      }, {
-        "name" : "test_updateTeacher2[inData10-repsData10]",
-        "uid" : "c1bc35c3af726274",
-        "parentUid" : "9ef308e92d8ce4140558f52f453dceca",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601609335641,
-          "stop" : 1601609335671,
-          "duration" : 30
-        },
-        "flaky" : false,
-        "parameters" : [ "{'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'display_name': '测试化学老师展示姓名贰', 'real_name': '测试化学老师', 'tech_subject': '科学,生物,化学', 'tech_grade': '小学', 'sex': '2', 'is_taught': '1', 'id_num': '110109000000000000', 'certificate_num': '', 'style_method': '', 'background_resume': '', 'course_url': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualification_url': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificate_url': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'is_display': '0', 'level': '化学高级教师职务', 'middle_size_url': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg'}", "{'code': 0, 'message': 'Success', 'data': {'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'displayName': '测试化学老师展示姓名贰', 'realName': '测试化学老师', 'techSubject': '科学,生物,化学', 'techGrade': '小学', 'sex': 2, 'isTaught': 1, 'IDNum': '110109000000000000', 'certificateNum': '', 'styleMethod': '', 'backgroundResume': '', 'courseUrl': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualificationUrl': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificateUrl': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'middleSizeUrl': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg', 'level': '', 'isDisplay': 0, 'insertTime': '2020-07-02 06:01:46', 'updateTime': '2020-10-02 02:32:17'}}" ]
-      }, {
-        "name" : "test_updateTeacher2[inData11-repsData11]",
-        "uid" : "30a77062706e97ec",
-        "parentUid" : "9ef308e92d8ce4140558f52f453dceca",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601609335805,
-          "stop" : 1601609335839,
-          "duration" : 34
-        },
-        "flaky" : false,
-        "parameters" : [ "{'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'display_name': '测试化学老师展示姓名贰', 'real_name': '测试化学老师', 'tech_subject': '科学,生物,化学', 'tech_grade': '小学', 'sex': '2', 'is_taught': '1', 'id_num': '110109000000000000', 'certificate_num': '', 'style_method': '', 'background_resume': '', 'course_url': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualification_url': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificate_url': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'is_display': '0', 'level': '化学高级教师职务', 'middle_size_url': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg'}", "{'code': 0, 'message': 'Success', 'data': {'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'displayName': '测试化学老师展示姓名贰', 'realName': '测试化学老师', 'techSubject': '科学,生物,化学', 'techGrade': '小学', 'sex': 2, 'isTaught': 1, 'IDNum': '110109000000000000', 'certificateNum': '', 'styleMethod': '', 'backgroundResume': '', 'courseUrl': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualificationUrl': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificateUrl': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'middleSizeUrl': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg', 'level': '', 'isDisplay': 0, 'insertTime': '2020-07-02 06:01:46', 'updateTime': '2020-10-02 02:32:17'}}" ]
-      }, {
-        "name" : "test_updateTeacher2[inData12-repsData12]",
-        "uid" : "9dcfd6f4418170aa",
-        "parentUid" : "9ef308e92d8ce4140558f52f453dceca",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601609335977,
-          "stop" : 1601609336011,
-          "duration" : 34
-        },
-        "flaky" : false,
-        "parameters" : [ "{'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'display_name': '测试化学老师展示姓名贰', 'real_name': '测试化学老师', 'tech_subject': '科学,生物,化学', 'tech_grade': '小学', 'sex': '2', 'is_taught': '1', 'id_num': '110109000000000000', 'certificate_num': '', 'style_method': '', 'background_resume': '', 'course_url': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualification_url': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificate_url': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'is_display': '0', 'level': '化学高级教师职务', 'middle_size_url': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg'}", "{'code': 0, 'message': 'Success', 'data': {'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'displayName': '测试化学老师展示姓名贰', 'realName': '测试化学老师', 'techSubject': '科学,生物,化学', 'techGrade': '小学', 'sex': 2, 'isTaught': 1, 'IDNum': '110109000000000000', 'certificateNum': '', 'styleMethod': '', 'backgroundResume': '', 'courseUrl': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualificationUrl': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificateUrl': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'middleSizeUrl': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg', 'level': '', 'isDisplay': 0, 'insertTime': '2020-07-02 06:01:46', 'updateTime': '2020-10-02 02:32:17'}}" ]
-      }, {
-        "name" : "test_updateTeacher2[inData13-repsData13]",
-        "uid" : "4006a6fd1a64a2a3",
-        "parentUid" : "9ef308e92d8ce4140558f52f453dceca",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601609336157,
-          "stop" : 1601609336190,
-          "duration" : 33
-        },
-        "flaky" : false,
-        "parameters" : [ "{'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'display_name': '测试化学老师展示姓名贰', 'real_name': '测试化学老师', 'tech_subject': '科学,生物,化学', 'tech_grade': '小学', 'sex': '2', 'is_taught': '1', 'id_num': '110109000000000000', 'certificate_num': '', 'style_method': '', 'background_resume': '', 'course_url': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualification_url': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificate_url': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'is_display': '2', 'level': '化学高级教师职务', 'middle_size_url': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg'}", "{'code': 0, 'message': 'Success', 'data': {'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'displayName': '测试化学老师展示姓名贰', 'realName': '测试化学老师', 'techSubject': '科学,生物,化学', 'techGrade': '小学', 'sex': 2, 'isTaught': 1, 'IDNum': '110109000000000000', 'certificateNum': '', 'styleMethod': '', 'backgroundResume': '', 'courseUrl': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualificationUrl': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificateUrl': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'middleSizeUrl': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg', 'level': '', 'isDisplay': 0, 'insertTime': '2020-07-02 06:01:46', 'updateTime': '2020-10-02 02:32:17'}}" ]
-      }, {
-        "name" : "test_updateTeacher2[inData14-repsData14]",
-        "uid" : "3c7ba6e4ee723ac5",
-        "parentUid" : "9ef308e92d8ce4140558f52f453dceca",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601609336326,
-          "stop" : 1601609336358,
-          "duration" : 32
-        },
-        "flaky" : false,
-        "parameters" : [ "{'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'display_name': '测试化学老师展示姓名贰', 'real_name': '测试化学老师', 'tech_subject': '科学,生物,化学', 'tech_grade': '小学', 'sex': '2', 'is_taught': '1', 'id_num': '110109000000000000', 'certificate_num': '', 'style_method': '', 'background_resume': '', 'course_url': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualification_url': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificate_url': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'is_display': '0', 'level': '化学高级教师职务', 'middle_size_url': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg'}", "{'code': 0, 'message': 'Success', 'data': {'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'displayName': '测试化学老师展示姓名贰', 'realName': '测试化学老师', 'techSubject': '科学,生物,化学', 'techGrade': '小学', 'sex': 2, 'isTaught': 1, 'IDNum': '110109000000000000', 'certificateNum': '', 'styleMethod': '', 'backgroundResume': '', 'courseUrl': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualificationUrl': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificateUrl': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'middleSizeUrl': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg', 'level': '', 'isDisplay': 0, 'insertTime': '2020-07-02 06:01:46', 'updateTime': '2020-10-02 02:32:17'}}" ]
-      }, {
-        "name" : "test_updateTeacher2[inData15-repsData15]",
-        "uid" : "af7d85f68f6c4c6",
-        "parentUid" : "9ef308e92d8ce4140558f52f453dceca",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601609336508,
-          "stop" : 1601609336539,
-          "duration" : 31
-        },
-        "flaky" : false,
-        "parameters" : [ "{'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'display_name': '测试化学老师展示姓名贰', 'real_name': '测试化学老师', 'tech_subject': '科学,生物,化学', 'tech_grade': '小学', 'sex': '2', 'is_taught': '1', 'id_num': '110109000000000000', 'certificate_num': '', 'style_method': '', 'background_resume': '', 'course_url': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualification_url': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificate_url': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'is_display': '0', 'level': '修改化学高级教师职务', 'middle_size_url': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg'}", "{'code': 0, 'message': 'Success', 'data': {'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'displayName': '测试化学老师展示姓名贰', 'realName': '测试化学老师', 'techSubject': '科学,生物,化学', 'techGrade': '小学', 'sex': 2, 'isTaught': 1, 'IDNum': '110109000000000000', 'certificateNum': '', 'styleMethod': '', 'backgroundResume': '', 'courseUrl': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualificationUrl': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificateUrl': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'middleSizeUrl': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg', 'level': '', 'isDisplay': 0, 'insertTime': '2020-07-02 06:01:46', 'updateTime': '2020-10-02 02:32:17'}}" ]
+        "parameters" : [ "{'guid': '', 'display_name': '添加一号', 'real_name': '真是一号', 'tech_subject': '科目一号', 'tech_grade': '高一'}", "{'code': 100002001, 'message': '缺少必要的参数', 'data': None}" ]
       } ],
       "uid" : "9ef308e92d8ce4140558f52f453dceca"
     } ],
@@ -362,282 +122,282 @@
     "children" : [ {
       "name" : "公共获取销售课",
       "children" : [ {
-        "name" : "test_getCourse[inData0-repsData0]",
-        "uid" : "d67076426cbc2853",
+        "name" : "test_getCourse[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}-Success0]",
+        "uid" : "c154a07db15a8a5c",
         "parentUid" : "0314e2e768c7051b4fe597e9bf267d6d",
         "status" : "passed",
         "time" : {
-          "start" : 1601609332150,
-          "stop" : 1601609332203,
-          "duration" : 53
+          "start" : 1601455064189,
+          "stop" : 1601455064239,
+          "duration" : 50
         },
         "flaky" : false,
-        "parameters" : [ "{'studyYears': '2019', 'subject': '2', 'grades': '高一', 'version': '人教A版', 'gradeType': '0', 'courseType': '1'}", "{'code': 0, 'message': 'Success', 'data': [{'guid': 's206387', 'rid': '1788548', 'name': '2020年高一数学自主招生课程', 'subject': 2, 'teacherIds': '724fce5ba5694997a870d453d8f8b47b', 'teachers': '黎老师', 'version': '通用版', 'standard': 2, 'series': 1, 'grades': '高一', 'gcode': 'g1', 'coverImage': '', 'coverVideo': '', 'term': '全一册', 'level': '满分冲刺', 'studyYear': '2019', 'type': 0, 'artScience': 0, 'description': '知名高中高级数学教师，为你分析自主招生考试不同于高考的独特之处，详解自主招生考试方向、特点与规律，指点自主招生考试备考策略、方法，指明自主招生复习的方向，助力自主招生考试获得降分优惠！'}]}" ]
+        "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}'", "'Success'" ]
       }, {
-        "name" : "test_getCourse[inData1-repsData1]",
-        "uid" : "3741c83e49d02cae",
+        "name" : "test_getCourse[{\n\"studyYears\":\"\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}-Parameter Invalid]",
+        "uid" : "c46c276d9df3a779",
         "parentUid" : "0314e2e768c7051b4fe597e9bf267d6d",
         "status" : "passed",
         "time" : {
-          "start" : 1601609332208,
-          "stop" : 1601609332233,
+          "start" : 1601455064246,
+          "stop" : 1601455064271,
           "duration" : 25
         },
         "flaky" : false,
-        "parameters" : [ "{'studyYears': '', 'subject': '2', 'grades': '高一', 'version': '人教A版', 'gradeType': '0', 'courseType': '1'}", "{'code': 100002002, 'message': 'Parameter Invalid', 'data': None}" ]
+        "parameters" : [ "'{\n\"studyYears\":\"\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}'", "'Parameter Invalid'" ]
       }, {
-        "name" : "test_getCourse[inData2-repsData2]",
-        "uid" : "5b6759763e4eb918",
+        "name" : "test_getCourse[{\n\"studyYears\":\"2019\",\n\"subject\":\"\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}-Parameter Invalid]",
+        "uid" : "c4ecbab8ba19206f",
         "parentUid" : "0314e2e768c7051b4fe597e9bf267d6d",
         "status" : "passed",
         "time" : {
-          "start" : 1601609332238,
-          "stop" : 1601609332263,
-          "duration" : 25
+          "start" : 1601455064275,
+          "stop" : 1601455064315,
+          "duration" : 40
         },
         "flaky" : false,
-        "parameters" : [ "{'studyYears': '2019', 'subject': '', 'grades': '高一', 'version': '人教A版', 'gradeType': '0', 'courseType': '1'}", "{'code': 100002002, 'message': 'Parameter Invalid', 'data': None}" ]
+        "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}'", "'Parameter Invalid'" ]
       }, {
-        "name" : "test_getCourse[inData3-repsData3]",
-        "uid" : "9f7fe9c1e2471149",
+        "name" : "test_getCourse[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}-Parameter Invalid]",
+        "uid" : "f1315fa2b9492f3e",
         "parentUid" : "0314e2e768c7051b4fe597e9bf267d6d",
         "status" : "passed",
         "time" : {
-          "start" : 1601609332286,
-          "stop" : 1601609332308,
-          "duration" : 22
+          "start" : 1601455064337,
+          "stop" : 1601455064380,
+          "duration" : 43
         },
         "flaky" : false,
-        "parameters" : [ "{'studyYears': '2019', 'subject': '2', 'grades': '', 'version': '人教A版', 'gradeType': '0', 'courseType': '1'}", "{'code': 100002002, 'message': 'Parameter Invalid', 'data': None}" ]
+        "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}'", "'Parameter Invalid'" ]
       }, {
-        "name" : "test_getCourse[inData4-repsData4]",
-        "uid" : "f8f706091c8f7aa7",
+        "name" : "test_getCourse[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}-Parameter Invalid]",
+        "uid" : "b6c0eafc7bf9169c",
         "parentUid" : "0314e2e768c7051b4fe597e9bf267d6d",
         "status" : "passed",
         "time" : {
-          "start" : 1601609332314,
-          "stop" : 1601609332345,
-          "duration" : 31
+          "start" : 1601455064386,
+          "stop" : 1601455064414,
+          "duration" : 28
         },
         "flaky" : false,
-        "parameters" : [ "{'studyYears': '2019', 'subject': '2', 'grades': '高一', 'version': '', 'gradeType': '0', 'courseType': '1'}", "{'code': 100002002, 'message': 'Parameter Invalid', 'data': None}" ]
+        "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}'", "'Parameter Invalid'" ]
       }, {
-        "name" : "test_getCourse[inData5-repsData5]",
-        "uid" : "66852571660587f6",
+        "name" : "test_getCourse[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"\"\n}-Parameter Invalid]",
+        "uid" : "95a3cd75af25520c",
         "parentUid" : "0314e2e768c7051b4fe597e9bf267d6d",
         "status" : "passed",
         "time" : {
-          "start" : 1601609332351,
-          "stop" : 1601609332373,
-          "duration" : 22
+          "start" : 1601455064420,
+          "stop" : 1601455064448,
+          "duration" : 28
         },
         "flaky" : false,
-        "parameters" : [ "{'studyYears': '2019', 'subject': '2', 'grades': '高一', 'version': '人教A版', 'gradeType': '0', 'courseType': ''}", "{'code': 100002002, 'message': 'Parameter Invalid', 'data': None}" ]
+        "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"\"\n}'", "'Parameter Invalid'" ]
       }, {
-        "name" : "test_getCourse[inData6-repsData6]",
-        "uid" : "4cda1b9ffcd51c7d",
+        "name" : "test_getCourse[{\n\"studyYears\":\"2019,2020\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}-Success]",
+        "uid" : "4b46642536885835",
         "parentUid" : "0314e2e768c7051b4fe597e9bf267d6d",
         "status" : "passed",
         "time" : {
-          "start" : 1601609332378,
-          "stop" : 1601609332413,
-          "duration" : 35
+          "start" : 1601455064454,
+          "stop" : 1601455064498,
+          "duration" : 44
         },
         "flaky" : false,
-        "parameters" : [ "{'studyYears': '2019,2020', 'subject': '2', 'grades': '高一', 'version': '人教A版', 'gradeType': '0', 'courseType': '1'}", "{'code': 0, 'message': 'Success', 'data': [{'guid': 's206387', 'rid': '1788548', 'name': '2020年高一数学自主招生课程', 'subject': 2, 'teacherIds': '724fce5ba5694997a870d453d8f8b47b', 'teachers': '黎老师', 'version': '通用版', 'standard': 2, 'series': 1, 'grades': '高一', 'gcode': 'g1', 'coverImage': '', 'coverVideo': '', 'term': '全一册', 'level': '满分冲刺', 'studyYear': '2019', 'type': 0, 'artScience': 0, 'description': '知名高中高级数学教师，为你分析自主招生考试不同于高考的独特之处，详解自主招生考试方向、特点与规律，指点自主招生考试备考策略、方法，指明自主招生复习的方向，助力自主招生考试获得降分优惠！'}]}" ]
+        "parameters" : [ "'{\n\"studyYears\":\"2019,2020\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}'", "'Success'" ]
       }, {
-        "name" : "test_getCourse[inData7-repsData7]",
-        "uid" : "44ddad95a8dc4abe",
+        "name" : "test_getCourse[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一,高二,高三\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}-Success]",
+        "uid" : "b55619bc770d20b6",
         "parentUid" : "0314e2e768c7051b4fe597e9bf267d6d",
         "status" : "passed",
         "time" : {
-          "start" : 1601609332417,
-          "stop" : 1601609332456,
-          "duration" : 39
+          "start" : 1601455064503,
+          "stop" : 1601455064543,
+          "duration" : 40
         },
         "flaky" : false,
-        "parameters" : [ "{'studyYears': '2019', 'subject': '2', 'grades': '高一,高二,高三', 'version': '人教A版', 'gradeType': '0', 'courseType': '1'}", "{'code': 0, 'message': 'Success', 'data': [{'guid': 's206387', 'rid': '1788548', 'name': '2020年高一数学自主招生课程', 'subject': 2, 'teacherIds': '724fce5ba5694997a870d453d8f8b47b', 'teachers': '黎老师', 'version': '通用版', 'standard': 2, 'series': 1, 'grades': '高一', 'gcode': 'g1', 'coverImage': '', 'coverVideo': '', 'term': '全一册', 'level': '满分冲刺', 'studyYear': '2019', 'type': 0, 'artScience': 1, 'description': '知名高中高级数学教师，为你分析自主招生考试不同于高考的独特之处，详解自主招生考试方向、特点与规律，指点自主招生考试备考策略、方法，指明自主招生复习的方向，助力自主招生考试获得降分优惠！'}]}" ]
+        "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一,高二,高三\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}'", "'Success'" ]
       }, {
-        "name" : "test_getCourse[inData8-repsData8]",
-        "uid" : "b8c6f649b49ca75",
+        "name" : "test_getCourse[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}-Success1]",
+        "uid" : "f5f06b7155026d23",
         "parentUid" : "0314e2e768c7051b4fe597e9bf267d6d",
         "status" : "passed",
         "time" : {
-          "start" : 1601609332460,
-          "stop" : 1601609332494,
+          "start" : 1601455064572,
+          "stop" : 1601455064606,
           "duration" : 34
         },
         "flaky" : false,
-        "parameters" : [ "{'studyYears': '2019', 'subject': '2', 'grades': '高一', 'version': '人教A版', 'gradeType': '0', 'courseType': '1'}", "{'code': 0, 'message': 'Success', 'data': [{'guid': 's206387', 'rid': '1788548', 'name': '2020年高一数学自主招生课程', 'subject': 2, 'teacherIds': '724fce5ba5694997a870d453d8f8b47b', 'teachers': '黎老师', 'version': '通用版', 'standard': 2, 'series': 1, 'grades': '高一', 'gcode': 'g1', 'coverImage': '', 'coverVideo': '', 'term': '全一册', 'level': '满分冲刺', 'studyYear': '2019', 'type': 0, 'artScience': 2, 'description': '知名高中高级数学教师，为你分析自主招生考试不同于高考的独特之处，详解自主招生考试方向、特点与规律，指点自主招生考试备考策略、方法，指明自主招生复习的方向，助力自主招生考试获得降分优惠！'}]}" ]
+        "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}'", "'Success'" ]
       }, {
-        "name" : "test_getCourse[inData9-repsData9]",
-        "uid" : "edd21cd6a57123f7",
+        "name" : "test_getCourse[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"1\",\n\"courseType\":\"1\"\n}-Success]",
+        "uid" : "e5c4c5e2585c2d79",
         "parentUid" : "0314e2e768c7051b4fe597e9bf267d6d",
         "status" : "passed",
         "time" : {
-          "start" : 1601609332516,
-          "stop" : 1601609332546,
-          "duration" : 30
+          "start" : 1601455064616,
+          "stop" : 1601455064649,
+          "duration" : 33
         },
         "flaky" : false,
-        "parameters" : [ "{'studyYears': '2019', 'subject': '2', 'grades': '高一', 'version': '人教A版', 'gradeType': '1', 'courseType': '1'}", "{'code': 0, 'message': 'Success', 'data': [{'guid': 's206387', 'rid': '1788548', 'name': '2020年高一数学自主招生课程', 'subject': 2, 'teacherIds': '724fce5ba5694997a870d453d8f8b47b', 'teachers': '黎老师', 'version': '通用版', 'standard': 2, 'series': 1, 'grades': '高一', 'gcode': 'g1', 'coverImage': '', 'coverVideo': '', 'term': '全一册', 'level': '满分冲刺', 'studyYear': '2019', 'type': 0, 'artScience': 3, 'description': '知名高中高级数学教师，为你分析自主招生考试不同于高考的独特之处，详解自主招生考试方向、特点与规律，指点自主招生考试备考策略、方法，指明自主招生复习的方向，助力自主招生考试获得降分优惠！'}]}" ]
+        "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"1\",\n\"courseType\":\"1\"\n}'", "'Success'" ]
       }, {
-        "name" : "test_getCourse[inData10-repsData10]",
-        "uid" : "75a179c65fff2c13",
+        "name" : "test_getCourse[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}-Success2]",
+        "uid" : "4ccdaeb9981d24c0",
         "parentUid" : "0314e2e768c7051b4fe597e9bf267d6d",
         "status" : "passed",
         "time" : {
-          "start" : 1601609332550,
-          "stop" : 1601609332582,
-          "duration" : 32
-        },
-        "flaky" : false,
-        "parameters" : [ "{'studyYears': '2019', 'subject': '2', 'grades': '高一', 'version': '人教A版', 'gradeType': '0', 'courseType': '1'}", "{'code': 0, 'message': 'Success', 'data': [{'guid': 's206387', 'rid': '1788548', 'name': '2020年高一数学自主招生课程', 'subject': 2, 'teacherIds': '724fce5ba5694997a870d453d8f8b47b', 'teachers': '黎老师', 'version': '通用版', 'standard': 2, 'series': 1, 'grades': '高一', 'gcode': 'g1', 'coverImage': '', 'coverVideo': '', 'term': '全一册', 'level': '满分冲刺', 'studyYear': '2019', 'type': 0, 'artScience': 4, 'description': '知名高中高级数学教师，为你分析自主招生考试不同于高考的独特之处，详解自主招生考试方向、特点与规律，指点自主招生考试备考策略、方法，指明自主招生复习的方向，助力自主招生考试获得降分优惠！'}]}" ]
-      }, {
-        "name" : "test_getCourse[inData11-repsData11]",
-        "uid" : "dc3250171180c5b8",
-        "parentUid" : "0314e2e768c7051b4fe597e9bf267d6d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601609332605,
-          "stop" : 1601609332632,
-          "duration" : 27
-        },
-        "flaky" : false,
-        "parameters" : [ "{'studyYears': '2019', 'subject': '2', 'grades': '高一', 'version': '人教A版', 'gradeType': '0', 'courseType': '3'}", "{'code': 0, 'message': 'Success', 'data': [{'guid': 's206387', 'rid': '1788548', 'name': '2020年高一数学自主招生课程', 'subject': 2, 'teacherIds': '724fce5ba5694997a870d453d8f8b47b', 'teachers': '黎老师', 'version': '通用版', 'standard': 2, 'series': 1, 'grades': '高一', 'gcode': 'g1', 'coverImage': '', 'coverVideo': '', 'term': '全一册', 'level': '满分冲刺', 'studyYear': '2019', 'type': 0, 'artScience': 5, 'description': '知名高中高级数学教师，为你分析自主招生考试不同于高考的独特之处，详解自主招生考试方向、特点与规律，指点自主招生考试备考策略、方法，指明自主招生复习的方向，助力自主招生考试获得降分优惠！'}]}" ]
-      }, {
-        "name" : "test_getCourse[inData12-repsData12]",
-        "uid" : "9b1f44ae41ac82e3",
-        "parentUid" : "0314e2e768c7051b4fe597e9bf267d6d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601609332638,
-          "stop" : 1601609332664,
-          "duration" : 26
-        },
-        "flaky" : false,
-        "parameters" : [ "{'studyYears': '2019', 'subject': '2', 'grades': '高一', 'version': '人教A版', 'gradeType': '0', 'courseType': '5'}", "{'code': 0, 'message': 'Success', 'data': [{'guid': 's206387', 'rid': '1788548', 'name': '2020年高一数学自主招生课程', 'subject': 2, 'teacherIds': '724fce5ba5694997a870d453d8f8b47b', 'teachers': '黎老师', 'version': '通用版', 'standard': 2, 'series': 1, 'grades': '高一', 'gcode': 'g1', 'coverImage': '', 'coverVideo': '', 'term': '全一册', 'level': '满分冲刺', 'studyYear': '2019', 'type': 0, 'artScience': 6, 'description': '知名高中高级数学教师，为你分析自主招生考试不同于高考的独特之处，详解自主招生考试方向、特点与规律，指点自主招生考试备考策略、方法，指明自主招生复习的方向，助力自主招生考试获得降分优惠！'}]}" ]
-      }, {
-        "name" : "test_getCourse[inData13-repsData13]",
-        "uid" : "467166a68c633cf8",
-        "parentUid" : "0314e2e768c7051b4fe597e9bf267d6d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601609332670,
-          "stop" : 1601609332697,
-          "duration" : 27
-        },
-        "flaky" : false,
-        "parameters" : [ "{'studyYears': '2019', 'subject': '2', 'grades': '高一', 'version': '人教A版', 'gradeType': '0', 'courseType': '6'}", "{'code': 0, 'message': 'Success', 'data': [{'guid': 's206387', 'rid': '1788548', 'name': '2020年高一数学自主招生课程', 'subject': 2, 'teacherIds': '724fce5ba5694997a870d453d8f8b47b', 'teachers': '黎老师', 'version': '通用版', 'standard': 2, 'series': 1, 'grades': '高一', 'gcode': 'g1', 'coverImage': '', 'coverVideo': '', 'term': '全一册', 'level': '满分冲刺', 'studyYear': '2019', 'type': 0, 'artScience': 7, 'description': '知名高中高级数学教师，为你分析自主招生考试不同于高考的独特之处，详解自主招生考试方向、特点与规律，指点自主招生考试备考策略、方法，指明自主招生复习的方向，助力自主招生考试获得降分优惠！'}]}" ]
-      }, {
-        "name" : "test_getCourse[inData14-repsData14]",
-        "uid" : "af2d4d19a972dbd7",
-        "parentUid" : "0314e2e768c7051b4fe597e9bf267d6d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601609332704,
-          "stop" : 1601609332731,
-          "duration" : 27
-        },
-        "flaky" : false,
-        "parameters" : [ "{'studyYears': '2019', 'subject': '2', 'grades': '高一', 'version': '人教A版', 'gradeType': '0', 'courseType': '7'}", "{'code': 0, 'message': 'Success', 'data': [{'guid': 's206387', 'rid': '1788548', 'name': '2020年高一数学自主招生课程', 'subject': 2, 'teacherIds': '724fce5ba5694997a870d453d8f8b47b', 'teachers': '黎老师', 'version': '通用版', 'standard': 2, 'series': 1, 'grades': '高一', 'gcode': 'g1', 'coverImage': '', 'coverVideo': '', 'term': '全一册', 'level': '满分冲刺', 'studyYear': '2019', 'type': 0, 'artScience': 8, 'description': '知名高中高级数学教师，为你分析自主招生考试不同于高考的独特之处，详解自主招生考试方向、特点与规律，指点自主招生考试备考策略、方法，指明自主招生复习的方向，助力自主招生考试获得降分优惠！'}]}" ]
-      }, {
-        "name" : "test_getCourse[inData15-repsData15]",
-        "uid" : "e594963c2d882b57",
-        "parentUid" : "0314e2e768c7051b4fe597e9bf267d6d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1601609332737,
-          "stop" : 1601609332768,
+          "start" : 1601455064655,
+          "stop" : 1601455064686,
           "duration" : 31
         },
         "flaky" : false,
-        "parameters" : [ "{'studyYears': '2019', 'subject': '2', 'grades': '高一', 'version': '人教A版', 'gradeType': '0', 'courseType': '8'}", "{'code': 0, 'message': 'Success', 'data': [{'guid': 's206387', 'rid': '1788548', 'name': '2020年高一数学自主招生课程', 'subject': 2, 'teacherIds': '724fce5ba5694997a870d453d8f8b47b', 'teachers': '黎老师', 'version': '通用版', 'standard': 2, 'series': 1, 'grades': '高一', 'gcode': 'g1', 'coverImage': '', 'coverVideo': '', 'term': '全一册', 'level': '满分冲刺', 'studyYear': '2019', 'type': 0, 'artScience': 9, 'description': '知名高中高级数学教师，为你分析自主招生考试不同于高考的独特之处，详解自主招生考试方向、特点与规律，指点自主招生考试备考策略、方法，指明自主招生复习的方向，助力自主招生考试获得降分优惠！'}]}" ]
+        "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"1\"\n}'", "'Success'" ]
+      }, {
+        "name" : "test_getCourse[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"3\"\n}-Success]",
+        "uid" : "54c2712aa192c45f",
+        "parentUid" : "0314e2e768c7051b4fe597e9bf267d6d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601455064692,
+          "stop" : 1601455064722,
+          "duration" : 30
+        },
+        "flaky" : false,
+        "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"3\"\n}'", "'Success'" ]
+      }, {
+        "name" : "test_getCourse[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"5\"\n}-Success]",
+        "uid" : "c0223fe54bc797a9",
+        "parentUid" : "0314e2e768c7051b4fe597e9bf267d6d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601455064727,
+          "stop" : 1601455064754,
+          "duration" : 27
+        },
+        "flaky" : false,
+        "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"5\"\n}'", "'Success'" ]
+      }, {
+        "name" : "test_getCourse[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"6\"\n}-Success]",
+        "uid" : "bc99fd2588032002",
+        "parentUid" : "0314e2e768c7051b4fe597e9bf267d6d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601455064776,
+          "stop" : 1601455064806,
+          "duration" : 30
+        },
+        "flaky" : false,
+        "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"6\"\n}'", "'Success'" ]
+      }, {
+        "name" : "test_getCourse[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"7\"\n}-Success]",
+        "uid" : "64ca27512f7468a5",
+        "parentUid" : "0314e2e768c7051b4fe597e9bf267d6d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601455064811,
+          "stop" : 1601455064846,
+          "duration" : 35
+        },
+        "flaky" : false,
+        "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"7\"\n}'", "'Success'" ]
+      }, {
+        "name" : "test_getCourse[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"8\"\n}-Success]",
+        "uid" : "922db7d5ca9fec15",
+        "parentUid" : "0314e2e768c7051b4fe597e9bf267d6d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601455064851,
+          "stop" : 1601455064879,
+          "duration" : 28
+        },
+        "flaky" : false,
+        "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"gradeType\":\"0\",\n\"courseType\":\"8\"\n}'", "'Success'" ]
       } ],
       "uid" : "0314e2e768c7051b4fe597e9bf267d6d"
     }, {
       "name" : "获取学期模块",
       "children" : [ {
         "name" : "test_getTerm[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"enrolTime\":\"03-2019\",\n\"location\":\"北京\"\n}-Success]",
-        "uid" : "e28233045711910b",
+        "uid" : "3cdae29beafc341",
         "parentUid" : "ee0c4a05f472ede76263ad9e1d6a11c2",
         "status" : "passed",
         "time" : {
-          "start" : 1601609332773,
-          "stop" : 1601609332803,
-          "duration" : 30
+          "start" : 1601455064900,
+          "stop" : 1601455064928,
+          "duration" : 28
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"enrolTime\":\"03-2019\",\n\"location\":\"北京\"\n}'", "'Success'" ]
       }, {
         "name" : "test_getTerm[{\n\"studyYears\":\"\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"enrolTime\":\"03-2019\",\n\"location\":\"北京\"\n}-Parameter Invalid]",
-        "uid" : "a20b63ef6e1cb279",
+        "uid" : "5f88ce656fd06682",
         "parentUid" : "ee0c4a05f472ede76263ad9e1d6a11c2",
         "status" : "passed",
         "time" : {
-          "start" : 1601609332807,
-          "stop" : 1601609332846,
-          "duration" : 39
+          "start" : 1601455064932,
+          "stop" : 1601455064956,
+          "duration" : 24
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"studyYears\":\"\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"enrolTime\":\"03-2019\",\n\"location\":\"北京\"\n}'", "'Parameter Invalid'" ]
       }, {
         "name" : "test_getTerm[{\n\"studyYears\":\"2019\",\n\"subject\":\"\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"enrolTime\":\"03-2019\",\n\"location\":\"北京\"\n}-Parameter Invalid]",
-        "uid" : "1b9cbe2dceb212b6",
+        "uid" : "93ac4ab4f6d26ccc",
         "parentUid" : "ee0c4a05f472ede76263ad9e1d6a11c2",
         "status" : "passed",
         "time" : {
-          "start" : 1601609332852,
-          "stop" : 1601609332879,
-          "duration" : 27
+          "start" : 1601455064963,
+          "stop" : 1601455064987,
+          "duration" : 24
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"enrolTime\":\"03-2019\",\n\"location\":\"北京\"\n}'", "'Parameter Invalid'" ]
       }, {
         "name" : "test_getTerm[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"\",\n\"version\":\"人教A版\",\n\"enrolTime\":\"03-2019\",\n\"location\":\"北京\"\n}-Parameter Invalid]",
-        "uid" : "fcb4ef9d91c30381",
+        "uid" : "a592cc4d685eb059",
         "parentUid" : "ee0c4a05f472ede76263ad9e1d6a11c2",
         "status" : "passed",
         "time" : {
-          "start" : 1601609332885,
-          "stop" : 1601609332911,
-          "duration" : 26
+          "start" : 1601455065008,
+          "stop" : 1601455065036,
+          "duration" : 28
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"\",\n\"version\":\"人教A版\",\n\"enrolTime\":\"03-2019\",\n\"location\":\"北京\"\n}'", "'Parameter Invalid'" ]
       }, {
         "name" : "test_getTerm[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"\",\n\"enrolTime\":\"03-2019\",\n\"location\":\"北京\"\n}-Parameter Invalid]",
-        "uid" : "6999a90f6d4e25f",
+        "uid" : "8c1621e637ae4acb",
         "parentUid" : "ee0c4a05f472ede76263ad9e1d6a11c2",
         "status" : "passed",
         "time" : {
-          "start" : 1601609332917,
-          "stop" : 1601609332943,
-          "duration" : 26
+          "start" : 1601455065042,
+          "stop" : 1601455065081,
+          "duration" : 39
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"\",\n\"enrolTime\":\"03-2019\",\n\"location\":\"北京\"\n}'", "'Parameter Invalid'" ]
       }, {
         "name" : "test_getTerm[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"enrolTime\":\"\",\n\"location\":\"北京\"\n}-Parameter Invalid]",
-        "uid" : "e0dd4333b24477f9",
+        "uid" : "983a8e7266bf3af7",
         "parentUid" : "ee0c4a05f472ede76263ad9e1d6a11c2",
         "status" : "passed",
         "time" : {
-          "start" : 1601609332947,
-          "stop" : 1601609332973,
-          "duration" : 26
+          "start" : 1601455065090,
+          "stop" : 1601455065125,
+          "duration" : 35
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"enrolTime\":\"\",\n\"location\":\"北京\"\n}'", "'Parameter Invalid'" ]
       }, {
         "name" : "test_getTerm[{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"enrolTime\":\"03-2019\",\n\"location\":\"\"\n}-Parameter Invalid]",
-        "uid" : "ec0e287f4156f",
+        "uid" : "2801e7f67def4124",
         "parentUid" : "ee0c4a05f472ede76263ad9e1d6a11c2",
         "status" : "passed",
         "time" : {
-          "start" : 1601609332977,
-          "stop" : 1601609333003,
-          "duration" : 26
+          "start" : 1601455065135,
+          "stop" : 1601455065175,
+          "duration" : 40
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"studyYears\":\"2019\",\n\"subject\":\"2\",\n\"grades\":\"高一\",\n\"version\":\"人教A版\",\n\"enrolTime\":\"03-2019\",\n\"location\":\"\"\n}'", "'Parameter Invalid'" ]
@@ -647,61 +407,61 @@
       "name" : "公共获取教材",
       "children" : [ {
         "name" : "test_getTextbook[{\n\"subject\":\"数学\",\n\"grade\":\"初中\",\n\"version\":\"人教版\",\n\"studyYear\":\"2019\"\n}-Success]",
-        "uid" : "8dcf01e5f743fd4a",
+        "uid" : "c622855e792f4e54",
         "parentUid" : "967c282cbc08450896c734d05b4f667e",
         "status" : "passed",
         "time" : {
-          "start" : 1601609333008,
-          "stop" : 1601609333037,
-          "duration" : 29
+          "start" : 1601455065186,
+          "stop" : 1601455065223,
+          "duration" : 37
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"subject\":\"数学\",\n\"grade\":\"初中\",\n\"version\":\"人教版\",\n\"studyYear\":\"2019\"\n}'", "'Success'" ]
       }, {
         "name" : "test_getTextbook[{\n\"subject\":\"\",\n\"grade\":\"初中\",\n\"version\":\"人教版\",\n\"studyYear\":\"2019\"\n}-Parameter Invalid]",
-        "uid" : "7c6e27dcca939c1f",
+        "uid" : "f801f27b4e442bb9",
         "parentUid" : "967c282cbc08450896c734d05b4f667e",
         "status" : "passed",
         "time" : {
-          "start" : 1601609333041,
-          "stop" : 1601609333066,
-          "duration" : 25
+          "start" : 1601455065250,
+          "stop" : 1601455065288,
+          "duration" : 38
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"subject\":\"\",\n\"grade\":\"初中\",\n\"version\":\"人教版\",\n\"studyYear\":\"2019\"\n}'", "'Parameter Invalid'" ]
       }, {
         "name" : "test_getTextbook[{\n\"subject\":\"数学\",\n\"grade\":\"\",\n\"version\":\"人教版\",\n\"studyYear\":\"2019\"\n}-Parameter Invalid]",
-        "uid" : "32e9a969d7645b65",
+        "uid" : "3efd21fd124a6c9",
         "parentUid" : "967c282cbc08450896c734d05b4f667e",
         "status" : "passed",
         "time" : {
-          "start" : 1601609333072,
-          "stop" : 1601609333098,
-          "duration" : 26
+          "start" : 1601455065299,
+          "stop" : 1601455065330,
+          "duration" : 31
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"subject\":\"数学\",\n\"grade\":\"\",\n\"version\":\"人教版\",\n\"studyYear\":\"2019\"\n}'", "'Parameter Invalid'" ]
       }, {
         "name" : "test_getTextbook[{\n\"subject\":\"数学\",\n\"grade\":\"初中\",\n\"version\":\"\",\n\"studyYear\":\"2019\"\n}-Parameter Invalid]",
-        "uid" : "c288353cebaa8779",
+        "uid" : "9f5cabe9af3d7203",
         "parentUid" : "967c282cbc08450896c734d05b4f667e",
         "status" : "passed",
         "time" : {
-          "start" : 1601609333103,
-          "stop" : 1601609333129,
-          "duration" : 26
+          "start" : 1601455065337,
+          "stop" : 1601455065381,
+          "duration" : 44
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"subject\":\"数学\",\n\"grade\":\"初中\",\n\"version\":\"\",\n\"studyYear\":\"2019\"\n}'", "'Parameter Invalid'" ]
       }, {
         "name" : "test_getTextbook[{\n\"subject\":\"数学\",\n\"grade\":\"初中\",\n\"version\":\"人教版\",\n\"studyYear\":\"\"\n}-Parameter Invalid]",
-        "uid" : "ce2e417757059848",
+        "uid" : "6793241692e91954",
         "parentUid" : "967c282cbc08450896c734d05b4f667e",
         "status" : "passed",
         "time" : {
-          "start" : 1601609333134,
-          "stop" : 1601609333159,
-          "duration" : 25
+          "start" : 1601455065388,
+          "stop" : 1601455065420,
+          "duration" : 32
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"subject\":\"数学\",\n\"grade\":\"初中\",\n\"version\":\"人教版\",\n\"studyYear\":\"\"\n}'", "'Parameter Invalid'" ]
@@ -711,61 +471,61 @@
       "name" : "获取版本数据",
       "children" : [ {
         "name" : "test_getVersion[{\n\"subject\":\"数学\",\n\"grade\":\"初中\",\n\"gradeType\":\"0\",\n\"studyYears\":\"2019\",\n\"courseType\":\"1\"\n}-Success]",
-        "uid" : "c0a3bf25a77ab487",
+        "uid" : "71f0e1d4c553c38a",
         "parentUid" : "336239884d32d2e27852bf5af108d44e",
         "status" : "passed",
         "time" : {
-          "start" : 1601609333164,
-          "stop" : 1601609333199,
-          "duration" : 35
+          "start" : 1601455065451,
+          "stop" : 1601455065504,
+          "duration" : 53
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"subject\":\"数学\",\n\"grade\":\"初中\",\n\"gradeType\":\"0\",\n\"studyYears\":\"2019\",\n\"courseType\":\"1\"\n}'", "'Success'" ]
       }, {
         "name" : "test_getVersion[{\n\"subject\":\"\",\n\"grade\":\"初中\",\n\"gradeType\":\"0\",\n\"studyYears\":\"2019\",\n\"courseType\":\"1\"\n}-Parameter Invalid]",
-        "uid" : "f665203123115f08",
+        "uid" : "392fdea10e449473",
         "parentUid" : "336239884d32d2e27852bf5af108d44e",
         "status" : "passed",
         "time" : {
-          "start" : 1601609333206,
-          "stop" : 1601609333232,
-          "duration" : 26
+          "start" : 1601455065516,
+          "stop" : 1601455065546,
+          "duration" : 30
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"subject\":\"\",\n\"grade\":\"初中\",\n\"gradeType\":\"0\",\n\"studyYears\":\"2019\",\n\"courseType\":\"1\"\n}'", "'Parameter Invalid'" ]
       }, {
         "name" : "test_getVersion[{\n\"subject\":\"数学\",\n\"grade\":\"\",\n\"gradeType\":\"0\",\n\"studyYears\":\"2019\",\n\"courseType\":\"1\"\n}-Parameter Invalid]",
-        "uid" : "5f3b013d55f2119e",
+        "uid" : "864f1ba6ea550b9b",
         "parentUid" : "336239884d32d2e27852bf5af108d44e",
         "status" : "passed",
         "time" : {
-          "start" : 1601609333240,
-          "stop" : 1601609333266,
-          "duration" : 26
+          "start" : 1601455065579,
+          "stop" : 1601455065622,
+          "duration" : 43
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"subject\":\"数学\",\n\"grade\":\"\",\n\"gradeType\":\"0\",\n\"studyYears\":\"2019\",\n\"courseType\":\"1\"\n}'", "'Parameter Invalid'" ]
       }, {
         "name" : "test_getVersion[{\n\"subject\":\"数学\",\n\"grade\":\"初中\",\n\"gradeType\":\"\",\n\"studyYears\":\"2019\",\n\"courseType\":\"1\"\n}-Success]",
-        "uid" : "504c5225835175e7",
+        "uid" : "3bf1ea7cbb8c7a3c",
         "parentUid" : "336239884d32d2e27852bf5af108d44e",
         "status" : "passed",
         "time" : {
-          "start" : 1601609333271,
-          "stop" : 1601609333307,
-          "duration" : 36
+          "start" : 1601455065633,
+          "stop" : 1601455065678,
+          "duration" : 45
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"subject\":\"数学\",\n\"grade\":\"初中\",\n\"gradeType\":\"\",\n\"studyYears\":\"2019\",\n\"courseType\":\"1\"\n}'", "'Success'" ]
       }, {
         "name" : "test_getVersion[{\n\"subject\":\"数学\",\n\"grade\":\"初中\",\n\"gradeType\":\"0\",\n\"studyYears\":\"\",\n\"courseType\":\"1\"\n}-Parameter Invalid]",
-        "uid" : "d6280d065ba2948a",
+        "uid" : "f4c525bda85f5e9e",
         "parentUid" : "336239884d32d2e27852bf5af108d44e",
         "status" : "passed",
         "time" : {
-          "start" : 1601609333311,
-          "stop" : 1601609333338,
-          "duration" : 27
+          "start" : 1601455065685,
+          "stop" : 1601455065721,
+          "duration" : 36
         },
         "flaky" : false,
         "parameters" : [ "'{\n\"subject\":\"数学\",\n\"grade\":\"初中\",\n\"gradeType\":\"0\",\n\"studyYears\":\"\",\n\"courseType\":\"1\"\n}'", "'Parameter Invalid'" ]
@@ -773,5 +533,21 @@
       "uid" : "336239884d32d2e27852bf5af108d44e"
     } ],
     "uid" : "3bcb2cc5fc358e465476b5500a845a01"
+  }, {
+    "name" : "获取教师资质信息",
+    "children" : [ {
+      "name" : "test_getQualificationInfo2",
+      "uid" : "7e9795fbb28ca1af",
+      "parentUid" : "04d51ca7bf7d425ce47ff96aeef9c537",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601455065864,
+        "stop" : 1601455065974,
+        "duration" : 110
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "04d51ca7bf7d425ce47ff96aeef9c537"
   } ]
 }

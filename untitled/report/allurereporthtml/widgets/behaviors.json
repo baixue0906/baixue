@@ -1,5 +1,5 @@
 {
-  "total" : 2,
+  "total" : 3,
   "items" : [ {
     "uid" : "09d3a10e4ce623f7b9ab556dd67ff47d",
     "name" : "教师信息模块",
@@ -21,6 +21,17 @@
       "passed" : 4,
       "unknown" : 0,
       "total" : 4
+    }
+  }, {
+    "uid" : "04d51ca7bf7d425ce47ff96aeef9c537",
+    "name" : "获取教师资质信息",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
     }
   } ]
 }
