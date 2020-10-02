@@ -1,0 +1,97 @@
+{
+  "uid" : "89a6399c2d6937a",
+  "name" : "test_addTeacher1[inData1-repsData1]",
+  "fullName" : "test_case.test_addTeacher.Test_addTeacher#test_addTeacher1",
+  "historyId" : "3a2ea88357b1fc036578ad7bbc8f47fd",
+  "time" : {
+    "start" : 1601609331934,
+    "stop" : 1601609331961,
+    "duration" : 27
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1601609331734,
+      "stop" : 1601609331853,
+      "duration" : 119
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1601609332145,
+      "stop" : 1601609332145,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "添加教师接口"
+  }, {
+    "name" : "feature",
+    "value" : "教师信息模块"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_addTeacher"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_addTeacher"
+  }, {
+    "name" : "host",
+    "value" : "et-201809131052"
+  }, {
+    "name" : "thread",
+    "value" : "2476-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_addTeacher"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "inData",
+    "value" : "{'display_name': '', 'real_name': '真是一号', 'tech_subject': '科目一号', 'tech_grade': '高一'}"
+  }, {
+    "name" : "repsData",
+    "value" : "{'code': 100002001, 'message': '缺少必要的参数', 'data': None}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "89a6399c2d6937a.json",
+  "parameterValues" : [ "{'display_name': '', 'real_name': '真是一号', 'tech_subject': '科目一号', 'tech_grade': '高一'}", "{'code': 100002001, 'message': '缺少必要的参数', 'data': None}" ]
+}

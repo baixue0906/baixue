@@ -1,0 +1,64 @@
+{
+  "uid" : "f8f706091c8f7aa7",
+  "name" : "test_getCourse[inData4-repsData4]",
+  "fullName" : "test_case.test_getCourse#test_getCourse",
+  "historyId" : "fef783e84da259cb0979583ce928f4e7",
+  "time" : {
+    "start" : 1601609332314,
+    "stop" : 1601609332345,
+    "duration" : 31
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "课程数据模块"
+  }, {
+    "name" : "story",
+    "value" : "公共获取销售课"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_getCourse"
+  }, {
+    "name" : "host",
+    "value" : "et-201809131052"
+  }, {
+    "name" : "thread",
+    "value" : "2476-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_getCourse"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "inData",
+    "value" : "{'studyYears': '2019', 'subject': '2', 'grades': '高一', 'version': '', 'gradeType': '0', 'courseType': '1'}"
+  }, {
+    "name" : "repsData",
+    "value" : "{'code': 100002002, 'message': 'Parameter Invalid', 'data': None}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f8f706091c8f7aa7.json",
+  "parameterValues" : [ "{'studyYears': '2019', 'subject': '2', 'grades': '高一', 'version': '', 'gradeType': '0', 'courseType': '1'}", "{'code': 100002002, 'message': 'Parameter Invalid', 'data': None}" ]
+}

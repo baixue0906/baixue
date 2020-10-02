@@ -33,7 +33,7 @@ def get_excelData2(sheetName,caseName,col1,col2):
     '''
     resList = []
     #1-excel表路径
-    excelDir = r"/Users/baixue/master/untitled/data/testcase.xlsx"
+    excelDir = r'C:\Users\baixue\PycharmProjects\untitled\data\testcase.xlsx'
     # excelDir = '../data/testcase.xlsx'
     #2- 打开excel对象--formatting_info=True  保持样式
     workBook = xlrd.open_workbook(excelDir)
@@ -54,7 +54,7 @@ def get_excelData2(sheetName,caseName,col1,col2):
 
 
 if __name__ == '__main__':
-    result = get_excelData2('getCourse','Course',9,11)
+    result = get_excelData2('Updateteacher','Update',9,11)
     # print(result)
     # for one in get_excelData2('Teacherlist1','list'):
     #         print(one)

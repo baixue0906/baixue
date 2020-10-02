@@ -1,0 +1,112 @@
+{
+  "uid" : "c1bc35c3af726274",
+  "name" : "test_updateTeacher2[inData10-repsData10]",
+  "fullName" : "test_case.test_updateTeacher.Test_updateTeacher#test_updateTeacher2",
+  "historyId" : "dbd15bd384cbfcaf9ac87038ea12a071",
+  "time" : {
+    "start" : 1601609335641,
+    "stop" : 1601609335671,
+    "duration" : 30
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1601609333825,
+      "stop" : 1601609333903,
+      "duration" : 78
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "update_teacher_init",
+    "time" : {
+      "start" : 1601609335510,
+      "stop" : 1601609335639,
+      "duration" : 129
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1601609336542,
+      "stop" : 1601609336542,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "修改教师接口"
+  }, {
+    "name" : "feature",
+    "value" : "教师信息模块"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_updateTeacher"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_updateTeacher"
+  }, {
+    "name" : "host",
+    "value" : "et-201809131052"
+  }, {
+    "name" : "thread",
+    "value" : "2476-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_updateTeacher"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "inData",
+    "value" : "{'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'display_name': '测试化学老师展示姓名贰', 'real_name': '测试化学老师', 'tech_subject': '科学,生物,化学', 'tech_grade': '小学', 'sex': '2', 'is_taught': '1', 'id_num': '110109000000000000', 'certificate_num': '', 'style_method': '', 'background_resume': '', 'course_url': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualification_url': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificate_url': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'is_display': '0', 'level': '化学高级教师职务', 'middle_size_url': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg'}"
+  }, {
+    "name" : "repsData",
+    "value" : "{'code': 0, 'message': 'Success', 'data': {'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'displayName': '测试化学老师展示姓名贰', 'realName': '测试化学老师', 'techSubject': '科学,生物,化学', 'techGrade': '小学', 'sex': 2, 'isTaught': 1, 'IDNum': '110109000000000000', 'certificateNum': '', 'styleMethod': '', 'backgroundResume': '', 'courseUrl': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualificationUrl': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificateUrl': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'middleSizeUrl': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg', 'level': '', 'isDisplay': 0, 'insertTime': '2020-07-02 06:01:46', 'updateTime': '2020-10-02 02:32:17'}}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c1bc35c3af726274.json",
+  "parameterValues" : [ "{'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'display_name': '测试化学老师展示姓名贰', 'real_name': '测试化学老师', 'tech_subject': '科学,生物,化学', 'tech_grade': '小学', 'sex': '2', 'is_taught': '1', 'id_num': '110109000000000000', 'certificate_num': '', 'style_method': '', 'background_resume': '', 'course_url': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualification_url': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificate_url': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'is_display': '0', 'level': '化学高级教师职务', 'middle_size_url': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg'}", "{'code': 0, 'message': 'Success', 'data': {'guid': '3fb12575a81d4f14965b5484b74ac4a2', 'displayName': '测试化学老师展示姓名贰', 'realName': '测试化学老师', 'techSubject': '科学,生物,化学', 'techGrade': '小学', 'sex': 2, 'isTaught': 1, 'IDNum': '110109000000000000', 'certificateNum': '', 'styleMethod': '', 'backgroundResume': '', 'courseUrl': 'https://jdspace.jd100.com/teachers/cd25d54e-b021-498f-8d62-f6355f721722.jpg', 'qualificationUrl': 'https://jdspace.jd100.com/teachers/966ba4b5-b947-429a-a860-ce5f99f7062a.jpg', 'certificateUrl': 'https://jdspace.jd100.com/teachers/ecd3d48f-eb8a-4798-86ea-51648b9de096.jpg', 'middleSizeUrl': 'https://jdspace.jd100.com/teachers/9e4966fc-bfe6-4e3f-b3a2-0a4ec59d07df.jpg', 'level': '', 'isDisplay': 0, 'insertTime': '2020-07-02 06:01:46', 'updateTime': '2020-10-02 02:32:17'}}" ]
+}

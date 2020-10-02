@@ -1,0 +1,3 @@
+SELECT * from W_TeacherInfo WHERE guid = '006e6fa6aa6049ba8d70853235b466fd'
+006e6fa6aa6049ba8d70853235b466fd
+获取老师接口数据库数据对比成功

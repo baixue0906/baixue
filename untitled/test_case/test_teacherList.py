@@ -28,8 +28,8 @@ class Test_teacherList:
         res = teacherInfo().api_teacherList({'opterToken':self.opterToken})
         GUID= res['data'][1]['guid']
 
-        sql = ("SELECT * from W_TeacherInfo WHERE guid ='%s'"%(GUID))
-        # sql = "SELECT * from W_TeacherInfo WHERE guid = f'{GUID}'"
+        # sql = ("SELECT * from W_TeacherInfo WHERE guid ='%s'"%(GUID))
+        sql = f"SELECT * from W_TeacherInfo WHERE guid = '{GUID}'"
         # sql = 'SELECT * from W_TeacherInfo WHERE guid ="'+GUID+'"'
         print(sql)
         a=OperationMysql().search_one(sql)

@@ -1,0 +1,61 @@
+{
+  "uid" : "218501426477cc13",
+  "name" : "test_getQualificationInfo1",
+  "fullName" : "test_case.test_qualificationinfo.Test_qualificationInfo#test_getQualificationInfo1",
+  "historyId" : "cba7a377f06e25cd5f33771c3741d141",
+  "time" : {
+    "start" : 1601609333343,
+    "stop" : 1601609333469,
+    "duration" : 126
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "教师信息模块"
+  }, {
+    "name" : "story",
+    "value" : "获取教师资质信息"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_qualificationinfo"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_qualificationInfo"
+  }, {
+    "name" : "host",
+    "value" : "et-201809131052"
+  }, {
+    "name" : "thread",
+    "value" : "2476-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_qualificationinfo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "218501426477cc13.json",
+  "parameterValues" : [ ]
+}
