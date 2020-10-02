@@ -13,10 +13,10 @@ class Test_addTeacher:
         self.tmptoken = TeacherList().test_gettmptoken()
         self.opterToken = TeacherList().test_gettoken()
 
-    @pytest.mark.parametrize("inData,repsData", get_excelData2('Addteacher','Add',9,11))
-    def test_addTeacher1(self,inData,repsData):
-        res = teacherInfo().api_addTeacher(self.opterToken,inData)
-        assert res['message'] == repsData['message']
+    # @pytest.mark.parametrize("inData,repsData", get_excelData2('Addteacher','Add',9,11))
+    # def test_addTeacher1(self,inData,repsData):
+    #     res = teacherInfo().api_addTeacher(self.opterToken,inData)
+    #     assert res['message'] == repsData['message']
 
     @pytest.mark.parametrize("inData,repsData", get_excelData('Addteacher',1,2,9,11))
     def test_addTeacher2(self,inData,repsData):
