@@ -3,7 +3,6 @@ from Lib.Lib_common.get_exceldata import get_excelData2
 from Lib.Lib_api.api_teacherInfo import teacherInfo
 from Lib.Lib_common.get_token import *
 import allure
-import json
 from Lib.Lib_common.compareDatabase import OperationMysql
 
 @allure.feature('教师信息模块')
@@ -29,12 +28,8 @@ class Test_teacherList:
         res = teacherInfo().api_teacherList({'opterToken':self.opterToken})
         GUID= res['data'][1]['guid']
 
-<<<<<<< HEAD
-        # sql = ("SELECT * from W_TeacherInfo WHERE guid ='%s'"%(GUID))
-        sql = f"SELECT * from W_TeacherInfo WHERE guid = '{GUID}'"
-=======
         sql = ("SELECT * from W_TeacherInfo WHERE guid ='%s'"%(GUID))
->>>>>>> tmp
+        # sql = "SELECT * from W_TeacherInfo WHERE guid = f'{GUID}'"
         # sql = 'SELECT * from W_TeacherInfo WHERE guid ="'+GUID+'"'
         print(sql)
         a=OperationMysql().search_one(sql)

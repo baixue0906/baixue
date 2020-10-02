@@ -1,4 +1,0 @@
-4d7b756846b64350accf0d1368605d16
-SELECT * from W_TeacherInfo WHERE guid ="4d7b756846b64350accf0d1368605d16"
-4d7b756846b64350accf0d1368605d16
-添加老师接口数据库数据对比成功

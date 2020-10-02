@@ -1,0 +1,97 @@
+{
+  "uid" : "9fff56a657d7b071",
+  "name" : "test_updateTeacher[inData0-repsData0]",
+  "fullName" : "test_case.test_updateTeacher.Test_updateTeacher#test_updateTeacher",
+  "historyId" : "bbff303779587f89fdc43a509d07668c",
+  "time" : {
+    "start" : 1601455066601,
+    "stop" : 1601455066668,
+    "duration" : 67
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1601455066471,
+      "stop" : 1601455066600,
+      "duration" : 129
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1601455066728,
+      "stop" : 1601455066728,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "修改教师接口"
+  }, {
+    "name" : "feature",
+    "value" : "教师信息模块"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_updateTeacher"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_updateTeacher"
+  }, {
+    "name" : "host",
+    "value" : "et-201809131052"
+  }, {
+    "name" : "thread",
+    "value" : "11540-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_updateTeacher"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "inData",
+    "value" : "{'guid': 'b915c7bc6d4a4344a76d4a69286d9c9e', 'display_name': '添加一号', 'real_name': '真是一号', 'tech_subject': '科目一号', 'tech_grade': '高一'}"
+  }, {
+    "name" : "repsData",
+    "value" : "{'code': 0, 'message': 'Success', 'data': {'guid': '5d672520f71444ecb2ac9e3d9a89f7f9', 'displayName': '测试edit1', 'realName': '测试', 'techSubject': '语文', 'techGrade': '高一', 'sex': 0, 'isTaught': 0, 'IDNum': '', 'certificateNum': '', 'styleMethod': '', 'backgroundResume': '', 'courseUrl': '', 'qualificationUrl': '', 'certificateUrl': '', 'middleSizeUrl': '', 'level': '', 'isDisplay': 0, 'insertTime': '2020-09-30 07:49:51', 'updateTime': '2020-09-30 07:49:55'}}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9fff56a657d7b071.json",
+  "parameterValues" : [ "{'guid': 'b915c7bc6d4a4344a76d4a69286d9c9e', 'display_name': '添加一号', 'real_name': '真是一号', 'tech_subject': '科目一号', 'tech_grade': '高一'}", "{'code': 0, 'message': 'Success', 'data': {'guid': '5d672520f71444ecb2ac9e3d9a89f7f9', 'displayName': '测试edit1', 'realName': '测试', 'techSubject': '语文', 'techGrade': '高一', 'sex': 0, 'isTaught': 0, 'IDNum': '', 'certificateNum': '', 'styleMethod': '', 'backgroundResume': '', 'courseUrl': '', 'qualificationUrl': '', 'certificateUrl': '', 'middleSizeUrl': '', 'level': '', 'isDisplay': 0, 'insertTime': '2020-09-30 07:49:51', 'updateTime': '2020-09-30 07:49:55'}}" ]
+}

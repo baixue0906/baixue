@@ -1,0 +1,4 @@
+44eb1379dfd942e1b27ef200c0f7e0d6
+SELECT * from W_TeacherInfo WHERE guid ="44eb1379dfd942e1b27ef200c0f7e0d6"
+44eb1379dfd942e1b27ef200c0f7e0d6
+添加老师接口数据库数据对比成功
