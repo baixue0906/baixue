@@ -1,6 +1,6 @@
 # conftest.py
 # 2020/10/1 1:37 下午
-#环境初始化操作
+#环境初始化操作baixue提交1002
 
 import pytest
 from Lib.Lib_api.api_getOpterToken import *
